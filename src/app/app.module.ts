@@ -12,6 +12,7 @@ import { HeaderComponent } from './navigation/header/header.component';
 import { SidenavListComponent } from './navigation/sidenav-list/sidenav-list.component';
 import { AccountComponent } from './account/account.component';
 import { OwnerComponent } from './owner/owner.component';
+import { ContentLayoutComponent } from './content-layout/content-layout.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { OwnerComponent } from './owner/owner.component';
     HeaderComponent,
     SidenavListComponent,
     AccountComponent,
-    OwnerComponent
+    OwnerComponent,
+    ContentLayoutComponent
   ],
   imports: [
     BrowserModule,
