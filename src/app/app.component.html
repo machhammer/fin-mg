@@ -1,13 +1,15 @@
-<body class="mat-typography">
-  <h1>Hello, world!</h1>
-  
-  <h1 class="mat-display-1">Jackdaws love my big sphinx of quartz.</h1>
-  <h2 class="mat-h2">The quick brown fox jumps over the lazy dog.</h2>
 
+<app-layout>
+  <mat-sidenav-container>
+    <mat-sidenav #sidenav role="navigation">
+      <app-sidenav-list (sidenavClose)="sidenav.close()"></app-sidenav-list>
+    </mat-sidenav>
+    <mat-sidenav-content>
+      <app-header (sidenavToggle)="sidenav.toggle()"></app-header>
+      <main>
+        <router-outlet></router-outlet>
+      </main>
+    </mat-sidenav-content>
+  </mat-sidenav-container>
+</app-layout>
 
-
-<!-- Applying the mat-tyography class adds styles for native elements. -->
-<section class="mat-typography">
-  <h1>This header will be styled</h1>
-</section>
-</body>
