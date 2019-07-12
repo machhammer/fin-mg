@@ -13,7 +13,7 @@
       <a matline>Example</a>
     </mat-list-item>
     <mat-menu #menu="matMenu">
-      <button mat-menu-item routerLink="/owner" (click)="onSidenavClose()">View profile</button>
+      <button mat-menu-item [routerLink]="['/content',{outlets:{O1:'/o1'}}]" (click)="onSidenavClose()">View profile</button>
       <button mat-menu-item (click)="onSidenavClose()">Add contact</button>
     </mat-menu>
   </mat-nav-list>

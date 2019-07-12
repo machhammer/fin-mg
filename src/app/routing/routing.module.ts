@@ -5,17 +5,36 @@ import { HomeComponent } from '../home/home.component';
 import { AccountComponent } from '../account/account.component';
 import { OwnerComponent } from '../owner/owner.component';
 import { ContentLayoutComponent } from '../content-layout/content-layout.component';
+import { ContentCard1Component } from '../content/content-card1/content-card1.component';
+import { ContentCard2Component } from '../content/content-card2/content-card2.component';
+import { ContentCard3Component } from '../content/content-card3/content-card3.component';
+import { ContentCard4Component } from '../content/content-card4/content-card4.component';
+import { ContentCard5Component } from '../content/content-card5/content-card5.component';
+import { ContentCard6Component } from '../content/content-card6/content-card6.component';
+
 
 
 
 
 const routes: Routes = [
   { path: 'home', component: HomeComponent},
+  { path: '', component: HomeComponent},
+  
   { path: 'account', component: AccountComponent},
   { path: 'owner', component: OwnerComponent},
-  { path: 'content', component: ContentLayoutComponent},
-  
-  
+   
+  { path: 'content', component: ContentLayoutComponent, 
+    children:
+    [
+      { path: 'card1', component: ContentCard1Component, outlet: 'out1'},
+      { path: 'card2', component: ContentCard2Component, outlet: 'out2'},
+      { path: 'card3', component: ContentCard3Component, outlet: 'out3'},
+      { path: 'card4', component: ContentCard4Component, outlet: 'out4'},
+      { path: 'card5', component: ContentCard5Component, outlet: 'out5'},
+      { path: 'card6', component: ContentCard6Component, outlet: 'out6'},
+      
+    ],
+  },
   
   { path: '', redirectTo: '/home', pathMatch: 'full' }
 ];

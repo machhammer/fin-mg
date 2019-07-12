@@ -14,6 +14,7 @@ export class SidenavListComponent implements OnInit {
   }
 
   public onSidenavClose = () => {
+    
     this.sidenavClose.emit();
   }
 

@@ -15,4 +15,5 @@ html, body {
     flex-direction: column;
     flex-basis: 100%;
     flex: 1;
+    padding: 10px 15px
   }
