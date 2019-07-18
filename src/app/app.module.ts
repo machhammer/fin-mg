@@ -4,6 +4,13 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { MaterialModule } from './material.module';
 import {FlexLayoutModule} from '@angular/flex-layout';
 import { GoogleChartsModule } from 'angular-google-charts';
+import { ReactiveFormsModule }    from '@angular/forms';
+
+import { HttpClientModule, HTTP_INTERCEPTORS } from '@angular/common/http';
+import { fakeBackendProvider } from '../app/helpers/fake-backend';
+import { JwtInterceptor } from '../app/helpers/jwt.interceptor';
+import { ErrorInterceptor } from '../app/helpers/error.interceptor';
+
 
 import { AppComponent } from './app.component';
 import { LayoutComponent } from './layout/layout.component';
@@ -21,6 +28,10 @@ import { ContentCard3Component } from './content/content-card3/content-card3.com
 import { ContentCard4Component } from './content/content-card4/content-card4.component';
 import { ContentCard5Component } from './content/content-card5/content-card5.component';
 import { ContentCard6Component } from './content/content-card6/content-card6.component';
+import { AlertComponent } from './alert/alert.component';
+import { UsersComponent } from './users/users.component';
+import { LoginComponent } from './login/login.component';
+import { RegisterComponent } from './register/register.component';
 
 @NgModule({
   declarations: [
@@ -37,17 +48,29 @@ import { ContentCard6Component } from './content/content-card6/content-card6.com
     ContentCard3Component,
     ContentCard4Component,
     ContentCard5Component,
-    ContentCard6Component
+    ContentCard6Component,
+    AlertComponent,
+    UsersComponent,
+    LoginComponent,
+    RegisterComponent
   ],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
+    HttpClientModule,
+    ReactiveFormsModule,
     MaterialModule,
     FlexLayoutModule,
     RoutingModule,
     GoogleChartsModule,
   ],
-  providers: [],
+  providers: [
+    { provide: HTTP_INTERCEPTORS, useClass: JwtInterceptor, multi: true },
+    { provide: HTTP_INTERCEPTORS, useClass: ErrorInterceptor, multi: true },
+
+    // provider used to create fake backend
+    fakeBackendProvider
+],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

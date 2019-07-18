@@ -11,15 +11,19 @@ import { ContentCard3Component } from '../content/content-card3/content-card3.co
 import { ContentCard4Component } from '../content/content-card4/content-card4.component';
 import { ContentCard5Component } from '../content/content-card5/content-card5.component';
 import { ContentCard6Component } from '../content/content-card6/content-card6.component';
+import { LoginComponent } from '../login/login.component';
+import { UsersComponent } from '../users/users.component';
 
+import { RegisterComponent } from '../register/register.component';
+import { AuthGuard } from '../guards/auth.guard';
 
 
 
 
 const routes: Routes = [
-  { path: 'home', component: HomeComponent},
-  { path: '', component: HomeComponent},
-  
+  { path: 'home', component: HomeComponent, canActivate: [AuthGuard]},
+  { path: '',   redirectTo: '/home', pathMatch: 'full' },
+
   { path: 'account', component: AccountComponent},
   { path: 'owner', component: OwnerComponent},
    
@@ -35,8 +39,11 @@ const routes: Routes = [
       
     ],
   },
+  { path: 'login', component: LoginComponent },
+  { path: 'register', component: RegisterComponent },
+  { path: 'list', component: UsersComponent },
   
-  { path: '', redirectTo: '/home', pathMatch: 'full' }
+  
 ];
 
 @NgModule({

@@ -10,10 +10,19 @@
     <div fxFlex fxLayout fxLayoutAlign="end" fxHide.xs>
         <ul fxLayout fxLayoutGap="15px" class="navigation-items">
             <li>
-                <a routerLink="/owner">Owner Actions</a>
+                <a routerLink="/owner"><mat-icon>home</mat-icon></a>
             </li>
             <li>
-                <a routerLink="/account">Account Actions</a>
+                <a routerLink="/owner"><mat-icon>assignment_ind</mat-icon></a>
+            </li>
+            <li>
+                <a routerLink="/account"><mat-icon>assessment</mat-icon></a>
+            </li>
+            <li>
+                <a routerLink="/account"><mat-icon>build</mat-icon></a>
+            </li>
+            <li>
+                <a (click)="logout()"><mat-icon>exit_to_app</mat-icon></a>
             </li>
         </ul>
     </div>

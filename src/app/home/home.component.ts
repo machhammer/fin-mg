@@ -1,4 +1,8 @@
 import { Component, OnInit } from '@angular/core';
+import { Subscription } from 'rxjs';
+
+import { User } from '../models/user';
+import { AuthenticationService } from '../services/authentication.service';
 
 @Component({
   selector: 'app-home',
@@ -7,13 +11,20 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
-  constructor() { }
+  currentUser: User;
+  currentUserSubscription: Subscription;
+  users: User[] = [];
 
-  ngOnInit() {
+  constructor(
+      private authenticationService: AuthenticationService,
+  ) {
+      this.currentUserSubscription = this.authenticationService.currentUser.subscribe(user => {
+          this.currentUser = user;
+      });
   }
 
-  public executeSelectedChange = (event) => {
-    console.log(event);
+  ngOnInit() {
+    
   }
 
 }

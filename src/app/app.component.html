@@ -1,15 +1,43 @@
 
-<app-layout>
-  <mat-sidenav-container>
-    <mat-sidenav #sidenav role="navigation">
-      <app-sidenav-list (sidenavClose)="sidenav.close()"></app-sidenav-list>
-    </mat-sidenav>
-    <mat-sidenav-content>
-      <app-header (sidenavToggle)="sidenav.toggle()"></app-header>
-      <main>
-        <router-outlet></router-outlet>
-      </main>
-    </mat-sidenav-content>
-  </mat-sidenav-container>
-</app-layout>
+<mat-sidenav-container>
+  <mat-sidenav #sidenav role="navigation">
+    <app-sidenav-list (sidenavClose)="sidenav.close()"></app-sidenav-list>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <app-header (sidenavToggle)="sidenav.toggle()"></app-header>
+    <main>
+      <div class="row">
+        <div class="column" fxLayoutAlign="center center">
+          <alert></alert>
+        </div>
+      </div>
+      <div class="row">
+        <div class="column">
+          <router-outlet></router-outlet>
+        </div>
+      </div>
+    </main>
+  </mat-sidenav-content>
+</mat-sidenav-container>
 
+
+<!--
+<nav class="navbar navbar-expand navbar-dark bg-dark" *ngIf="currentUser">
+  <div class="navbar-nav">
+      <a class="nav-item nav-link" routerLink="/">Home</a>
+      <a class="nav-item nav-link" (click)="logout()">Logout</a>
+  </div>
+</nav>
+
+
+<div class="jumbotron">
+  <div class="container">
+      <div class="row">
+          <div class="col-sm-6 offset-sm-3">
+              <alert></alert>
+              <router-outlet></router-outlet>
+          </div>
+      </div>
+  </div>
+</div>
+-->
