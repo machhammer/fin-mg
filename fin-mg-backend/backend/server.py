@@ -12,11 +12,44 @@ api = Api(app)
 CORS(app)
 
 
+users =	{1: {
+            "id": 1,
+            "username": "admin",
+            "password": "admin",
+            "firstName": "admin",
+            "lastName": "admin",
+            "token": "1"
+        }, 
+        2: {
+            "id": 2,
+            "username": "user",
+            "password": "user",
+            "firstName": "user",
+            "lastName": "user",
+            "token": "1"
+
+        }}
+
 
 @app.route('/')
 def hello():
     return "Hello World"
 
+
+class User(Resource):
+    def get(self):
+        user =	{
+            "id": 1,
+            "username": "admin",
+            "password": "admin",
+            "firstName": "admin",
+            "lastName": "admin",
+            "token": "1"
+        },
+        return jsonify(user)
+
+
+api.add_resource(User, '/user')
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8000)
