@@ -1,5 +1,6 @@
 import pandas as pd
 import json
+import pymongo
 
 from flask import Flask, render_template
 from flask_cors import CORS
@@ -35,6 +36,12 @@ users =	{1: {
 def hello():
     return "Hello World"
 
+class CreateDatabase(Resource):
+    def get(self):
+        myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+        mydb = myclient["fin-mg-database"]
+        print(myclient.list_database_names())
+
 
 class User(Resource):
     def get(self):
@@ -50,6 +57,8 @@ class User(Resource):
 
 
 api.add_resource(User, '/user')
+api.add_resource(CreateDatabase, '/createdb')
+
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=8000)
