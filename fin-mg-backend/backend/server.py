@@ -42,6 +42,7 @@ class CreateDatabase(Resource):
         mydb = myclient["fin-mg-database"]
         mycol = mydb["users"]
         mydict = { "id": 1, "username": "admin", "password": "admin", "firstName": "admin", "lastName": "admin", "token": "t1" }
+        
         return "Admin created."
 
 class User(Resource):
