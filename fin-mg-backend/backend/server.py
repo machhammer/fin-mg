@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import pymongo
+import socket
 
 from flask import Flask, render_template
 from flask_cors import CORS
@@ -43,7 +44,11 @@ class CreateDatabase(Resource):
         col = db["users"]
         user = { "id": 1, "username": "admin", "password": "admin", "firstName": "admin", "lastName": "admin", "token": "t1" }
         x = col.insert_one(user)
-        return "Admin created."
+
+        hostname = socket.gethostname()    
+        IPAddr = socket.gethostbyname(hostname) 
+        print("Your Computer IP Address is:" + IPAddr)
+
 
 class User(Resource):
     def get(self):
