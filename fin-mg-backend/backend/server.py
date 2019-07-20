@@ -39,10 +39,10 @@ def hello():
 class CreateDatabase(Resource):
     def get(self):
         myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-        mydb = myclient["fin-mg-database"]
-        mycol = mydb["users"]
-        mydict = { "id": 1, "username": "admin", "password": "admin", "firstName": "admin", "lastName": "admin", "token": "t1" }
-        
+        db = myclient["fin-mg-database"]
+        col = db["users"]
+        user = { "id": 1, "username": "admin", "password": "admin", "firstName": "admin", "lastName": "admin", "token": "t1" }
+        x = col.insert_one(user)
         return "Admin created."
 
 class User(Resource):
