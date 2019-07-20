@@ -39,11 +39,15 @@ def hello():
 
 class CreateDatabase(Resource):
     def get(self):
-        #myclient = pymongo.MongoClient("mongodb://18.197.31.185:27017/")
-        #db = myclient["fin-mg-database"]
-        #col = db["users"]
-        #user = { "id": 1, "username": "admin", "password": "admin", "firstName": "admin", "lastName": "admin", "token": "t1" }
-        #x = col.insert_one(user)
+        
+        hostname = socket.gethostname()    
+        IPAddr = socket.gethostbyname(hostname)
+        
+        myclient = pymongo.MongoClient("mongodb://" + IPAddr + ":27017/")
+        db = myclient["fin-mg-database"]
+        col = db["users"]
+        user = { "id": 1, "username": "admin", "password": "admin", "firstName": "admin", "lastName": "admin", "token": "t1" }
+        x = col.insert_one(user)
 
         hostname = socket.gethostname()    
         IPAddr = socket.gethostbyname(hostname) 
