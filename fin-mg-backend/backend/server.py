@@ -40,8 +40,9 @@ class CreateDatabase(Resource):
     def get(self):
         myclient = pymongo.MongoClient("mongodb://localhost:27017/")
         mydb = myclient["fin-mg-database"]
-        print(myclient.list_database_names())
-
+        mycol = mydb["users"]
+        mydict = { "id": 1, "username": "admin", "password": "admin", "firstName": "admin", "lastName": "admin", "token": "t1" }
+        return "Admin created."
 
 class User(Resource):
     def get(self):
