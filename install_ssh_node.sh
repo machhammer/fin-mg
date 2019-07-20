@@ -36,7 +36,7 @@ sudo usermod -aG docker jenkins-slave-01
 sudo mkdir -p /var/lib/jenkins/.ssh
 cd /var/lib/jenkins/.ssh
 sudo su 
-ssh-keyscan -H 172.31.42.254 >> /var/lib/jenkins/.ssh/known_hosts
+ssh-keyscan -H 172.31.34.212 >> /var/lib/jenkins/.ssh/known_hosts
 chown ubuntu:ubuntu known_hosts
 chmod 777 known_hosts
 
