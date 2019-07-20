@@ -43,7 +43,7 @@ class CreateDatabase(Resource):
         hostname = socket.gethostname()    
         IPAddr = socket.gethostbyname(hostname)
         
-        myclient = pymongo.MongoClient("mongodb://" + IPAddr + ":27017/")
+        myclient = pymongo.MongoClient("mongodb://172.31.42.121:27017/")
         db = myclient["fin-mg-database"]
         col = db["users"]
         user = { "id": 1, "username": "admin", "password": "admin", "firstName": "admin", "lastName": "admin", "token": "t1" }
