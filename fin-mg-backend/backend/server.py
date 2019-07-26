@@ -1,74 +1,54 @@
-import pandas as pd
+from flask import Flask, jsonify, request, session, abort
 import json
-import pymongo
-import socket
+from flask_cors import CORS, cross_origin
+from flask_jwt import JWT, jwt_required, current_identity
+from werkzeug.security import safe_str_cmp
+from collections import namedtuple
 
-from flask import Flask, render_template
-from flask_cors import CORS
-from flask_restful import Resource, Api
-from flask_jsonpify import jsonify
+from data import manager
+from data.models.fin_models import User
+
 
 app = Flask(__name__)
-api = Api(app)
-
 CORS(app)
 
-
-users =	{1: {
-            "id": 1,
-            "username": "admin",
-            "password": "admin",
-            "firstName": "admin",
-            "lastName": "admin",
-            "token": "1"
-        }, 
-        2: {
-            "id": 2,
-            "username": "user",
-            "password": "user",
-            "firstName": "user",
-            "lastName": "user",
-            "token": "1"
-
-        }}
+app.debug = True
+app.config['SECRET_KEY'] = 'super-secret'
 
 
-@app.route('/')
+currentUser: User
+
+
+
+
+@app.route('/auth', methods=['POST'])
+def auth():
+    data = request.data
+    parameters = json.loads(data)
+    username = parameters['username']
+    password = parameters['password']
+    user = manager.user(username)
+    if user and (user.password == password):
+        return user.toJson()
+    else:    
+        abort(404, description="Resource not found")
+
+@app.route('/user', methods=['POST'])
+def user(username):
+    data = request.data
+    parameters = json.loads(data)
+    username = parameters['username']
+    return manager.user(username)
+
+
+
+@app.route("/")
 def hello():
-    return "Hello World"
-
-class CreateDatabase(Resource):
-    def get(self):
-        
-        hostname = socket.gethostname()    
-        IPAddr = socket.gethostbyname(hostname)
-        
-        myclient = pymongo.MongoClient("mongodb://172.31.42.121:27017/")
-        db = myclient["fin-mg-database"]
-        col = db["users"]
-        user = { "id": 1, "username": "admin", "password": "admin", "firstName": "admin", "lastName": "admin", "token": "t1" }
-        x = col.insert_one(user)
-
-        hostname = socket.gethostname()    
-        IPAddr = socket.gethostbyname(hostname) 
-        return "Your Computer IP Address is:" + IPAddr
+    return "Hello World!"
 
 
-class User(Resource):
-    def get(self):
-        user =	{
-            "id": 1,
-            "username": "admin",
-            "password": "admin",
-            "firstName": "admin",
-            "lastName": "admin",
-            "token": "1"
-        },
-        return jsonify(user)
 
 
-api.add_resource(User, '/user')
-api.add_resource(CreateDatabase, '/createdb')
 
 
 if __name__ == '__main__':

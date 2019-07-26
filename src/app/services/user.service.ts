@@ -11,8 +11,9 @@ export class UserService {
         return this.http.get<User[]>(`localhost:4200/users`);
     }
 
-    getById(id: number) {
-        return this.http.get(`localhost:4200/users/${id}`);
+
+    user(username: String) {
+        return this.http.post('http://localhost:8000/user', username);
     }
 
     register(user: User) {

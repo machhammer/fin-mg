@@ -4,6 +4,8 @@ import { Routes, RouterModule } from '@angular/router';
 import { HomeComponent } from '../home/home.component';
 import { AccountComponent } from '../account/account.component';
 import { OwnerComponent } from '../owner/owner.component';
+import { ProfileComponent } from '../profile/profile.component';
+
 import { ContentLayoutComponent } from '../content-layout/content-layout.component';
 import { ContentCard1Component } from '../content/content-card1/content-card1.component';
 import { ContentCard2Component } from '../content/content-card2/content-card2.component';
@@ -24,10 +26,10 @@ const routes: Routes = [
   { path: 'home', component: HomeComponent, canActivate: [AuthGuard]},
   { path: '',   redirectTo: '/home', pathMatch: 'full' },
 
-  { path: 'account', component: AccountComponent},
-  { path: 'owner', component: OwnerComponent},
+  { path: 'account', component: AccountComponent, canActivate: [AuthGuard]},
+  { path: 'profile', component: ProfileComponent, canActivate: [AuthGuard]},
    
-  { path: 'content', component: ContentLayoutComponent, 
+  { path: 'content', component: ContentLayoutComponent, canActivate: [AuthGuard],
     children:
     [
       { path: 'card1', component: ContentCard1Component, outlet: 'out1'},

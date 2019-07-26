@@ -3,6 +3,7 @@ import { Subscription } from 'rxjs';
 
 import { User } from '../models/user';
 import { AuthenticationService } from '../services/authentication.service';
+import { UserService } from '../services/user.service';
 
 @Component({
   selector: 'app-home',
@@ -13,10 +14,10 @@ export class HomeComponent implements OnInit {
 
   currentUser: User;
   currentUserSubscription: Subscription;
-  users: User[] = [];
 
   constructor(
       private authenticationService: AuthenticationService,
+      private userService: UserService
   ) {
       this.currentUserSubscription = this.authenticationService.currentUser.subscribe(user => {
           this.currentUser = user;
@@ -26,5 +27,6 @@ export class HomeComponent implements OnInit {
   ngOnInit() {
     
   }
+
 
 }
