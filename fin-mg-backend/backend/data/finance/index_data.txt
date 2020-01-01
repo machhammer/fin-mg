@@ -1,0 +1,50 @@
+GER;DAX;Adidas;ADS.DE;Clothing
+GER;DAX;Allianz;ALV.DE;Insurance
+GER;DAX;BASF;BAS.DE;Chemicals
+GER;DAX;Bayer;BAYN.DE;Pharmaceuticals and chemicals
+GER;DAX;Beiersdorf;BEI.DE;Consumer goods and chemicals
+GER;DAX;BMW;BMW.DE;Manufacturing
+GER;DAX;Continental;CON.DE;Manufacturing
+GER;DAX;Covestro;1COV.DE;Chemicals
+GER;DAX;Daimler;DAI.DE;Manufacturing
+GER;DAX;Deutsche Bank;DBK.DE;Banking
+GER;DAX;Deutsche Börse;DB1.DE;Securities
+GER;DAX;Deutsche Lufthansa;LHA.DE;Transport Aviation
+GER;DAX;Deutsche Post;DPW.DE;Logistics
+GER;DAX;Deutsche Telekom;DTE.DE;Communications
+GER;DAX;E.ON;EOAN.DE;Energy
+GER;DAX;Fresenius;FRE.DE;Medical
+GER;DAX;Fresenius Medical Care;FME.DE;Medical
+GER;DAX;HeidelbergCement;HEI.DE;Building
+GER;DAX;Henkel;HEN3.DE;Consumer goods and chemicals
+GER;DAX;Infineon Technologies;IFX.DE;Semiconductors
+GER;DAX;Linde;LIN.DE;Industrial gases
+GER;DAX;Merck;MRK.DE;Pharmaceuticals
+GER;DAX;MTU Aero Engines;MTX.DE;Aerospace
+GER;DAX;Munich Re;MUV2.DE;Insurance
+GER;DAX;RWE;RWE.DE;Energy
+GER;DAX;SAP;SAP.DE;Software
+GER;DAX;Siemens;SIE.DE;Industrial, electronics
+GER;DAX;Volkswagen Group;VOW3.DE;Manufacturing
+GER;DAX;Vonovia;VNA.DE;Real estate
+GER;DAX;Wirecard;WDI.DE;Financial Technology
+SUI;SMI;ABB;ABBN.SW;electronic and electrical equipment
+SUI;SMI;Adecco;ADEN.SW;business training and employment agencies
+SUI;SMI;Alcon;ALC.SW;healthcare
+SUI;SMI;Credit Suisse;CSGN.SW;banks
+SUI;SMI;Geberit;GEBN.SW;building materials and fixtures
+SUI;SMI;Givaudan;GIVN.SW;specialty chemicals
+SUI;SMI;LafargeHolcim;LHN.SW;building materials and fixtures
+SUI;SMI;Lonza;LONN.SW;pharmaceuticals and biotechnology
+SUI;SMI;Nestlé;NESN.SW;food products
+SUI;SMI;Novartis;NOVN.SW;pharmaceuticals
+SUI;SMI;Richemont;CFR.SW;clothing and accessories
+SUI;SMI;Roche;ROG.SW;pharmaceuticals
+SUI;SMI;SGS;SGSN.SW;business support services
+SUI;SMI;Sika;SIKA.SW;specialty chemicals
+SUI;SMI;Swatch;UHR.SW;clothing and accessories
+SUI;SMI;Swiss Life;SLHN.SW;life insurance
+SUI;SMI;Swiss Re;SREN.SW;reinsurance
+SUI;SMI;Swisscom;SCMN.SW;fixed line telecommunications
+SUI;SMI;UBS;UBSG.SW;banks
+SUI;SMI;Zurich Insurance;ZURN.SW;full line insurance

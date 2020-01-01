@@ -1,18 +1,17 @@
-<h1>User Profile</h1>
+<section class="mat-typography">
 <div class="app-container">
-    <mat-form-field>
-        <input matInput placeholder="{{currentUser.username}}">
-        <mat-hint>Username</mat-hint>
-    </mat-form-field>
-    <tr></tr> 
-    <mat-form-field>
-        <input matInput placeholder="{{currentUser.firstName}}">
-        <mat-hint>First Name</mat-hint>
-    </mat-form-field>
-    <tr></tr>
-    <mat-form-field>
-        <input matInput placeholder="{{currentUser.lastName}}">
-        <mat-hint>Last Name</mat-hint>
-    </mat-form-field>
-
+    <div class="center">
+        <h1>Your Profile</h1>
+        <mat-tab-group dynamicHeight>
+            <mat-tab label="Personal Data">
+                Small content
+            </mat-tab>
+            <mat-tab label="Risk Profile">
+            
+                Large content
+            
+            </mat-tab>
+        </mat-tab-group>
+    </div>
 </div>
+</section>

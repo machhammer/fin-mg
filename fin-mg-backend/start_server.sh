@@ -1,0 +1,1 @@
+nohup python backend/server.py > output.log &

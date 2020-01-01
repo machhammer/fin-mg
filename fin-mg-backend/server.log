@@ -1,0 +1,31 @@
+2019-12-26 22:46:11,718 - server.py - INFO - Start fin-mg Server
+2019-12-26 22:46:11,723 - _internal.py - WARNING -  * Debugger is active!
+2019-12-26 22:46:11,734 - _internal.py - INFO -  * Debugger PIN: 275-786-893
+2019-12-26 22:46:36,163 - _internal.py - INFO - 127.0.0.1 - - [26/Dec/2019 22:46:36] "[37mOPTIONS /indices HTTP/1.1[0m" 200 -
+2019-12-26 22:46:36,209 - server.py - INFO - Request: Indices
+2019-12-26 22:46:36,209 - manager.py - INFO - Get Indices requested
+2019-12-26 22:46:36,214 - manager.py - INFO - Index(id='SUI')
+2019-12-26 22:46:36,214 - manager.py - INFO - Index(id='GER')
+2019-12-26 22:46:36,214 - server.py - INFO - {0: '{"country": "SUI", "index": "SUI"}', 1: '{"country": "GER", "index": "GER"}'}
+2019-12-26 22:46:36,215 - _internal.py - INFO - 127.0.0.1 - - [26/Dec/2019 22:46:36] "[37mGET /indices HTTP/1.1[0m" 200 -
+2019-12-26 22:47:04,577 - _internal.py - INFO - 127.0.0.1 - - [26/Dec/2019 22:47:04] "[37mOPTIONS /indices HTTP/1.1[0m" 200 -
+2019-12-26 22:47:04,712 - server.py - INFO - Request: Indices
+2019-12-26 22:47:04,712 - manager.py - INFO - Get Indices requested
+2019-12-26 22:47:04,719 - manager.py - INFO - Index(id='GER')
+2019-12-26 22:47:04,720 - manager.py - INFO - Index(id='SUI')
+2019-12-26 22:47:04,720 - server.py - INFO - {0: '{"country": "GER", "index": "GER"}', 1: '{"country": "SUI", "index": "SUI"}'}
+2019-12-26 22:47:04,720 - _internal.py - INFO - 127.0.0.1 - - [26/Dec/2019 22:47:04] "[37mGET /indices HTTP/1.1[0m" 200 -
+2019-12-26 22:47:23,215 - _internal.py - INFO - 127.0.0.1 - - [26/Dec/2019 22:47:23] "[37mOPTIONS /indices HTTP/1.1[0m" 200 -
+2019-12-26 22:47:23,251 - server.py - INFO - Request: Indices
+2019-12-26 22:47:23,251 - manager.py - INFO - Get Indices requested
+2019-12-26 22:47:23,263 - manager.py - INFO - Index(id='SUI')
+2019-12-26 22:47:23,263 - manager.py - INFO - Index(id='GER')
+2019-12-26 22:47:23,263 - server.py - INFO - {0: '{"country": "SUI", "index": "SUI"}', 1: '{"country": "GER", "index": "GER"}'}
+2019-12-26 22:47:23,264 - _internal.py - INFO - 127.0.0.1 - - [26/Dec/2019 22:47:23] "[37mGET /indices HTTP/1.1[0m" 200 -
+2019-12-26 22:52:31,034 - _internal.py - INFO - 127.0.0.1 - - [26/Dec/2019 22:52:31] "[37mOPTIONS /indices HTTP/1.1[0m" 200 -
+2019-12-26 22:52:31,135 - server.py - INFO - Request: Indices
+2019-12-26 22:52:31,135 - manager.py - INFO - Get Indices requested
+2019-12-26 22:52:31,151 - manager.py - INFO - Index(id='SUI')
+2019-12-26 22:52:31,151 - manager.py - INFO - Index(id='GER')
+2019-12-26 22:52:31,151 - server.py - INFO - {0: '{"country": "SUI", "index": "SUI"}', 1: '{"country": "GER", "index": "GER"}'}
+2019-12-26 22:52:31,154 - _internal.py - INFO - 127.0.0.1 - - [26/Dec/2019 22:52:31] "[37mGET /indices HTTP/1.1[0m" 200 -

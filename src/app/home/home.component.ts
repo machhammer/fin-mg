@@ -20,7 +20,8 @@ export class HomeComponent implements OnInit {
       private userService: UserService
   ) {
       this.currentUserSubscription = this.authenticationService.currentUser.subscribe(user => {
-          this.currentUser = user;
+        console.log(user)
+        this.currentUser = user;
       });
   }
 

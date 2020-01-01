@@ -1,29 +1,73 @@
 html, body { 
     margin: 0;
     height: 100%;
-}
+    width: 100%;
+    overflow: hidden;
+  }
 
 .row {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 100%;
-  }
-  
-  .column {
-    display: flex;
-    flex-direction: column;
-    flex-basis: 100%;
-    flex: 1;
-    padding: 10px 15px;
-  }
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
 
-  .app-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center
-  }
+.column {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  padding: 5px 5px;
+}
 
-  .app-container > * {
-    width: 60%;
-  }
+.app-container {
+  position: relative; 
+  left: 0%;
+  transform: translateX(-1%);
+}
+
+.app-container > * {
+  width: 100%;
+}
+
+.input-full-width {
+  width: 100%;
+}
+
+.input-half-full-width {
+  width: 70%;
+}
+
+.mat-checkbox-layout { 
+  white-space: normal !important;
+  font-size: smaller 
+}
+
+.mat-checkbox-inner-container {
+  margin-top: 10px !important;
+}
+
+.image{
+  height:60em; background-size:cover; width:auto;
+  /*background-image:url('./assets/images/plush-design-studio-Bg14l3hSAsA-unsplash.jpg');*/
+  background-position:50% 50%;
+}
+
+.example-card {
+  max-width: 600px;
+  display: inline;
+  justify-content: space-between;
+}
+
+
+.mat-tab-label {
+  padding: 0px !important; /* adjust this to whatever padding you need*/
+  justify-content: left !important;
+}
+
+.center {
+  margin: auto;
+  width: 80%;
+  padding: 10px;
+}
+

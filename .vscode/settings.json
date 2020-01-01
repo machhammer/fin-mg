@@ -1,4 +1,8 @@
 {
     "git.postCommitCommand": "push",
-    "python.pythonPath": "/Users/machhammer/anaconda3/bin/python"
+    "python.pythonPath": "/Users/machhammer/anaconda3/envs/Tensor/bin/python",
+    "search.exclude": {
+        "javascript.implicitProjectConfig.experimentalDecorators: true": true
+    },
+    "python.linting.enabled": false
 }

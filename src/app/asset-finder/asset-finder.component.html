@@ -1,0 +1,87 @@
+
+<section class="mat-typography">
+  <div class="app-container">
+    <div class="center" style="max-width: 10000px">
+      <div>
+        <mat-form-field>
+          <input matInput [(ngModel)]="searchValue" 
+            type="text" placeholder = "Symbol / WKS / ISIN" 
+            (keyup.enter)="onSearch()"
+          >
+        </mat-form-field>
+        <mat-icon>search</mat-icon>
+      </div>
+      <mat-tab-group>
+
+        <mat-tab label="Index">    
+          <div class="mat-elevation-z2">
+
+            <table mat-table [dataSource]="indices" class="full-width-table" aria-label="Elements">
+          
+              <ng-container matColumnDef="country">
+                <th mat-header-cell *matHeaderCellDef>Country</th>
+                <td mat-cell *matCellDef="let row">{{row.country}}</td>
+              </ng-container>
+
+              <ng-container matColumnDef="index">
+                <th mat-header-cell *matHeaderCellDef>Index</th>
+                <td mat-cell *matCellDef="let row">{{row.index}}</td>
+              </ng-container>
+          
+              <tr mat-header-row *matHeaderRowDef="displayedColumns_indices"></tr>
+              <tr mat-row *matRowDef="let row; columns: displayedColumns_indices;"></tr>
+            </table>
+            <!--
+            <mat-paginator #paginator
+                [length]="dataSource?.data.length"
+                [pageIndex]="0"
+                [pageSize]="50"
+                [pageSizeOptions]="[25, 50, 100, 250]">
+            </mat-paginator>
+            -->
+          </div>
+        </mat-tab>
+
+
+        <mat-tab label="Equities">    
+          <div class="mat-elevation-z2">
+
+            <table mat-table [dataSource]="equities" class="full-width-table" aria-label="Elements">
+          
+              <ng-container matColumnDef="country">
+                <th mat-header-cell *matHeaderCellDef>Country</th>
+                <td mat-cell *matCellDef="let row">{{row.country}}</td>
+              </ng-container>
+
+              <ng-container matColumnDef="index">
+                <th mat-header-cell *matHeaderCellDef>Index</th>
+                <td mat-cell *matCellDef="let row">{{row.index}}</td>
+              </ng-container>
+          
+              <ng-container matColumnDef="company">
+                <th mat-header-cell *matHeaderCellDef>Company</th>
+                <td mat-cell *matCellDef="let row">{{row.company}}</td>
+              </ng-container>
+
+              <ng-container matColumnDef="symbol">
+                <th mat-header-cell *matHeaderCellDef>Symbol</th>
+                <td mat-cell *matCellDef="let row">{{row.symbol}}</td>
+              </ng-container>
+
+              <ng-container matColumnDef="sector">
+                <th mat-header-cell *matHeaderCellDef>Sector</th>
+                <td mat-cell *matCellDef="let row">{{row.sector}}</td>
+              </ng-container>
+
+              <tr mat-header-row *matHeaderRowDef="displayedColumns_equities"></tr>
+              <tr mat-row *matRowDef="let row; columns: displayedColumns_equities;"></tr>
+            </table>
+         </div>
+        </mat-tab>
+        
+
+      </mat-tab-group>
+    </div>
+  </div>
+</section>
+

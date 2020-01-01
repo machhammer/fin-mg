@@ -3,6 +3,9 @@ import { HttpClient } from '@angular/common/http';
 
 import { User } from '../models/user';
 
+import { environment } from '../../environments/environment';
+
+
 @Injectable({ providedIn: 'root' })
 export class UserService {
     constructor(private http: HttpClient) { }
@@ -12,12 +15,17 @@ export class UserService {
     }
 
 
-    user(username: String) {
-        return this.http.post('http://localhost:8000/user', username);
+    user(email: String) {
+        return this.http.post('http://localhost:8000/user', email);
     }
 
-    register(user: User) {
-        return this.http.post(`localhost:4200/users/register`, user);
+    user_update(email: String) {
+        return this.http.post('http://localhost:8000/user_update', email);
+    }
+
+
+    register(email: String, password: String, firstName: String, lastName: String) {
+        return this.http.post(environment.serverUrl + `/register`, {email, password, firstName, lastName});
     }
 
     update(user: User) {
