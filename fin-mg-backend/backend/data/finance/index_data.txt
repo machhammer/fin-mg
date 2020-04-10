@@ -1,50 +1,1947 @@
-GER;DAX;Adidas;ADS.DE;Clothing
-GER;DAX;Allianz;ALV.DE;Insurance
-GER;DAX;BASF;BAS.DE;Chemicals
-GER;DAX;Bayer;BAYN.DE;Pharmaceuticals and chemicals
-GER;DAX;Beiersdorf;BEI.DE;Consumer goods and chemicals
-GER;DAX;BMW;BMW.DE;Manufacturing
-GER;DAX;Continental;CON.DE;Manufacturing
-GER;DAX;Covestro;1COV.DE;Chemicals
-GER;DAX;Daimler;DAI.DE;Manufacturing
-GER;DAX;Deutsche Bank;DBK.DE;Banking
-GER;DAX;Deutsche Börse;DB1.DE;Securities
-GER;DAX;Deutsche Lufthansa;LHA.DE;Transport Aviation
-GER;DAX;Deutsche Post;DPW.DE;Logistics
-GER;DAX;Deutsche Telekom;DTE.DE;Communications
-GER;DAX;E.ON;EOAN.DE;Energy
-GER;DAX;Fresenius;FRE.DE;Medical
-GER;DAX;Fresenius Medical Care;FME.DE;Medical
-GER;DAX;HeidelbergCement;HEI.DE;Building
-GER;DAX;Henkel;HEN3.DE;Consumer goods and chemicals
-GER;DAX;Infineon Technologies;IFX.DE;Semiconductors
-GER;DAX;Linde;LIN.DE;Industrial gases
-GER;DAX;Merck;MRK.DE;Pharmaceuticals
-GER;DAX;MTU Aero Engines;MTX.DE;Aerospace
-GER;DAX;Munich Re;MUV2.DE;Insurance
-GER;DAX;RWE;RWE.DE;Energy
-GER;DAX;SAP;SAP.DE;Software
-GER;DAX;Siemens;SIE.DE;Industrial, electronics
-GER;DAX;Volkswagen Group;VOW3.DE;Manufacturing
-GER;DAX;Vonovia;VNA.DE;Real estate
-GER;DAX;Wirecard;WDI.DE;Financial Technology
-SUI;SMI;ABB;ABBN.SW;electronic and electrical equipment
-SUI;SMI;Adecco;ADEN.SW;business training and employment agencies
-SUI;SMI;Alcon;ALC.SW;healthcare
-SUI;SMI;Credit Suisse;CSGN.SW;banks
-SUI;SMI;Geberit;GEBN.SW;building materials and fixtures
-SUI;SMI;Givaudan;GIVN.SW;specialty chemicals
-SUI;SMI;LafargeHolcim;LHN.SW;building materials and fixtures
-SUI;SMI;Lonza;LONN.SW;pharmaceuticals and biotechnology
-SUI;SMI;Nestlé;NESN.SW;food products
-SUI;SMI;Novartis;NOVN.SW;pharmaceuticals
-SUI;SMI;Richemont;CFR.SW;clothing and accessories
-SUI;SMI;Roche;ROG.SW;pharmaceuticals
-SUI;SMI;SGS;SGSN.SW;business support services
-SUI;SMI;Sika;SIKA.SW;specialty chemicals
-SUI;SMI;Swatch;UHR.SW;clothing and accessories
-SUI;SMI;Swiss Life;SLHN.SW;life insurance
-SUI;SMI;Swiss Re;SREN.SW;reinsurance
-SUI;SMI;Swisscom;SCMN.SW;fixed line telecommunications
-SUI;SMI;UBS;UBSG.SW;banks
-SUI;SMI;Zurich Insurance;ZURN.SW;full line insurance
+Australia;S&P/ASX 200;A2M.AX;The a2 Milk Company;Food, Beverage & Tobacco
+Australia;S&P/ASX 200;ABC.AX;Adelaide Brighton;Materials
+Australia;S&P/ASX 200;ABP.AX;Abacus Property Group;Financial Services
+Australia;S&P/ASX 200;AGL.AX;AGL Energy Ltd;Utilities
+Australia;S&P/ASX 200;ALL.AX;Aristocrat Leisure;Consumer Products
+Australia;S&P/ASX 200;ALQ.AX;ALS Limited;Industrials
+Australia;S&P/ASX 200;ALU.AX;Altium Ltd;Information Technology
+Australia;S&P/ASX 200;ALX.AX;Atlas Arteria FP Ordinary Stapled Securities;Industrials
+Australia;S&P/ASX 200;AMC.AX;Amcor Ltd;Materials
+Australia;S&P/ASX 200;AMP.AX;AMP Ltd;Financial Services
+Australia;S&P/ASX 200;ANN.AX;Ansell Ltd;Health Care
+Australia;S&P/ASX 200;ANZ.AX;ANZ Banking Group Ltd;Financial Services
+Australia;S&P/ASX 200;APA.AX;APA Group;Utilities
+Australia;S&P/ASX 200;APE.AX;AP Eagers Pty Ltd;Retail Discretionary
+Australia;S&P/ASX 200;APT.AX;Afterpay;Financial Services
+Australia;S&P/ASX 200;APX.AX;Appen Limited;Information Technology
+Australia;S&P/ASX 200;ARB.AX;ARB Corporation;Automotives
+Australia;S&P/ASX 200;ASB.AX;Austral Ltd;Mining
+Australia;S&P/ASX 200;AST.AX;AusNet Services Ltd;Utilities
+Australia;S&P/ASX 200;ASX;ASX Ltd;Financial Services
+Australia;S&P/ASX 200;AVH.AX;Avita Medical;Healthcare
+Australia;S&P/ASX 200;AWC.AX;Alumina Ltd;Materials
+Australia;S&P/ASX 200;AZJ.AX;Aurizon Holdings Ltd;Industrials
+Australia;S&P/ASX 200;BAP.AX;Bapcor Ltd;Consumer Products
+Australia;S&P/ASX 200;BEN.AX;Bendigo and Adelaide;Financial Services
+Australia;S&P/ASX 200;BGA.AX;Bega Cheese Ltd;Consumer Products
+Australia;S&P/ASX 200;BHP.AX;BHP Billiton Ltd;Materials
+Australia;S&P/ASX 200;BIN.AX;Bingo Industries Limited;Industrials
+Australia;S&P/ASX 200;BKL.AX;Blackmores Ltd;Consumer Products
+Australia;S&P/ASX 200;BKW.AX;Brickworks Ltd;Materials
+Australia;S&P/ASX 200;BLD.AX;Boral Ltd;Materials
+Australia;S&P/ASX 200;BOQ.AX;Bank of Queensland;Financial Services
+Australia;S&P/ASX 200;BPT.AX;Beach Energy Ltd;Energy
+Australia;S&P/ASX 200;BRG.AX;Breville Group Ltd;Consumer Products
+Australia;S&P/ASX 200;BSL.AX;BlueScope Steel Ltd;Materials
+Australia;S&P/ASX 200;BVS.AX;Bravura Solution Ltd;Information Technology
+Australia;S&P/ASX 200;BWP.AX;BWP Trust;Financial Services
+Australia;S&P/ASX 200;BXB.AX;Brambles Ltd;Industrials
+Australia;S&P/ASX 200;CAR.AX;Carsales.com;Information Technology
+Australia;S&P/ASX 200;CBA.AX;Commonwealth Bank;Financial Services
+Australia;S&P/ASX 200;CCL.AX;Coca-Cola Amatil;Consumer Products
+Australia;S&P/ASX 200;CCP.AX;Credit Corp Group;Industrials
+Australia;S&P/ASX 200;CGC.AX;Costa Group Holdings;Financial Services
+Australia;S&P/ASX 200;CGF.AX;Challenger Ltd;Financial Services
+Australia;S&P/ASX 200;CHC.AX;Charter Hall Group;Financial Services
+Australia;S&P/ASX 200;CIM.AX;Cimic Group Ltd;Industrials
+Australia;S&P/ASX 200;CKF.AX;Collins Food Ltd;Food
+Australia;S&P/ASX 200;CLW.AX;CHTR H LWR FP Units Stapled Securities;Real Estate
+Australia;S&P/ASX 200;CMW.AX;Cromwell Property;Financial Services
+Australia;S&P/ASX 200;CNU.AX;Chorus Ltd;Telecommunication Services
+Australia;S&P/ASX 200;COE.AX;CooperEnergy Ltd;Energy
+Australia;S&P/ASX 200;COH.AX;Cochlear Ltd;Healthcare
+Australia;S&P/ASX 200;COL.AX;Coles Group;Consumer Products
+Australia;S&P/ASX 200;CPU.AX;Computershare Ltd;Information Technology
+Australia;S&P/ASX 200;CQR.AX;Charter Hall;Financial Services
+Australia;S&P/ASX 200;CSL.AX;CSL Ltd;Healthcare
+Australia;S&P/ASX 200;CSR.AX;CSR Ltd;Materials
+Australia;S&P/ASX 200;CTD.AX;Corp Travel Ltd;Financial Services
+Australia;S&P/ASX 200;CTX.AX;Caltex Australia;Energy
+Australia;S&P/ASX 200;CUV.AX;Clinuvel Pharmaceut;Healthcare
+Australia;S&P/ASX 200;CWN.AX;Crown Resorts Ltd;Consumer Products
+Australia;S&P/ASX 200;CWY.AX;Cleanaway Waste Ltd;Commercial Services
+Australia;S&P/ASX 200;DHG.AX;Domain Holdings Australia;Information Technology
+Australia;S&P/ASX 200;DMP.AX;Domino PIZZA Enterprises;Food, Beverage & Tobacco
+Australia;S&P/ASX 200;DOW.AX;Downer Edi Ltd;Industrials
+Australia;S&P/ASX 200;DXS.AX;Dexus Units FP Stapled;Real Estate
+Australia;S&P/ASX 200;EHE.AX;Estia Health Ltd;Healthcare
+Australia;S&P/ASX 200;ELD.AX;Elders Limited;Consumer Products
+Australia;S&P/ASX 200;EML.AX;EML Payments Ltd;Financial Services
+Australia;S&P/ASX 200;EVN.AX;Evolution Mining Ltd;Materials
+Australia;S&P/ASX 200;FBU.AX;Fletcher Building Foreign Exempt NZX;Construction
+Australia;S&P/ASX 200;FLT.AX;Flight Centre Travel;Consumer Products
+Australia;S&P/ASX 200;FMG.AX;Fortescue Metals Group;Materials
+Australia;S&P/ASX 200;FPH.AX;Fisher & Paykel H Foreign Exempt NZX;Health Care
+Australia;S&P/ASX 200;GEM.AX;G8 Education Ltd;Financial Services
+Australia;S&P/ASX 200;GMG.AX;Goodman Group;Financial Services
+Australia;S&P/ASX 200;GNC.AX;GrainCorp Ltd;Consumer Products
+Australia;S&P/ASX 200;GOR.AX;Gold Road Res Ltd;Mining
+Australia;S&P/ASX 200;GOZ.AX;Growthpoint Property;Financial Services
+Australia;S&P/ASX 200;GPT.AX;GPT Group;Financial Services
+Australia;S&P/ASX 200;GUD.AX;G.U.D. Holdings;Financial Services
+Australia;S&P/ASX 200;GWA.AX;GWA Group Ltd;Industrials
+Australia;S&P/ASX 200;HLS.AX;Healius;Healthcare
+Australia;S&P/ASX 200;HUB.AX;HUB24 Ltd;Financial Services
+Australia;S&P/ASX 200;HVN.AX;Harvey Norman;Consumer;Discretionary
+Australia;S&P/ASX 200;IAG.AX;Insurance Australia Group;Insurance
+Australia;S&P/ASX 200;IEL.AX;Idp Education Limited;Consumer Products
+Australia;S&P/ASX 200;IFL.AX;IOOF Holdings Ltd;Financial Services
+Australia;S&P/ASX 200;IGO.AX;Independence Group;Materials
+Australia;S&P/ASX 200;ILU.AX;Iluka Resources;Materials
+Australia;S&P/ASX 200;INA.AX;Ingenia Group;Real Estate
+Australia;S&P/ASX 200;ING.AX;Inghams Group;Consumer Products
+Australia;S&P/ASX 200;IPH.AX;IPH Ltd;Industrials
+Australia;S&P/ASX 200;IPL.AX;Incitec Pivot;Materials
+Australia;S&P/ASX 200;IRE.AX;Iress Ltd;Information Technology
+Australia;S&P/ASX 200;IVC.AX;Invocare Ltd;Consumer Products
+Australia;S&P/ASX 200;JBH.AX;JB Hi-Fi Ltd;Consumer Products
+Australia;S&P/ASX 200;JHG.AX;Janus Henderson Diversified;Financial Services
+Australia;S&P/ASX 200;JHX.AX;James Hardie Industries;Materials	
+Australia;S&P/ASX 200;JIN.AX;Jumbo Interactive;Gaming, Lodging & Restaurants
+Australia;S&P/ASX 200;LLC.AX;Lendlease;Financial Services
+Australia;S&P/ASX 200;LNK.AX;Link Admin HLDG;Software & Services
+Australia;S&P/ASX 200;LYC.AX;Lynas Corporation;Materials
+Australia;S&P/ASX 200;MFG.AX;Magellan Fin Group Ltd;Financial Services
+Australia;S&P/ASX 200;MGR.AX;Mirvac Group;Financial Services
+Australia;S&P/ASX 200;MIN.AX;Mineral Resources;Industrials
+Australia;S&P/ASX 200;MMS.AX;Mcmillan Shakespeare;Industrials
+Australia;S&P/ASX 200;MND.AX;Monadelphous Group;Industrials
+Australia;S&P/ASX 200;MPL.AX;Medibank Private Ltd;Financial Services
+Australia;S&P/ASX 200;MQG.AX;Macquarie Group Ltd;Financial Services
+Australia;S&P/ASX 200;MTS.AX;Metcash Ltd;Consumer Products
+Australia;S&P/ASX 200;MYX.AX;Mayne Pharma Ltd;Health Care
+Australia;S&P/ASX 200;NAB.AX;National Australia Bank;Financial Services
+Australia;S&P/ASX 200;NAN.AX;Nanosonics Ltd;Health Care Equipment & Services
+Australia;S&P/ASX 200;NCM.AX;Newcrest Mining;Materials
+Australia;S&P/ASX 200;NEA.AX;Nearmap Ltd;Aerial Imagery
+Australia;S&P/ASX 200;NEC.AX;Nine Entertainment;Consumer Products
+Australia;S&P/ASX 200;NHC.AX;New Hope Corporation;Energy
+Australia;S&P/ASX 200;NHF.AX;Nib Holdings Limited;Financial Services
+Australia;S&P/ASX 200;NSR.AX;National Storage;Financial Services
+Australia;S&P/ASX 200;NST.AX;Northern Star;Materials
+Australia;S&P/ASX 200;NUF.AX;Nufarm;Materials
+Australia;S&P/ASX 200;NWH.AX;NRW Holdings Ltd;Mining
+Australia;S&P/ASX 200;NWL.AX;Netwealth Group;Financial Services
+Australia;S&P/ASX 200;NWS.AX;News Corp Class B;Consumer Products
+Australia;S&P/ASX 200;NXT.AX;NEXTDC Ltd;Software & Services
+Australia;S&P/ASX 200;OML.AX;Ooh!Media Ltd;Media
+Australia;S&P/ASX 200;ORA.AX;Orora Ltd;Materials
+Australia;S&P/ASX 200;ORE.AX;Orocobre Ltd;Materials
+Australia;S&P/ASX 200;ORG.AX;Origin Energy;Energy
+Australia;S&P/ASX 200;ORI.AX;Orica Ltd;Materials
+Australia;S&P/ASX 200;OSH.AX;Oil Search Ltd;Energy
+Australia;S&P/ASX 200;OZL.AX;OZ Minerals;Materials
+Australia;S&P/ASX 200;PDL.AX;Pendal Group Limited;Financial Services
+Australia;S&P/ASX 200;PLS.AX;Pilbara Min Limited;Materials
+Australia;S&P/ASX 200;PME.AX;Pro Medicus Ltd;Information Technology
+Australia;S&P/ASX 200;PMV.AX;Premier Investments;Consumer Products
+Australia;S&P/ASX 200;PNI.AX;Pinnacle Investment;Financial Services
+Australia;S&P/ASX 200;PNV.AX;Polynovo Ltd;Healthcare
+Australia;S&P/ASX 200;PPT.AX;Perpetual Ltd;Financial Services
+Australia;S&P/ASX 200;PRN.AX;Perenti Global Ltd;Mining
+Australia;S&P/ASX 200;PTM.AX;Platinum Asset Management;Financial Services
+Australia;S&P/ASX 200;QAN.AX;Qantas Airways;Airline
+Australia;S&P/ASX 200;QBE.AX;QBE Insurance Group;Insurance
+Australia;S&P/ASX 200;QUB.AX;QUBE Holdings Ltd;Industrials
+Australia;S&P/ASX 200;REA.AX;REA Group;Consumer Products
+Australia;S&P/ASX 200;RHC.AX;Ramsay Health Care;Healthcare
+Australia;S&P/ASX 200;RIO.AX;RIO Tinto Ltd;Materials
+Australia;S&P/ASX 200;RMD.AX;Resmed Inc;Healthcare
+Australia;S&P/ASX 200;RRL.AX;Regis Resources;Materials
+Australia;S&P/ASX 200;RSG.AX;Resolute Mining;Materials
+Australia;S&P/ASX 200;RWC.AX;Reliance Worldwide;Capital Goods
+Australia;S&P/ASX 200;S32.AX;SOUTH32 Ltd;Materials
+Australia;S&P/ASX 200;SAR.AX;Saracen Mineral;Materials
+Australia;S&P/ASX 200;SBM.AX;ST Barbara Ltd;Materials
+Australia;S&P/ASX 200;SCG.AX;Scentre Group;Financial Services
+Australia;S&P/ASX 200;SCP.AX;SCA Property Group;Financial Services
+Australia;S&P/ASX 200;SDF.AX;Steadfast Group Ltd;Financial Services
+Australia;S&P/ASX 200;SEK.AX;Seek Ltd;Commercial Services
+Australia;S&P/ASX 200;SFR.AX;Sandfire Resources;Materials
+Australia;S&P/ASX 200;SGM.AX;Sims Metal Management Ltd;Materials
+Australia;S&P/ASX 200;SGP.AX;Stockland Group;Financial Services
+Australia;S&P/ASX 200;SGR.AX;The Star Ent Group;Financial Services
+Australia;S&P/ASX 200;SHL.AX;Sonic Healthcare;Healthcare
+Australia;S&P/ASX 200;SIQ.AX;Smartgrp Corporation;Industrials
+Australia;S&P/ASX 200;SKC.AX;Skycity Ent Group Ltd;Consumer Products
+Australia;S&P/ASX 200;SKI.AX;Spark Infrastructure;Utilities
+Australia;S&P/ASX 200;SLR.AX;Silver Lake Resource;Mining
+Australia;S&P/ASX 200;SOL.AX;Soul Pattinson (W.H);Energy
+Australia;S&P/ASX 200;SPK.AX;Spark New Zealand;Telecommunication Services
+Australia;S&P/ASX 200;SSM.AX;Service Stream;Engineering
+Australia;S&P/ASX 200;STO.AX;Santos Ltd;Energy
+Australia;S&P/ASX 200;SUL.AX;Super Retail Group Ltd;Consumer Products
+Australia;S&P/ASX 200;SUN.AX;Suncorp Group Ltd;Financial Services
+Australia;S&P/ASX 200;SVW.AX;Seven Group Holdings;Industrials
+Australia;S&P/ASX 200;SXL.AX;STHN Cross Media;Consumer Products
+Australia;S&P/ASX 200;SYD.AX;SYD Airport FP Stapled Securities US Prohibited;Transportation
+Australia;S&P/ASX 200;TAH.AX;Tabcorp Holdings Ltd;Consumer Products
+Australia;S&P/ASX 200;TCL.AX;Transurban Group Ordinary Shares/Units FP Triple Stapled;Industrials
+Australia;S&P/ASX 200;TGR.AX;Tassal Group Ltd;Consumer Products
+Australia;S&P/ASX 200;TLS.AX;Telstra Corporation;Telecommunications Services
+Australia;S&P/ASX 200;TNE.AX;Technology One;Information Technology
+Australia;S&P/ASX 200;TPM.AX;TPG Telecom Ltd;Telecommunication Services
+Australia;S&P/ASX 200;TWE.AX;Treasury Wine Estate;Consumer Products
+Australia;S&P/ASX 200;URW.AX;Unibail-Rodamco-Westfield;Real Estate
+Australia;S&P/ASX 200;VCX.AX;Vicinity Centres;Financial Services
+Australia;S&P/ASX 200;VEA.AX;Viva Energy Group;Energy
+Australia;S&P/ASX 200;VOC.AX;Vocus Group Ltd;Telecommunication Services
+Australia;S&P/ASX 200;VUK.AX;Virgin Money UK PLC;Banking
+Australia;S&P/ASX 200;VVR.AX;Viva Energy REIT;Real Estate
+Australia;S&P/ASX 200;WBC.AX;Westpac Banking Corp;Banking
+Australia;S&P/ASX 200;WEB.AX;Webjet Ltd;Retailing
+Australia;S&P/ASX 200;WES.AX;Wesfarmers Ltd;Industrials
+Australia;S&P/ASX 200;WHC.AX;Whitehaven Coal;Energy
+Australia;S&P/ASX 200;WOR.AX;Worleyparsons Ltd;Energy
+Australia;S&P/ASX 200;WOW.AX;Woolworths Ltd;Consumer Products
+Australia;S&P/ASX 200;WPL.AX;Woodside Petroleum;Energy
+Australia;S&P/ASX 200;WSA.AX;Western Areas Ltd;Materials
+Australia;S&P/ASX 200;WTC.AX;Wisetech Global Ltd;Information Technology
+Australia;S&P/ASX 200;XRO.AX;Xero Ltd;Software
+Mexico;IPC;AC.MX;Arca Continental;Beverages
+Mexico;IPC;ALFAA.MX;ALFA;Industrial Conglomerates
+Mexico;IPC;ALPEKA.MX;Alpek;Chemicals
+Mexico;IPC;ALSEA.MX;Alsea;Hotels, Restaurants & Leisure
+Mexico;IPC;AMXL.MX;América Móvil;Telecommunication
+Mexico;IPC;ASURB.MX;Grupo Aeroportuario del Sureste;Airport Services
+Mexico;IPC;BIMBOA.MX;Grupo Bimbo;Packaged Foods & Meats
+Mexico;IPC;BOLSAA.MX;Bolsa Mexicana de Valores;Financial Services
+Mexico;IPC;CEMEXCPO.MX;Cemex;Construction
+Mexico;IPC;LACOMERUBC.MX;Comercial Mexicana;Hypermarkets and Super Centers
+Mexico;IPC;ELEKTRA.MX;Grupo Elektra;Financial Services
+Mexico;IPC;FEMSAUBD.MX;FEMSA;Beverages
+Mexico;IPC;GAPB.MX;Grupo Aeroportuario del Pacífico;Airport Services
+Mexico;IPC;GCARSOA1.MX;Grupo Carso;Industrial Conglomerates
+Mexico;IPC;GENTERA.MX;Compartamos Banco;Financial Services
+Mexico;IPC;GFINBURO.MX;Inbursa;Financial Services
+Mexico;IPC;GFNORTEO.MX;Banorte;Financial Services
+Mexico;IPC;GMEXICOB.MX;Grupo México;Metals & Mining
+Mexico;IPC;GRUMAB.MX;Gruma;Packaged Foods & Meats
+Mexico;IPC;ICA.MX;Empresas ICA;Construction
+Mexico;IPC;ICHB.MX;Industrias CH;Metals & Mining	Steel
+Mexico;IPC;IENOVA.MX;Ienova;Gas Utilities
+Mexico;IPC;KIMBERA.MX;Kimberly-Clark de México;Household Products
+Mexico;IPC;KOFUBL.MX;Coca-Cola FEMSA;Beverages
+Mexico;IPC;LABB.MX;Genomma Lab Internacional;Healthcare
+Mexico;IPC;LALAB.MX;Grupo Lala;Packaged Foods & Meats
+Mexico;IPC;LIVEPOLC-1.MX;Liverpool;Department Stores
+Mexico;IPC;PE&OLES.MX;Peñoles;Precious Metals & Minerals
+Mexico;IPC;PINFRA.MX;Pinfra;Construction
+Mexico;IPC;BSMXB.MX;Santander México;Financial Services
+Mexico;IPC;TLEVISACPO.MX;Televisa;Media
+Mexico;IPC;WALMEX.MX;Walmart de México y Centroamérica;Hypermarkets and Super Centers
+Chile;S&P/CLX IPSA;AESGENER.SN;AESGener;Electricity
+Chile;S&P/CLX IPSA;AGUAS-A.SN;Aguas Andinas;Water & Sanitation
+Chile;S&P/CLX IPSA;ANDINA-B.SN;Embotelladora Andina;Beverages
+Chile;S&P/CLX IPSA;ANTARCHILE.SN;Antarchile;Conglomerate
+Chile;S&P/CLX IPSA;BANMEDICA.SN;Banmedica;Healthcare
+Chile;S&P/CLX IPSA;BCI.SN;Banco de Crédito e Inversiones;Financial Services
+Chile;S&P/CLX IPSA;BESALCO.SN;Besalco;Real Estate
+Chile;S&P/CLX IPSA;BSANTANDER.SN;Banco Santander Santiago;Financial Services
+Chile;S&P/CLX IPSA;CAP.SN;Compañía de Acero del Pacífico;Mining
+Chile;S&P/CLX IPSA;CCU.SN;Compañía Cervecerías Unidas;Beverages
+Chile;S&P/CLX IPSA;CENCOSUD.SN;Cencosud;Retailers
+Chile;S&P/CLX IPSA;CHILE.SN;Banco de Chile;Financial Services
+Chile;S&P/CLX IPSA;CMPC.SN;Empresas CMPC;Wood Pulp
+Chile;S&P/CLX IPSA;COLBUN.SN;Colbun;Electricity
+Chile;S&P/CLX IPSA;CONCHATORO.SN;Viña Concha y Toro;Wines
+Chile;S&P/CLX IPSA;COPEC.SN;Empresas Copec;Conglomerate
+Chile;S&P/CLX IPSA;ITAUCORP.SN;Corpbanca;Financial Services
+Chile;S&P/CLX IPSA;ECL.SN;E-CL;Electricity
+Chile;S&P/CLX IPSA;EMBONOR-B.SN;Coca Cola Embonor;Beverages
+Chile;S&P/CLX IPSA;ENELAM.SN;Empresa Nacional de Electricidad;Electricity
+Chile;S&P/CLX IPSA;ENTEL.SN;Entel Chile;Telecoms
+Chile;S&P/CLX IPSA;FALABELLA.SN;S.A.C.I.;Falabella;Retailers
+Chile;S&P/CLX IPSA;FORUS.SN;Forus;Retailers
+Chile;S&P/CLX IPSA;GASCO.SN;Gasco;Utilities
+Chile;S&P/CLX IPSA;IAM.SN;Inversiones Aguas Metropolitanas;Water & Sanitation
+Chile;S&P/CLX IPSA;ILC.SN;ILC Inversiones;Conglomerate
+Chile;S&P/CLX IPSA;LTM.SN;Latam Airlines Group;Airline
+Chile;S&P/CLX IPSA;PARAUCO.SN;Parque Arauco S.A.;Shopping Mall Developer
+Chile;S&P/CLX IPSA;QUINENCO.SN;Quiñenco;Conglomerate
+Chile;S&P/CLX IPSA;RIPLEY.SN;Ripley;Retailers
+Chile;S&P/CLX IPSA;SALFACORP.SN;Salfacorp;Real Estate
+Chile;S&P/CLX IPSA;SECURITY.SN;Grupo Security;Financial Services
+Chile;S&P/CLX IPSA;SK.SN;Sidgo Koppers;Conglomerate
+Chile;S&P/CLX IPSA;SMSAAM.SN;SM SAAM;Ports
+Chile;S&P/CLX IPSA;SONDA.SN;Sonda;Software
+Chile;S&P/CLX IPSA;SQM-B.SN;Sociedad Química y Minera de Chile;Chemicals
+Chile;S&P/CLX IPSA;VAPORES.SN;Compañía Sudamericana de Vapores;Shipping
+Canada;S&P/TSX Composite Index;ARE.TO;Aecon Group Inc.;Engineering & Construction
+Canada;S&P/TSX Composite Index;AFN.TO;Ag Growth International Inc.;Industrials	Farm & Construction Machinery
+Canada;S&P/TSX Composite Index;AC.TO;Air Canada	Industrials;Airline
+Canada;S&P/TSX Composite Index;ASR.TO;Alacer Gold Corp.;Metals & Mining
+Canada;S&P/TSX Composite Index;AGI.TO;Alamos Gold Inc.;Metals & Mining
+Canada;S&P/TSX Composite Index;AD.TO;Alaris Royalty Corp.;Financial Services
+Canada;S&P/TSX Composite Index;AQN.TO;Algonquin Power & Utilities Corp.;Independent Power Producers
+Canada;S&P/TSX Composite Index;AP-UN.TO;Allied Properties Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;ALA.TO;AltaGas Ltd.;Energy
+Canada;S&P/TSX Composite Index;AIF.TO;Altus Group Limited;Real Estate
+Canada;S&P/TSX Composite Index;APHA.TO;Aphria Inc.;Healthcare
+Canada;S&P/TSX Composite Index;ARX.TO;ARC Resources Ltd.;Energy
+Canada;S&P/TSX Composite Index;ATZ.TO;Aritzia Inc.;Consumer Products
+Canada;S&P/TSX Composite Index;AX-UN.TO;Artis Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;ACO-X.TO;ATCO Ltd.;Regulated Utilities
+Canada;S&P/TSX Composite Index;ATA.TO;ATS Automation Tooling Systems Inc.;Industrial Products
+Canada;S&P/TSX Composite Index;ACB.TO;Aurora Cannabis Inc.;Healthcare
+Canada;S&P/TSX Composite Index;BTO.TO;B2Gold Corp.;Metals & Mining
+Canada;S&P/TSX Composite Index;BAD.TO;Badger Daylighting Ltd.;Engineering & Construction
+Canada;S&P/TSX Composite Index;BLDP.TO;Ballard Power Systems Inc.;Industrial Products
+Canada;S&P/TSX Composite Index;BTE.TO;Baytex Energy Corp.;Energy
+Canada;S&P/TSX Composite Index;BEI-UN.TO;Boardwalk Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;BLX.TO;Boralex Inc.;Independent Power Producers
+Canada;S&P/TSX Composite Index;BYD.TO;Boyd Group Income Fund;Consumer Products
+Canada;S&P/TSX Composite Index;BBU-UN.TO;Brookfield Business Partners L.P.;Industrials
+Canada;S&P/TSX Composite Index;BPY-UN.TO;Brookfield Property Partners L.P.;Real Estate
+Canada;S&P/TSX Composite Index;BEP-UN.TO;Brookfield Renewable Partners L.P.;Independent Power Producers
+Canada;S&P/TSX Composite Index;DOO.TO;BRP Inc.;Automotives
+Canada;S&P/TSX Composite Index;CAE.TO;CAE Inc.;Aerospace & Defense
+Canada;S&P/TSX Composite Index;GOOS.TO;Canada Goose Holdings Inc.;Consumer Products
+Canada;S&P/TSX Composite Index;CAR-UN.TO;Canadian Apartment Properties Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;CU.TO;Canadian Utilities Limited;Regulated Utilities
+Canada;S&P/TSX Composite Index;CWB.TO;Canadian Western Bank	Financial Services;Banking
+Canada;S&P/TSX Composite Index;CFP.TO;Canfor Corporation;Forest Products
+Canada;S&P/TSX Composite Index;CPX.TO;Capital Power Corporation;Regulated Utilities
+Canada;S&P/TSX Composite Index;CJT.TO;Cargojet Inc.;Transportation & Logistics
+Canada;S&P/TSX Composite Index;CAS.TO;Cascades Inc.;Forest Products
+Canada;S&P/TSX Composite Index;CLS.TO;Celestica Inc.;Technology
+Canada;S&P/TSX Composite Index;CG.TO;Centerra Gold Inc.;Metals & Mining
+Canada;S&P/TSX Composite Index;CSH-UN.TO;Chartwell Retirement Residences;Real Estate
+Canada;S&P/TSX Composite Index;CHE-UN.TO;Chemtrade Logistics Income Fund;Chemicals
+Canada;S&P/TSX Composite Index;CHP-UN.TO;Choice Properties Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;CHR.TO;Chorus Aviation Inc.;Airline
+Canada;S&P/TSX Composite Index;CIX.TO;CI Financial Corp.;Financial Services
+Canada;S&P/TSX Composite Index;CGX.TO;Cineplex Inc.;Entertainment
+Canada;S&P/TSX Composite Index;CCA.TO;Cogeco Communications Inc.;Communication Services
+Canada;S&P/TSX Composite Index;CIGI.TO;Colliers International Group Inc.;Real Estate
+Canada;S&P/TSX Composite Index;CUF-UN.TO;Cominar Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;BCB.TO;Cott Corporation	Consumer Defensive;Beverages
+Canada;S&P/TSX Composite Index;CPG.TO;Crescent Point Energy Corp.;Energy
+Canada;S&P/TSX Composite Index;CRR-UN.TO;Crombie Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;CRON.TO;Cronos Group Inc.;Healthcare
+Canada;S&P/TSX Composite Index;DSG.TO;Descartes Systems Group Inc.;Technology
+Canada;S&P/TSX Composite Index;DGC.TO;Detour Gold Corporation;Metals & Mining
+Canada;S&P/TSX Composite Index;DIR-UN.TO;Dream Industrial Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;D-UN.TO;Dream Office Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;ECN.TO;ECN Capital Corp.;Financial Services
+Canada;S&P/TSX Composite Index;ELD.TO;Eldorado Gold Corporation;Metals & Mining
+Canada;S&P/TSX Composite Index;EFN.TO;Element Fleet Management Corp.;Financial Services
+Canada;S&P/TSX Composite Index;EMP-A.TO;Empire Company;Retail
+Canada;S&P/TSX Composite Index;EDV.TO;Endeavour Mining Corporation;Metals & Mining
+Canada;S&P/TSX Composite Index;EFX.TO;Enerflex Ltd.	Energy;Oil & Gas
+Canada;S&P/TSX Composite Index;ERF.TO;Enerplus Corporation;Energy
+Canada;S&P/TSX Composite Index;ENGH.TO;Enghouse Systems Limited	Technology;Software
+Canada;S&P/TSX Composite Index;EQB.TO;Equitable Group Inc.;Financial Services
+Canada;S&P/TSX Composite Index;ERO.TO;Ero Copper Corp.;Metals & Mining
+Canada;S&P/TSX Composite Index;EIF.TO;Exchange Income Corporation;Airline
+Canada;S&P/TSX Composite Index;EXE.TO;Extendicare Inc.;Healthcare
+Canada;S&P/TSX Composite Index;FFH.TO;Fairfax Financial Holdings Limited;Financial Services
+Canada;S&P/TSX Composite Index;FTT.TO;Finning International Inc.;Industrial Distribution
+Canada;S&P/TSX Composite Index;FCR.TO;First Capital Realty Inc.;Real Estate
+Canada;S&P/TSX Composite Index;FR.TO;First Majestic Silver Corp.;Metals & Mining
+Canada;S&P/TSX Composite Index;FSV.TO;FirstService Corporation;Real Estate
+Canada;S&P/TSX Composite Index;FTS.TO;Fortis Inc.;Regulated Utilities
+Canada;S&P/TSX Composite Index;FRU.TO;Freehold Royalties Ltd.;Energy
+Canada;S&P/TSX Composite Index;FEC.TO;Frontera Energy Corporation;Energy
+Canada;S&P/TSX Composite Index;MIC.TO;Genworth MI Canada Inc.;Financial Services
+Canada;S&P/TSX Composite Index;GEI.TO;Gibson Energy Inc.;Oil & Gas
+Canada;S&P/TSX Composite Index;GTE.TO;Gran Tierra Energy Inc.;Energy
+Canada;S&P/TSX Composite Index;GRT-UN.TO;Granite Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;GC.TO;Great Canadian Gaming Corporation;Travel & Leisure
+Canada;S&P/TSX Composite Index;GWO.TO;Great-West Lifeco Inc.;Financial Services
+Canada;S&P/TSX Composite Index;HR-UN.TO;H&R Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;HEXO.TO;HEXO Corp.;Healthcare
+Canada;S&P/TSX Composite Index;HCG.TO;Home Capital Group Inc.;Financial Services
+Canada;S&P/TSX Composite Index;HBM.TO;Hudbay Minerals Inc.;Metals & Mining
+Canada;S&P/TSX Composite Index;HBC.TO;Hudson's Bay Company;Retail - Apparel & Specialty
+Canada;S&P/TSX Composite Index;HSE.TO;Husky Energy Inc.;Oil & Gas
+Canada;S&P/TSX Composite Index;H.TO;Hydro One Limited;Regulated Utilities
+Canada;S&P/TSX Composite Index;IAG.TO;iA Financial Corporation Inc.;Financial Services
+Canada;S&P/TSX Composite Index;IMG.TO;Iamgold Corporation;Metals & Mining
+Canada;S&P/TSX Composite Index;IGM.TO;IGM Financial Inc.;Financial Services
+Canada;S&P/TSX Composite Index;INE.TO;Innergex Renewable Energy Inc.;Independent Power Producers
+Canada;S&P/TSX Composite Index;IFC.TO;Intact Financial Corporation;Financial Services
+Canada;S&P/TSX Composite Index;IFP.TO;Interfor Corporation;Forest Products
+Canada;S&P/TSX Composite Index;IIP-UN.TO;InterRent Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;ITP.TO;Intertape Polymer Group Inc.;Packaging & Containers
+Canada;S&P/TSX Composite Index;IVN.TO;Ivanhoe Mines Ltd.;Metals & Mining
+Canada;S&P/TSX Composite Index;KEY.TO;Keyera Corp.;Oil & Gas
+Canada;S&P/TSX Composite Index;KMP-UN.TO;Killam Apartment Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;KXS.TO;Kinaxis Inc.;Technology
+Canada;S&P/TSX Composite Index;GUD.TO;Knight Therapeutics Inc.;Healthcare
+Canada;S&P/TSX Composite Index;LIF.TO;Labrador Iron Ore Royalty Corporation;Steel
+Canada;S&P/TSX Composite Index;LB.TO;Laurentian Bank of Canada;Financial Services
+Canada;S&P/TSX Composite Index;LNR.TO;Linamar Corporation;Automotives
+Canada;S&P/TSX Composite Index;LUN.TO;Lundin Mining Corporation;Metals & Mining
+Canada;S&P/TSX Composite Index;MAG.TO;MAG Silver Corp.;Metals & Mining
+Canada;S&P/TSX Composite Index;MFI.TO;Maple Leaf Foods Inc.;Consumer Products
+Canada;S&P/TSX Composite Index;MRE.TO;Martinrea International Inc.;Automotives
+Canada;S&P/TSX Composite Index;MEG.TO;MEG Energy Corp.;Energy
+Canada;S&P/TSX Composite Index;MX.TO;Methanex Corporation;Chemicals
+Canada;S&P/TSX Composite Index;MSI.TO;Morneau Shepell Inc.;Employment Services
+Canada;S&P/TSX Composite Index;MTY.TO;MTY Food Group Inc.;Restaurants
+Canada;S&P/TSX Composite Index;MTL.TO;Mullen Group Ltd.;Oil & Gas
+Canada;S&P/TSX Composite Index;NFI.TO;NFI Group Inc.;Automotives
+Canada;S&P/TSX Composite Index;OSB.TO;Norbord Inc.;Forest Products
+Canada;S&P/TSX Composite Index;NPI.TO;Northland Power Inc.;Independent Power Producers
+Canada;S&P/TSX Composite Index;NVU-UN.TO;Northview Apartment Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;NWH-UN.TO;NorthWest Healthcare Properties Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;NG.TO;NovaGold Resources Inc.;Metals & Mining
+Canada;S&P/TSX Composite Index;OGC.TO;OceanaGold Corporation;Metals & Mining
+Canada;S&P/TSX Composite Index;ONEX.TO;Onex Corporation;Financial Services
+Canada;S&P/TSX Composite Index;OR.TO;Osisko Gold Royalties Ltd.;Metals & Mining
+Canada;S&P/TSX Composite Index;PAAS.TO;Pan American Silver Corp.;Metals & Mining
+Canada;S&P/TSX Composite Index;PXT.TO;Parex Resources Inc.;Energy
+Canada;S&P/TSX Composite Index;PKI.TO;Parkland Fuel Corporation;Oil & Gas
+Canada;S&P/TSX Composite Index;PSI.TO;Pason Systems Inc.;Oil & Gas
+Canada;S&P/TSX Composite Index;PWF.TO;Power Financial Corporation;Financial Services
+Canada;S&P/TSX Composite Index;PSK.TO;PrairieSky Royalty Ltd.;Energy
+Canada;S&P/TSX Composite Index;PBH.TO;Premium Brands Holdings Corporation;Consumer Products
+Canada;S&P/TSX Composite Index;PVG.TO;Pretium Resources Inc.;Metals & Mining
+Canada;S&P/TSX Composite Index;QBR-B.TO;Quebecor Inc.;Communication Services
+Canada;S&P/TSX Composite Index;RCH.TO;Richelieu Hardware Ltd.;Consumer Products
+Canada;S&P/TSX Composite Index;REI-UN.TO;RioCan Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;RBA.TO;Ritchie Bros. Auctioneers Incorporated;Business Services
+Canada;S&P/TSX Composite Index;RUS.TO;Russel Metals Inc.;Industrial Distribution
+Canada;S&P/TSX Composite Index;SSL.TO;Sandstorm Gold Ltd.;Metals & Mining
+Canada;S&P/TSX Composite Index;SEA.TO;Seabridge Gold Inc.;Metals & Mining
+Canada;S&P/TSX Composite Index;SES.TO;Secure Energy Services Inc.;Oil & Gas
+Canada;S&P/TSX Composite Index;SMF.TO;Semafo Inc.;Metals & Mining
+Canada;S&P/TSX Composite Index;VII.TO;Seven Generations Energy Ltd.;Energy
+Canada;S&P/TSX Composite Index;SCL.TO;ShawCor Ltd.;Oil & Gas
+Canada;S&P/TSX Composite Index;SIA.TO;Sienna Senior Living Inc.;Healthcare
+Canada;S&P/TSX Composite Index;SVM.TO;Silvercorp Metals Inc.;Metals & Mining
+Canada;S&P/TSX Composite Index;ZZZ.TO;Sleep Country Canada Holdings Inc.;Consumer Products
+Canada;S&P/TSX Composite Index;SRU-UN.TO;SmartCentres Real Estate Investment Trust;Real Estate
+Canada;S&P/TSX Composite Index;TOY.TO;Spin Master Corp.;Travel & Leisure
+Canada;S&P/TSX Composite Index;SSRM.TO;SSR Mining Inc.;Metals & Mining
+Canada;S&P/TSX Composite Index;STN.TO;Stantec Inc.;Engineering & Construction
+Canada;S&P/TSX Composite Index;SJ.TO;Stella-Jones Inc.;Forest Products
+Canada;S&P/TSX Composite Index;SMU-UN.TO;Summit Industrial Income;Real Estate
+Canada;S&P/TSX Composite Index;SPB.TO;Superior Plus Corp.;Regulated Utilities
+Canada;S&P/TSX Composite Index;TFII.TO;TFI International Inc.;Transportation & Logistics
+Canada;S&P/TSX Composite Index;NWC.TO;The North West Company Inc.;Consumer Products
+Canada;S&P/TSX Composite Index;TSGI.TO;The Stars Group Inc.;Travel & Leisure
+Canada;S&P/TSX Composite Index;TRI.TO;Thomson Reuters Corporation;Financial Services
+Canada;S&P/TSX Composite Index;X.TO;TMX Group Limited;Financial Services
+Canada;S&P/TSX Composite Index;TXG.TO;Torex Gold Resources Inc.;Metals & Mining
+Canada;S&P/TSX Composite Index;TIH.TO;Toromont Industries Ltd.;Industrial Distribution
+Canada;S&P/TSX Composite Index;TOU.TO;Tourmaline Oil Corp.;Energy
+Canada;S&P/TSX Composite Index;TA.TO;TransAlta Corporation;Independent Power Producers
+Canada;S&P/TSX Composite Index;RNW.TO;TransAlta Renewables Inc.;Independent Power Producers
+Canada;S&P/TSX Composite Index;TCL-A.TO;Transcontinental Inc.;Consumer Products
+Canada;S&P/TSX Composite Index;TCN.TO;Tricon Capital Group Inc.;Real Estate
+Canada;S&P/TSX Composite Index;TRQ.TO;Turquoise Hill Resources Ltd.;Metals & Mining
+Canada;S&P/TSX Composite Index;VET.TO;Vermilion Energy Inc.;Energy
+Canada;S&P/TSX Composite Index;WDO.TO;Wesdome Gold Mines Ltd.;Metals & Mining
+Canada;S&P/TSX Composite Index;WFT.TO;West Fraser Timber Co. Ltd.;Forest Products
+Canada;S&P/TSX Composite Index;WJA.TO;WestJet Airlines Ltd.;Airline
+Canada;S&P/TSX Composite Index;WTE.TO;Westshore Terminals Investment Corporation;Coal
+Canada;S&P/TSX Composite Index;WCP.TO;Whitecap Resources Inc.;Energy
+Canada;S&P/TSX Composite Index;WPK.TO;Winpak Ltd.;Consumer Products
+Canada;S&P/TSX Composite Index;WSP.TO;WSP Global Inc.;Engineering & Construction
+Canada;S&P/TSX Composite Index;YRI.TO;Yamana Gold Inc.;Metals & Mining
+Canada;S&P/TSX 60;AEM.TO;Agnico Eagle Mines Limited;Basic Materials
+Canada;S&P/TSX 60;ATD-B.TO;Alimentation Couche-Tard Inc.;Consumer Products
+Canada;S&P/TSX 60;BMO.TO;Bank of Montreal;Financial Services
+Canada;S&P/TSX 60;BNS.TO;Bank of Nova Scotia;Financial Services
+Canada;S&P/TSX 60;ABX.TO;Barrick Gold Corporation;Basic Materials
+Canada;S&P/TSX 60;BHC.TO;Bausch Health Companies Inc.;Healthcare
+Canada;S&P/TSX 60;BCE.TO;BCE Inc.;Communication Services
+Canada;S&P/TSX 60;BB.TO;BlackBerry Limited;Technology
+Canada;S&P/TSX 60;BBD-B.TO;Bombardier Inc.;Industrials
+Canada;S&P/TSX 60;BAM-A.TO;Brookfield Asset Management Inc.;Financial Services
+Canada;S&P/TSX 60;BIP-UN.TO;Brookfield Infrastructure Partners L.P.;Utilities
+Canada;S&P/TSX 60;CCO.TO;Cameco Corporation;Basic Materials
+Canada;S&P/TSX 60;CM.TO;Canadian Imperial Bank of Commerce;Financial Services
+Canada;S&P/TSX 60;CNR.TO;Canadian National Railway Company;Industrials
+Canada;S&P/TSX 60;CNQ.TO;Canadian Natural Resources Limited;Energy
+Canada;S&P/TSX 60;CP.TO;Canadian Pacific Railway Limited;Industrials
+Canada;S&P/TSX 60;CTC-A.TO;Canadian Tire Corporation Limited;Consumer Products
+Canada;S&P/TSX 60;WEED.TO;Canopy Growth Corporation;Healthcare
+Canada;S&P/TSX 60;CCL-B.TO;CCL Industries Inc.;Consumer Products
+Canada;S&P/TSX 60;CVE.TO;Cenovus Energy Inc.;Energy
+Canada;S&P/TSX 60;GIB-A.TO;CGI Inc.;Technology
+Canada;S&P/TSX 60;CSU.TO;Constellation Software Inc.;Technology
+Canada;S&P/TSX 60;DOL.TO;Dollarama Inc.;Consumer Products
+Canada;S&P/TSX 60;EMA.TO;Emera Incorporated;Utilities
+Canada;S&P/TSX 60;ENB.TO;Enbridge Inc.;Energy
+Canada;S&P/TSX 60;ECA.TO;Encana Corporation;Energy
+Canada;S&P/TSX 60;FM.TO;First Quantum Minerals Ltd.;Basic Materials
+Canada;S&P/TSX 60;FTS.TO;Fortis Inc.;Utilities
+Canada;S&P/TSX 60;FNV.TO;Franco-Nevada Corporation;Basic Materials
+Canada;S&P/TSX 60;WN.TO;Geovrge Weston Limited;Consumer Products
+Canada;S&P/TSX 60;GIL.TO;Gildan Activewear Inc.;Consumer Products
+Canada;S&P/TSX 60;IMO.TO;Imperial Oil Limited;Energy
+Canada;S&P/TSX 60;IPL.TO;Inter Pipeline Ltd.;Energy
+Canada;S&P/TSX 60;K.TO;Kinross Gold Corporation;Basic Materials
+Canada;S&P/TSX 60;KL.TO;Kirkland Lake Gold Ltd.;Basic Materials
+Canada;S&P/TSX 60;L.TO;Loblaw Companies Limited;Consumer Products
+Canada;S&P/TSX 60;MG.TO;Magna International Inc.;Consumer Products
+Canada;S&P/TSX 60;MFC.TO;Manulife Financial Corporation;Financial Services
+Canada;S&P/TSX 60;MRU.TO;Metro Inc.;Consumer Products
+Canada;S&P/TSX 60;NA.TO;National Bank of Canada;Financial Services
+Canada;S&P/TSX 60;NTR.TO;Nutrien Ltd.;Basic Materials
+Canada;S&P/TSX 60;OTEX.TO;Open Text Corporation;Technology
+Canada;S&P/TSX 60;PPL.TO;Pembina Pipeline Corporation;Energy
+Canada;S&P/TSX 60;POW.TO;Power Corporation of Canada;Financial Services
+Canada;S&P/TSX 60;QSR.TO;Restaurant Brands International Inc.;Consumer Products
+Canada;S&P/TSX 60;RCI-B.TO;Rogers Communications Inc.;Communication Services
+Canada;S&P/TSX 60;RY.TO;Royal Bank of Canada;Financial Services
+Canada;S&P/TSX 60;SAP.TO;Saputo Inc.;Dairy Products
+Canada;S&P/TSX 60;SJR-B.TO;Shaw Communications Inc.;Communication Services
+Canada;S&P/TSX 60;SHOP.TO;Shopify Inc.;Technology
+Canada;S&P/TSX 60;SNC.TO;SNC-Lavalin Group Inc.;Industrials
+Canada;S&P/TSX 60;SLF.TO;Sun Life Financial Inc.;Financial Services
+Canada;S&P/TSX 60;SU.TO;Suncor Energy Inc.;Energy
+Canada;S&P/TSX 60;TRP.TO;TC Energy Corporation;Energy
+Canada;S&P/TSX 60;TECK-B.TO;Teck Resources Limited;Basic Materials
+Canada;S&P/TSX 60;T.TO;Telus Corporation;Communication Services
+Canada;S&P/TSX 60;TRI.TO;Thomson Reuters Corporation;Financial Services
+Canada;S&P/TSX 60;TD.TO;Toronto-Dominion Bank;Financial Services
+Canada;S&P/TSX 60;WCN.TO;Waste Connections Inc.;Industrials
+Canada;S&P/TSX 60;WPM.TO;Wheaton Precious Metals Corp.;Basic Materials
+Brasil;Ibovespa;ABEV3.SA;AmBev;Beverages
+Brasil;Ibovespa;BTOW3.SA;B2W;Online retail
+Brasil;Ibovespa;B3SA3.SA;B3;Stock exchange
+Brasil;Ibovespa;BBAS3.SA;Banco do Brasil;Banking
+Brasil;Ibovespa;BBDC3.SA;Bradesco;Banking
+Brasil;Ibovespa;BBDC4.SA;Bradesco;Banking
+Brasil;Ibovespa;BRAP4.SA;Bradespar;Holding
+Brasil;Ibovespa;BRKM5.SA;Braskem;Petrochemicals
+Brasil;Ibovespa;BRFS3.SA;BRF;Foods
+Brasil;Ibovespa;CCRO3.SA;CCR;Transportation
+Brasil;Ibovespa;CMIG4.SA;CEMIG;Electricity utility
+Brasil;Ibovespa;CIEL3.SA;Cielo;Payment system
+Brasil;Ibovespa;CPLE6.SA;Copel;Electricity utility
+Brasil;Ibovespa;CSAN3.SA;Cosan;Conglomerate
+Brasil;Ibovespa;CPFE3.SA;CPFL Energia;Electric utility
+Brasil;Ibovespa;CSNA3.SA;CSN;Siderurgy and metallurgy
+Brasil;Ibovespa;CYRE3.SA;Cyrela Brazil Realty;Real estate
+Brasil;Ibovespa;ECOR3.SA;EcoRodovias;Transportation
+Brasil;Ibovespa;ENBR3.SA;EDP - Energias do Brasil;Electricity utility
+Brasil;Ibovespa;ELET3.SA;Eletrobras;Electric utility
+Brasil;Ibovespa;ELET6.SA;Eletrobras;Electric utility
+Brasil;Ibovespa;EMBR3.SA;Embraer;Aerospace & Defense
+Brasil;Ibovespa;EGIE3.SA;ENGIE Brasil;Electricity utility
+Brasil;Ibovespa;YDUQ3.SA;Yduqs;Higher education
+Brasil;Ibovespa;GGBR4.SA;Gerdau;Siderurgy and metallurgy
+Brasil;Ibovespa;GOLL4.SA;Gol;Airline
+Brasil;Ibovespa;PCAR4.SA;GPA;Retail
+Brasil;Ibovespa;HYPE3.SA;Hypera Pharma;Pharmaceutical
+Brasil;Ibovespa;IGTA3.SA;Iguatemi;Shopping malls
+Brasil;Ibovespa;ITUB4.SA;Itaú Unibanco;Banking
+Brasil;Ibovespa;ITSA4.SA;Itaúsa;Holding
+Brasil;Ibovespa;JBSS3.SA;JBS;Food and beverages
+Brasil;Ibovespa;KLBN11.SA;Klabin;Paper and pulp
+Brasil;Ibovespa;COGN3.SA;Cogna;Higher education
+Brasil;Ibovespa;RENT3.SA;Localiza;Rental car
+Brasil;Ibovespa;LAME4.SA;Lojas Americanas;Department Stores
+Brasil;Ibovespa;LREN3.SA;Lojas Renner;Department Stores
+Brasil;Ibovespa;GOAU4.SA;Metalúrgica Gerdau;Holding
+Brasil;Ibovespa;MRVE3.SA;MRV;Construction
+Brasil;Ibovespa;NTCO3.SA;Natura Co.;Cosmetics
+Brasil;Ibovespa;PETR3.SA;Petrobras;Oil & gas
+Brasil;Ibovespa;PETR4.SA;Petrobras;Oil & gas
+Brasil;Ibovespa;RAIL3.SA;Rumo;Logistics
+Brasil;Ibovespa;SBSP3.SA;Sabesp;Waste management
+Brasil;Ibovespa;SANB11.SA;Santander Brasil;Banking
+Brasil;Ibovespa;SMLS3.SA;Smiles S.A.;Loyalty program
+Brasil;Ibovespa;SUZB3.SA;Suzano Papel e Celulose;Pulp and paper
+Brasil;Ibovespa;VIVT4.SA;Telefônica Vivo;Telecommunications
+Brasil;Ibovespa;TIMP3.SA;TIM Participações;Telecommunications
+Brasil;Ibovespa;UGPA3.SA;Ultrapar;Conglomerate
+Brasil;Ibovespa;USIM5.SA;Usiminas;Siderurgy and metallurgy
+Brasil;Ibovespa;VALE3.SA;Vale;Mining
+Brasil;Ibovespa;VVAR3.SA;Via Varejo;Retail
+Brasil;Ibovespa;WEGE3.SA;WEG;Industrial engineering
+Argentina;MERVAL;ALU.BA;Aluar;Aluminium
+Argentina;MERVAL;BBAR.BA;Banco BBVA Argentina;Banking
+Argentina;MERVAL;BMA.BA;Banco Macro;Banking
+Argentina;MERVAL;BBARC.BA;Banco BBVA Frances;Banking
+Argentina;MERVAL;GGAL.BA;Grupo Financiero Galicia;Financial Services
+Argentina;MERVAL;PAMP.BA;Pampa;Energy
+Argentina;MERVAL;TECO2.BA;Telecom Argentina;Telecommunication
+Argentina;MERVAL;EDN.BA;Edenor;Retail
+Argentina;MERVAL;COME.BA;Sociedad Comercial del Plata;Real Estate
+Argentina;MERVAL;YPFD.BA;YPF;Öl & Gas
+Italy;FTSE MIB;A2A.MI;A2A;Electricity
+Italy;FTSE MIB;AMP.MI;Amplifon;Health
+Italy;FTSE MIB;ATL.MI;Atlantia;Industrial Transportation
+Italy;FTSE MIB;AZM.MI;Azimut;Financial Services
+Italy;FTSE MIB;BGN.MI;Banca Generali;Financial Services
+Italy;FTSE MIB;BAMI.MI;Banco BPM;Banking
+Italy;FTSE MIB;BPE.MI;BPER Banca;Banking
+Italy;FTSE MIB;BRE.MI;Brembo;Automotives
+Italy;FTSE MIB;BZU.MI;Buzzi Unicem;Construction
+Italy;FTSE MIB;CPR.MI;Campari;Beverages
+Italy;FTSE MIB;CNHI.MI;CNH Industrial;Industrial Goods & Services
+Italy;FTSE MIB;DIA.MI;Diasorin;Biotechnology
+Italy;FTSE MIB;ENEL.MI;Enel;Electricity
+Italy;FTSE MIB;ENI.MI;Eni;Oil & Gas Producers
+Italy;FTSE MIB;EXO.MI;Exor;Financial Services
+Italy;FTSE MIB;RACE.MI;Ferrari;Automotives
+Italy;FTSE MIB;FCA.MI;Fiat Chrysler Automobiles;Automotives
+Italy;FTSE MIB;FBK.MI;FinecoBank;Banking
+Italy;FTSE MIB;G.MI;Generali;Insurance
+Italy;FTSE MIB;ISP.MI;Intesa Sanpaolo;Banking
+Italy;FTSE MIB;IG.MI;Italgas;Natural Gas
+Italy;FTSE MIB;JUVE.MI;Juventus Football Club;Sports
+Italy;FTSE MIB;LDO.MI;Leonardo;Aerospace & Defense
+Italy;FTSE MIB;MB.MI;Mediobanca;Banking
+Italy;FTSE MIB;MONC.MI;Moncler;Personal Goods
+Italy;FTSE MIB;PIRC.MI;Pirelli;Automotives
+Italy;FTSE MIB;PST.MI;Poste italiane;Insurance
+Italy;FTSE MIB;PRY.MI;Prysmian;Electronic & Electrical Equipment
+Italy;FTSE MIB;REC.MI;Recordati;Pharmaceuticals & Biotechnology
+Italy;FTSE MIB;SPM.MI;Saipem;Oil Equipment Services & Distribution
+Italy;FTSE MIB;SFER.MI;Salvatore Ferragamo;Personal Goods
+Italy;FTSE MIB;SRG.MI;Snam;Gas Water & Multiutilities
+Italy;FTSE MIB;STM.MI;STMicroelectronics;Technology Hardware & Equipment
+Italy;FTSE MIB;TIT.MI;Telecom Italia;Fixed Line Telecommunications
+Italy;FTSE MIB;TEN.MI;Tenaris;Industrial Metals & Mining
+Italy;FTSE MIB;TRN.MI;Terna;Electricity
+Italy;FTSE MIB;UBI.MI;UBI Banca;Banking
+Italy;FTSE MIB;UCG.MI;UniCredit;Banking
+Italy;FTSE MIB;UNI.MI;Unipol;Insurance
+Italy;FTSE MIB;US.MI;UnipolSai;Insurance
+France;CAC Next 20;AF.PA;Air France–KLM;Airline
+France;CAC Next 20;ALO.PA;Alstom;rRail transportation
+France;CAC Next 20;AKE.PA;Arkema;Specialty chemicals
+France;CAC Next 20;BVI.PA;Bureau Veritas;Business Services
+France;CAC Next 20;EDEN.PA;Edenred;Financial Services
+France;CAC Next 20;EDF.PA;EDF;Electricity
+France;CAC Next 20;FGR.PA;Eiffage;Construction
+France;CAC Next 20;EO.PA;Faurecia;Automotives
+France;CAC Next 20;GFC.PA;Gecina;Real Estate
+France;CAC Next 20;GET.PA;Getlink;Rail Transport
+France;CAC Next 20;ING.PA;Ingenico;Electronic Transactions
+France;CAC Next 20;LI.PA;Klépierre;Real Estate
+France;CAC Next 20;KN.PA;Natixis;Banking
+France;CAC Next 20;SCR.PA;Scor;Reinsurance
+France;CAC Next 20;SESG.PA;SES;Telecommunications
+France;CAC Next 20;SOLB.BR;Solvay;Chemicals
+France;CAC Next 20;SEV.PA;Suez Environnement;Water
+France;CAC Next 20;TEP.PA;Teleperformance;Business Services
+France;CAC Next 20;UBI.PA;Ubisoft;Video Games
+France;CAC Next 20;FR.PA;Valeo;Automotives
+France;CAC 40;AC.PA;Accor;Hotels
+France;CAC 40;AI.PA;Air Liquide;Chemicals
+France;CAC 40;AIR.PA;Airbus;Aerospace & Defense
+France;CAC 40;MT.AS;ArcelorMittal;Steel
+France;CAC 40;ATO.PA;Atos;IT services
+France;CAC 40;CS.PA;AXA;Insurance
+France;CAC 40;BNP.PA;BNP Paribas;Banking
+France;CAC 40;EN.PA;Bouygues;Heavy construction
+France;CAC 40;CAP.PA;Capgemini;IT services
+France;CAC 40;CA.PA;Carrefour;Food
+France;CAC 40;ACA.PA;Crédit Agricole;Banking
+France;CAC 40;BN.PA;Danone;Food
+France;CAC 40;DSY.PA;Dassault Systèmes;Software
+France;CAC 40;ENGI.PA;Engie;Gas and electric utility
+France;CAC 40;EL.PA;Essilor;Medical supplies
+France;CAC 40;RMS.PA;Hermès;Clothing
+France;CAC 40;KER.PA;Kering;Retail business
+France;CAC 40;OR.PA;L'Oréal;Personal products
+France;CAC 40;LR.PA;Legrand;Electrical components and equipment
+France;CAC 40;MC.PA;LVMH;Clothing
+France;CAC 40;ML.PA;Michelin;Tires
+France;CAC 40;ORA.PA;Orange;Telecommunications
+France;CAC 40;RI.PA;Pernod Ricard;Distillers and vintners
+France;CAC 40;UG.PA;PSA;Automotives
+France;CAC 40;PUB.PA;Publicis;Media agencies
+France;CAC 40;RNO.PA;Renault;Automotives
+France;CAC 40;SAF.PA;Safran;Aerospace & Defense
+France;CAC 40;SGO.PA;Saint-Gobain;Construction
+France;CAC 40;SAN.PA;Sanofi;Pharmaceuticals
+France;CAC 40;SU.PA;Schneider Electric;Electrical components and equipment
+France;CAC 40;GLE.PA;Société Générale;Banking
+France;CAC 40;SW.PA;Sodexo;Food
+France;CAC 40;STM.PA;STMicroelectronics;Semiconductors
+France;CAC 40;FTI;TechnipFMC;Oil and Gas services
+France;CAC 40;HO.PA;Thales;Aerospace & Defense
+France;CAC 40;FP.PA;Total;Oil & gas
+France;CAC 40;URW.AS;Unibail-Rodamco-Westfield;Real estate
+France;CAC 40;VIE.PA;Veolia;Engergy
+France;CAC 40;DG.PA;Vinci;Heavy construction
+France;CAC 40;VIV.PA;Vivendi;Media
+Belgium;BEL 20;ACKB.BR;Ackermans & van Haaren;Financial Services
+Belgium;BEL 20;AGS.BR;Ageas;Insurance
+Belgium;BEL 20;ABI.BR;AB InBev;Food and Beverage
+Belgium;BEL 20;APAM.AS;Aperam;Basic Materials
+Belgium;BEL 20;ARGX.BR;arGEN-X;Chemicals
+Belgium;BEL 20;BAR.BR;Barco;electronic equipment
+Belgium;BEL 20;COFB.BR;Cofinimmo;Real Estate
+Belgium;BEL 20;COLR.BR;Colruyt;Retail
+Belgium;BEL 20;GLPG.BR;Galapagos;Health Care
+Belgium;BEL 20;GBLB.BR;GBL;Financial Services
+Belgium;BEL 20;INGA.BR;ING Group;Banking
+Belgium;BEL 20;KBC.BR;KBC;Banking
+Belgium;BEL 20;ONTEX.BR;Ontex;Group	Personal and Household Goods
+Belgium;BEL 20;PROX.BR;Proximus;Telecommunications
+Belgium;BEL 20;SOF.BR;Sofina;Financial Services
+Belgium;BEL 20;SOLB.BR;Solvay;Chemicals
+Belgium;BEL 20;TNET.BR;Telenet Group;Media
+Belgium;BEL 20;UCB.BR;UCB;Health Care
+Belgium;BEL 20;UMI.BR;Umicore;Chemicals
+Belgium;BEL 20;WDP.BR;WDP;Real Estate
+Austria;ATX;EBS.VI;Erste Bank;Banking
+Austria;ATX;OMV.VI;OMV;Oil & Gas
+Austria;ATX;VOE.VI;Voestalpine;Mining & Metals
+Austria;ATX;RBI.VI;Raiffeisen International;Banking
+Austria;ATX;ANDR.VI;Andritz;Industrial Engineering & Machinery
+Austria;ATX;LNZ.VI;Lenzing;Chemicals
+Austria;ATX;IIA.VI;Immofinanz;Real Estate
+Austria;ATX;WIE.VI;Wienerberger;Construction
+Austria;ATX;BG.VI;BAWAG;Banking
+Austria;ATX;CAI.VI;CA Immo;Real Estate
+Austria;ATX;VER.VI;Verbund;Electric Utilities
+Austria;ATX;ATS.VI;Austria Technologie & Systemtechnik AG;Goods & Services	Electronics
+Austria;ATX;SBO.VI;Schoeller-Bleckmann Oilfield Equipment;Oil & Gas
+Austria;ATX;UQA.VI;Uniqa Insurance Group;Insurance
+Austria;ATX;VIG.VI;Vienna Insurance Group;Insurance
+Austria;ATX;POST.VI;Österreichische Post;Transportation
+Austria;ATX;FACC.VI;FACC;Aerospace & Defense
+Austria;ATX;TKA.VI;Telekom Austria;Telecommunications
+Austria;ATX;DOC.VI;DO&CO;Food, Beverage & Tobacco
+Austria;ATX;SPI.VI;S IMMO AG;Real Estate
+Indonesia;JII;CTRA.JK;Ciputra Development Tbk;Real Estate
+Indonesia;JII;EXCL.JK;XL Axiata Tbk PT;Telecommunication
+Indonesia;JII;LSIP.JK;PP London Sumatra Indonesia Tbk PT;Consumer Products
+Indonesia;JII;SMRA.JK;Summarecon Agung Tbk PT;Real Estate
+Indonesia;LQ45;ADHI.JK;Adhi Karya (Persero) Tbk.;Construction
+Indonesia;LQ45;ADRO.JK;Adaro Energy Tbk.;Energy
+Indonesia;LQ45;AKRA.JK;AKR Corporindo Tbk.;Petroleum
+Indonesia;LQ45;ANTM.JK;Aneka Tambang Tbk.;Mining
+Indonesia;LQ45;ASII.JK;Astra International Tbk.;Automotives
+Indonesia;LQ45;BBCA.JK;Bank Central Asia Tbk.;Financial Services
+Indonesia;LQ45;BBNI.JK;Bank Negara Indonesia (Persero) Tbk.;Financial Services
+Indonesia;LQ45;BBRI.JK;Bank Rakyat Indonesia (Persero) Tbk.;Financial Services
+Indonesia;LQ45;BBTN.JK;Bank Tabungan Negara (Persero) Tbk.;Financial Services
+Indonesia;LQ45;BJBR.JK;BPD Jawa Barat dan Banten Tbk.;Financial Services
+Indonesia;LQ45;BMRI.JK;Bank Mandiri (Persero) Tbk.;Financial Services
+Indonesia;LQ45;BMTR.JK;Global Mediacom Tbk.;Media
+Indonesia;LQ45;BRPT.JK;Barito Pacific Tbk.;Energy
+Indonesia;LQ45;BSDE.JK;Bumi Serpong Damai Tbk.;Real Estate
+Indonesia;LQ45;BUMI.JK;Bumi Resources Tbk.;Energy
+Indonesia;LQ45;GGRM.JK;Gudang Garam Tbk.;Tobacco
+Indonesia;LQ45;HMSP.JK;H.M. Sampoerna Tbk.;Tobacco
+Indonesia;LQ45;ICBP.JK;Indofood CBP Sukses Makmur Tbk.;Food
+Indonesia;LQ45;INCO.JK;Vale Indonesia Tbk.;Mining
+Indonesia;LQ45;INDF.JK;Indofood Sukses Makmur Tbk.;Food
+Indonesia;LQ45;INDY.JK;Indika Energy Tbk.;Energy
+Indonesia;LQ45;INTP.JK;Indocement Tunggal Prakarsa Tbk.;Cement
+Indonesia;LQ45;JSMR.JK;Jasa Marga (Persero) Tbk.;Infrastructure Construction
+Indonesia;LQ45;KLBF.JK;Kalbe Farma Tbk.;Healthcare
+Indonesia;LQ45;LPKR.JK;Lippo Karawaci Tbk.;Real Estate
+Indonesia;LQ45;LPPF.JK;Matahari Department Store Tbk.;Retail Business
+Indonesia;LQ45;MNCN.JK;Media Nusantara Citra Tbk.;Media
+Indonesia;LQ45;MYRX.JK;Hanson International Tbk.;Waste Management
+Indonesia;LQ45;PGAS.JK;Perusahaan Gas Negara (Persero) Tbk.;Oil & Gas
+Indonesia;LQ45;PTBA.JK;Tambang Batubara Bukit Asam (Persero) Tbk.;Oil & Gas
+Indonesia;LQ45;PTPP.JK;PP (Persero) Tbk.;Construction
+Indonesia;LQ45;PWON.JK;Pakuwon Jati Tbk.;Real Estate
+Indonesia;LQ45;SCMA.JK;Surya Citra Media Tbk.;Media
+Indonesia;LQ45;SMGR.JK;Semen Indonesia (Persero) Tbk.;Construction
+Indonesia;LQ45;SRIL.JK;Sri Rejeki Isman Tbk.;Textile
+Indonesia;LQ45;SSMS.JK;Sawit Sumbermas Sarana Tbk.;Consumer Products
+Indonesia;LQ45;TLKM.JK;Telekomunikasi Indonesia (Perser o) Tbk.;Telecommunications
+Indonesia;LQ45;TPIA.JK;Chandra Asri Petrochemical Tbk.;Petrochemical
+Indonesia;LQ45;TRAM.JK;Trada Alam Minera Tbk.;Petroleum
+Indonesia;LQ45;UNTR.JK;United Tractors;Heavy Equipment
+Indonesia;LQ45;UNVR.JK;Unilever Indonesia;Food
+Indonesia;LQ45;WIKA.JK;Wijaya Karya;Construction
+Indonesia;LQ45;WSBP.JK;Waskita Beton Precast Tbk.;Construction
+Indonesia;LQ45;WSKT.JK;Waskita Karya;Construction
+Japan;NIKKEI 225;9983.T;Fast Retailing;Einzelhandel
+Japan;NIKKEI 225;9984.T;Softbank;Kommunikation
+Japan;NIKKEI 225;6954.T;Fanuc;Elektronik, Maschinen
+Japan;NIKKEI 225;8035.T;Tokyo Electron;Elektronik
+Japan;NIKKEI 225;9433.T;KDDI;Kommunikation
+Japan;NIKKEI 225;4543.T;Terumo;Präzisionsgeräte
+Japan;NIKKEI 225;6971.T;Kyocera;Elektronik, Maschinen
+Japan;NIKKEI 225;6367.T;Daikin Industries;Maschinen
+Japan;NIKKEI 225;8028.T;Familymart Uny Holdings;Einzelhandel
+Japan;NIKKEI 225;9735.T;Secom;Commercial Services
+Japan;NIKKEI 225;4063.T;Shin-Etsu Chemical;Chemicals
+Japan;NIKKEI 225;6098.T;Recruit Holdings;Personaldienstleistung
+Japan;NIKKEI 225;6762.T;TDK;Elektronik
+Japan;NIKKEI 225;4452.T;Kao;Kosmetik
+Japan;NIKKEI 225;4503.T;Astellas;Pharma
+Japan;NIKKEI 225;4911.T;Shiseido;Kosmetik
+Japan;NIKKEI 225;4519.T;Chugai Pharmaceutical;Pharma
+Japan;NIKKEI 225;4507.T;Shionogi;Pharma
+Japan;NIKKEI 225;7203.T;Toyota Motor;Automotives
+Japan;NIKKEI 225;4523.T;Eisai;Pharma
+Japan;NIKKEI 225;7267.T;Honda Motor;Automotives
+Japan;NIKKEI 225;9613.T;NTT Data;Kommunikation
+Japan;NIKKEI 225;6988.T;Nitto Denko;Sonstige Industrie
+Japan;NIKKEI 225;7951.T;Yamaha Corporation;Sonstige Industrie
+Japan;NIKKEI 225;4568.T;Daiichi Sankyo;Pharma
+Japan;NIKKEI 225;2801.T;Kikkoman;Nahrungsmittel
+Japan;NIKKEI 225;4704.T;Trend Micro;Software
+Japan;NIKKEI 225;6645.T;Omron;Elektronik
+Japan;NIKKEI 225;6857.T;Advantest;Elektronik
+Japan;NIKKEI 225;4021.T;Nissan Chemical Industries;Chemicals
+Japan;NIKKEI 225;4901.T;Fujifilm Holdings;Chemicals
+Japan;NIKKEI 225;2502.T;Asahi Group Holdings;Beverages
+Japan;NIKKEI 225;7269.T;Suzuki Motor;Automotives
+Japan;NIKKEI 225;7733.T;Olympus;Präzisionsgeräte
+Japan;NIKKEI 225;7751.T;Canon;Elektronik
+Japan;NIKKEI 225;9766.T;Konami;Games
+Japan;NIKKEI 225;4324.T;Dentsu;Commercial Services
+Japan;NIKKEI 225;6758.T;Sony;Elektronik
+Japan;NIKKEI 225;4502.T;Takeda Pharmaceutical;Pharma
+Japan;NIKKEI 225;8830.T;Sumitomo Realty & Development;Immobilien
+Japan;NIKKEI 225;4578.T;Otsuka Holdings;Pharma
+Japan;NIKKEI 225;6902.T;Denso;Elektronik
+Japan;NIKKEI 225;5108.T;Bridgestone;Gummi
+Japan;NIKKEI 225;3382.T;Seven & i Holdings;Einzelhandel
+Japan;NIKKEI 225;8015.T;Toyota Tsusho;Handelshaus
+Japan;NIKKEI 225;6506.T;Yaskawa Electric;Elektronik
+Japan;NIKKEI 225;1925.T;Daiwa House Industry;Construction
+Japan;NIKKEI 225;6724.T;Seiko Epson	Elektronik;Electronic
+Japan;NIKKEI 225;1721.T;Comsys Holdings;Construction
+Japan;NIKKEI 225;8058.T;Mitsubishi Corporation;Handelshaus
+Japan;NIKKEI 225;6305.T;Hitachi Construction Machinery;Maschinen
+Japan;NIKKEI 225;9064.T;Yamato Holdings;Logistik
+Japan;NIKKEI 225;8801.T;Mitsui Fudosan;Immobilien
+Japan;NIKKEI 225;2914.T;Japan Tobacco;Tabak
+Japan;NIKKEI 225;4506.T;Sumitomo Dainippon Pharma;Pharma
+Japan;NIKKEI 225;8766.T;Tokio Marine Holdings;Versicherung
+Japan;NIKKEI 225;2503.T;Kirin Holdings;Nahrungsmittel
+Japan;NIKKEI 225;6301.T;Komatsu;Maschinen
+Japan;NIKKEI 225;9022.T;Central Japan Railway;Eisenbahnbetreiber
+Japan;NIKKEI 225;2002.T;Nisshin Seifun Group;Nahrungsmittel
+Japan;NIKKEI 225;7270.T;Subaru Corporation;Automotives
+Japan;NIKKEI 225;4151.T;Kyowa Hakko Kirin;Pharma
+Japan;NIKKEI 225;5332.T;TOTO;Construction
+Japan;NIKKEI 225;6770.T;Alps Alpine;Elektronik
+Japan;NIKKEI 225;6841.T;Yokogawa Electric;Elektronik
+Japan;NIKKEI 225;8267.T;Æon;Einzelhandel
+Japan;NIKKEI 225;5901.T;Toyo Seikan Group Holdings;NE-Metalle
+Japan;NIKKEI 225;6976.T;Taiyo Yuden;Elektronik
+Japan;NIKKEI 225;7272.T;Yamaha Motor;Motorräder
+Japan;NIKKEI 225;8252.T;Marui Group;Einzelhandel
+Japan;NIKKEI 225;2282.T;Nh Foods;Nahrungsmittel
+Japan;NIKKEI 225;8001.T;Itochu;Handelshaus
+Japan;NIKKEI 225;9009.T;Keisei Electric Railway;Eisenbahnbetreiber
+Japan;NIKKEI 225;8802.T;Mitsubishi Estate;Immobilien
+Japan;NIKKEI 225;1928.T;Sekisui House;Construction
+Japan;NIKKEI 225;2269.T;Meiji Holdings;Nahrungsmittel
+Japan;NIKKEI 225;2802.T;Ajinomoto;Nahrungsmittel
+Japan;NIKKEI 225;8031.T;Mitsui Bussan;Mischkonzern
+Japan;NIKKEI 225;5713.T;Sumitomo Metal Mining;NE-Metalle
+Japan;NIKKEI 225;6479.T;Minebea Mitsumi;Elektronik
+Japan;NIKKEI 225;5333.T;NGK Insulators;Keramik und Akkumulatoren
+Japan;NIKKEI 225;6326.T;Kubota;Maschinen
+Japan;NIKKEI 225;7731.T;Nikon;Präzisionsgeräte
+Japan;NIKKEI 225;8053.T;Sumitomo Corporation;Handelshaus
+Japan;NIKKEI 225;9301.T;Mitsubishi Logistics;Logistik
+Japan;NIKKEI 225;1963.T;JGC;Construction
+Japan;NIKKEI 225;5019.T;Idemitsu Kosan;Öl und Gas
+Japan;NIKKEI 225;5802.T;Sumitomo Electric Industries;NE-Metalle
+Japan;NIKKEI 225;8253.T;Credit Saison;Finanzdienstleistungen
+Japan;NIKKEI 225;3405.T;Kuraray;Chemicals
+Japan;NIKKEI 225;6503.T;Mitsubishi Electric;Elektronik
+Japan;NIKKEI 225;6952.T;Casio Computer;Elektronik
+Japan;NIKKEI 225;9008.T;Keio;Eisenbahnbetreiber
+Japan;NIKKEI 225;5301.T;Tokai Carbon;Graphit
+Japan;NIKKEI 225;6473.T;JTEKT;Maschinen
+Japan;NIKKEI 225;2531.T;Takara Holdings;Nahrungsmittel
+Japan;NIKKEI 225;2871.T;Nichirei;Nahrungsmittel
+Japan;NIKKEI 225;4272.T;Nippon Kayaku;Chemicals
+Japan;NIKKEI 225;7912.T;Dai Nippon Printing;Druckgewerbe
+Japan;NIKKEI 225;9007.T;Odakyu Electric Railway;Eisenbahnbetreiber
+Japan;NIKKEI 225;6178.T;Japan Post Holdings;Logistik
+Japan;NIKKEI 225;6103.T;Okuma;Maschinen
+Japan;NIKKEI 225;3407.T;Asahi Kasei;Chemicals
+Japan;NIKKEI 225;7752.T;Ricoh;Elektronik
+Japan;NIKKEI 225;1802.T;Obayashi;Construction
+Japan;NIKKEI 225;3099.T;Isetan Mitsukoshi Holdings;Einzelhandel
+Japan;NIKKEI 225;4902.T;Konica Minolta;Präzisionsgeräte
+Japan;NIKKEI 225;6113.T;Amada;Maschinen
+Japan;NIKKEI 225;9020.T;East Japan Railway;Eisenbahnbetreiber
+Japan;NIKKEI 225;1801.T;Taisei;Construction
+Japan;NIKKEI 225;5101.T;The Yokohama Rubber Company;Gummi
+Japan;NIKKEI 225;6471.T;NSK;Maschinen
+Japan;NIKKEI 225;8628.T;Matsui Securities;Investment
+Japan;NIKKEI 225;8630.T;Sompo Japan Nipponkoa Holdings;Versicherung
+Japan;NIKKEI 225;1803.T;Shimizu Corporation;Construction
+Japan;NIKKEI 225;3105.T;Nisshinbo Holdings;Textilien
+Japan;NIKKEI 225;4755.T;Rakuten;Internethandel
+Japan;NIKKEI 225;6752.T;Panasonic;Elektronik
+Japan;NIKKEI 225;8725.T;MS&AD Insurance Group Holdings;Insurance
+Japan;NIKKEI 225;9005.T;Tokyu;Eisenbahnbetreiber
+Japan;NIKKEI 225;7201.T;Nissan Motor;Automotives
+Japan;NIKKEI 225;7205.T;Hino Motors;Automotives
+Japan;NIKKEI 225;7735.T;Screen Holdings;Elektronik
+Japan;NIKKEI 225;9432.T;Nippon Telegraph and Telephone;Kommunikation
+Japan;NIKKEI 225;4042.T;Tosoh;Chemicals
+Japan;NIKKEI 225;4751.T;CyberAgent;Commercial Services
+Japan;NIKKEI 225;5214.T;Nippon Electric Glass;Glas
+Japan;NIKKEI 225;7911.T;Toppan Printing;Druckgewerbe
+Japan;NIKKEI 225;8355.T;The Shizuoka Bank;Banking
+Japan;NIKKEI 225;1332.T;Nippon Suisan Kaisha;Fischerei
+Japan;NIKKEI 225;1812.T;Kajima;Construction
+Japan;NIKKEI 225;6702.T;Fujitsu;Elektronik
+Japan;NIKKEI 225;8002.T;Marubeni;Handelshaus
+Japan;NIKKEI 225;9021.T;West Japan Railway;Eisenbahnbetreiber
+Japan;NIKKEI 225;5201.T;AGC;Glas
+Japan;NIKKEI 225;5714.T;DOWA Holdings;NE-Metalle
+Japan;NIKKEI 225;6302.T;Sumitomo Heavy Industries;Maschinen
+Japan;NIKKEI 225;6501.T;Hitachi;Elektronik
+Japan;NIKKEI 225;7202.T;Isuzu Motors;Automotives
+Japan;NIKKEI 225;8233.T;Takashimaya;Einzelhandel
+Japan;NIKKEI 225;3402.T;Toray Industries;Textilien
+Japan;NIKKEI 225;3861.T;Oji Holdings;Papier
+Japan;NIKKEI 225;8804.T;Tokyo Tatemono;Immobilien
+Japan;NIKKEI 225;3086.T;J.Front Retailing;Einzelhandel
+Japan;NIKKEI 225;3289.T;Tokyu Fudosan Holdings;Immobilien
+Japan;NIKKEI 225;4061.T;Denka;Chemicals
+Japan;NIKKEI 225;6361.T;Ebara Corporation;Maschinen
+Japan;NIKKEI 225;6504.T;Fuji Electric;Elektronik
+Japan;NIKKEI 225;7762.T;Citizen Watch;Uhren
+Japan;NIKKEI 225;8331.T;The Chiba Bank;Banking
+Japan;NIKKEI 225;9001.T;Tobu Railway;Eisenbahnbetreiber
+Japan;NIKKEI 225;9062.T;Nippon Express;Logistik
+Japan;NIKKEI 225;8306.T;Mitsubishi UFJ Financial Group;Banking
+Japan;NIKKEI 225;9531.T;Tokyo Gas;Gas
+Japan;NIKKEI 225;2432.T;DeNA;Internet (Mobile Gaming)
+Japan;NIKKEI 225;2501.T;Sapporo Holdings;Beverages
+Japan;NIKKEI 225;4005.T;Sumitomo Chemical;Chemicals
+Japan;NIKKEI 225;4043.T;Tokuyama;Chemicals
+Japan;NIKKEI 225;4183.T;Mitsui Chemicals;Chemicals
+Japan;NIKKEI 225;5020.T;JXTG Holdings;Öl & Kohle
+Japan;NIKKEI 225;8354.T;Fukuoka Financial Group;Banking
+Japan;NIKKEI 225;8601.T;Daiwa Securities Group;Investment
+Japan;NIKKEI 225;9681.T;Tokyo Dome;Commercial Services
+Japan;NIKKEI 225;5232.T;Sumitomo Osaka Cement;Construction
+Japan;NIKKEI 225;6674.T;GS Yuasa;Elektronik
+Japan;NIKKEI 225;7011.T;Mitsubishi Heavy Industries;Maschinen
+Japan;NIKKEI 225;7186.T;Concordia Financial;Finanzen
+Japan;NIKKEI 225;9532.T;Osaka Gas;Gas
+Japan;NIKKEI 225;9602.T;Tōhō;Commercial Services
+Japan;NIKKEI 225;1333.T;Maruha Nichiro;Fischerei
+Japan;NIKKEI 225;1605.T;INPEX;Öl und Gas
+Japan;NIKKEI 225;4004.T;Showa Denko;Chemicals
+Japan;NIKKEI 225;4188.T;Mitsubishi Chemical Holdings;Chemicals
+Japan;NIKKEI 225;5233.T;Taiheiyo Cement;Construction
+Japan;NIKKEI 225;5631.T;The Japan Steel Works;Stahl
+Japan;NIKKEI 225;5803.T;Fujikura;NE-Metalle
+Japan;NIKKEI 225;8309.T;Sumitomo Mitsui Trust Holdings;Banking
+Japan;NIKKEI 225;8316.T;Sumitomo Mitsui Financial Group;Banking
+Japan;NIKKEI 225;8604.T;Nomura Holdings;Investment
+Japan;NIKKEI 225;8729.T;Sony Financial Holdings;Banking
+Japan;NIKKEI 225;9202.T;ANA Holdings;Luftfahrt
+Japan;NIKKEI 225;3401.T;Teijin;Textilien
+Japan;NIKKEI 225;4631.T;DIC;Chemicals
+Japan;NIKKEI 225;5707.T;Toho Zinc;NE-Metalle
+Japan;NIKKEI 225;6472.T;NTN;Maschinen
+Japan;NIKKEI 225;6701.T;NEC Corporation;Elektronik
+Japan;NIKKEI 225;1808.T;Haseko;Construction
+Japan;NIKKEI 225;5541.T;Pacific Metals;NE-Metalle
+Japan;NIKKEI 225;5706.T;Mitsui Mining and Smelting;NE-Metalle
+Japan;NIKKEI 225;5711.T;Mitsubishi Materials;NE-Metalle
+Japan;NIKKEI 225;5801.T;Furukawa Electric;Elektronik
+Japan;NIKKEI 225;6366.T;Chiyoda;Maschinen
+Japan;NIKKEI 225;7012.T;Kawasaki Heavy Industries;Maschinen
+Japan;NIKKEI 225;7013.T;IHI;Maschinen
+Japan;NIKKEI 225;8304.T;Aozora Bank;Banking
+Japan;NIKKEI 225;3863.T;Nippon Paper Industries;Papier
+Japan;NIKKEI 225;4208.T;Ube Industries;Chemicals
+Japan;NIKKEI 225;5703.T;Nippon Light Metal Holdings;NE-Metalle
+Japan;NIKKEI 225;7261.T;Mazda Motor;Automotives
+Japan;NIKKEI 225;8795.T;T&D Holdings;Versicherung
+Japan;NIKKEI 225;9104.T;Mitsui O.S.K. Lines;Schifffahrt
+Japan;NIKKEI 225;9437.T;NTT Docomo;Kommunikation
+Japan;NIKKEI 225;5401.T;Nippon Steel;Stahl
+Japan;NIKKEI 225;5411.T;JFE Holdings;Stahl
+Japan;NIKKEI 225;8303.T;Shinsei Bank;Banking
+Japan;NIKKEI 225;8411.T;Mizuho Financial Group;Banking
+Japan;NIKKEI 225;8750.T;The Dai-ichi Life Insurance;Insurance
+Japan;NIKKEI 225;9101.T;Nippon Yūsen (NYK);Schifffahrt
+Japan;NIKKEI 225;9502.T;Chubu Electric Power;Strom
+Japan;NIKKEI 225;9503.T;The Kansai Electric Power Co.;Strom
+Japan;NIKKEI 225;3101.T;Toyobo;Textilien
+Japan;NIKKEI 225;3436.T;SUMCO;NE-Metalle
+Japan;NIKKEI 225;4689.T;Yahoo Japan;Internet
+Japan;NIKKEI 225;5202.T;Nippon Sheet Glass;Glas
+Japan;NIKKEI 225;6703.T;Oki Electric Industry;Elektronik
+Japan;NIKKEI 225;7003.T;Mitsui Engineering & Shipbuilding;Schiffbau
+Japan;NIKKEI 225;9107.T;Kawasaki Kisen;Schifffahrt
+Japan;NIKKEI 225;2768.T;Sojitz;Handelshaus
+Japan;NIKKEI 225;3103.T;Unitika;Textilien
+Japan;NIKKEI 225;5406.T;Kobe Steel;Stahl
+Japan;NIKKEI 225;7004.T;Hitachi Zosen;Maschinen
+Japan;NIKKEI 225;7211.T;Mitsubishi Motors;Automotives
+Japan;NIKKEI 225;8308.T;Resona Holdings;Banking
+Japan;NIKKEI 225;9501.T;Tokyo Electric Power;Strom
+Japan;NIKKEI 225;9412.T;SKY Perfect JSAT Holdings;Kommunikation
+UK;FTSE 100;III.L;3i;Financial Services
+UK;FTSE 100;ADM.L;Admiral Group;Insurance
+UK;FTSE 100;AAL.L;Anglo American plc;Mining
+UK;FTSE 100;ANTO.L;Antofagasta;Mining
+UK;FTSE 100;AHT.L;Ashtead Group;Support Services
+UK;FTSE 100;ABF.L;Associated British Foods;Food Producers
+UK;FTSE 100;AZN.L;AstraZeneca;Pharmaceuticals & Biotechnology
+UK;FTSE 100;AUTO.L;Auto Trader Group;Media
+UK;FTSE 100;AVV.L;Aveva;Software & Computer Services
+UK;FTSE 100;AV.L;Aviva;Insurance
+UK;FTSE 100;BA.L;BAE Systems;Aerospace & Defense
+UK;FTSE 100;BARC.L;Barclays;Banking
+UK;FTSE 100;BDEV.L;Barratt Developments;Household Goods & Home Construction
+UK;FTSE 100;BKG.L;Berkeley Group Holdings;Household Goods & Home Construction
+UK;FTSE 100;BHP.L;BHP;Mining
+UK;FTSE 100;BP.L;BP;Oil & Gas Producers
+UK;FTSE 100;BATS.L;British American Tobacco;Tobacco
+UK;FTSE 100;BLND.L;British Land;Real Estate Investment Trusts
+UK;FTSE 100;BT-A.L;BT Group;Fixed Line Telecommunications
+UK;FTSE 100;BNZL.L;Bunzl;Support Services
+UK;FTSE 100;BRBY.L;Burberry;Personal Goods
+UK;FTSE 100;CCL.L;Carnival Corporation & plc;Travel & Leisure
+UK;FTSE 100;CNA.L;Centrica;Gas, Water & Multi-utilities
+UK;FTSE 100;CCH.L;Coca-Cola HBC;Beverages
+UK;FTSE 100;CPG.L;Compass Group;Support Services
+UK;FTSE 100;CRH.L;CRH plc;Construction
+UK;FTSE 100;CRDA.L;Croda International;Chemicals
+UK;FTSE 100;DCC.L;DCC plc;Support Services
+UK;FTSE 100;DGE.L;Diageo;Beverages
+UK;FTSE 100;EZJ.L;EasyJet;Travel & Leisure
+UK;FTSE 100;EVR.L;Evraz;Industrial Metals & Mining
+UK;FTSE 100;EXPN.L;Experian;Support Services
+UK;FTSE 100;FERG.L;Ferguson plc;Support Services
+UK;FTSE 100;FLTR.L;Flutter Entertainment;Travel & Leisure
+UK;FTSE 100;GSK.L;GlaxoSmithKline;Pharmaceuticals & Biotechnology
+UK;FTSE 100;GLEN.L;Glencore;Mining
+UK;FTSE 100;HLMA.L;Halma;Electronic & Electrical Equipment
+UK;FTSE 100;HL.L;Hargreaves Lansdown;Financial Services
+UK;FTSE 100;HSBA.L;HSBC;Banking
+UK;FTSE 100;HIK.L;Hikma Pharmaceuticals;Pharmaceuticals & Biotechnology
+UK;FTSE 100;IMB.L;Imperial Brands;Tobacco
+UK;FTSE 100;INF.L;Informa;Media
+UK;FTSE 100;IHG.L;InterContinental Hotels Group;Travel & Leisure
+UK;FTSE 100;IAG.L;International Airlines Group;Travel & Leisure
+UK;FTSE 100;ITRK.L;Intertek;Support Services
+UK;FTSE 100;ITV.L;ITV plc;Media
+UK;FTSE 100;JD.L;JD Sports;General Retailers
+UK;FTSE 100;JMAT.L;Johnson Matthey;Chemicals
+UK;FTSE 100;JE.L;Just Eat;Consumer Products
+UK;FTSE 100;KGF.L;Kingfisher plc;General Retailers
+UK;FTSE 100;LAND.L;Land Securities;Real Estate Investment Trusts
+UK;FTSE 100;LGEN.L;Legal & General;Insurance
+UK;FTSE 100;LLOY.L;Lloyds Banking Group;Banking
+UK;FTSE 100;LSE.L;London Stock Exchange Group;Financial Services
+UK;FTSE 100;MNG.L;M&G;Financial Services
+UK;FTSE 100;MGGT.L;Meggitt;Aerospace & Defense
+UK;FTSE 100;MRO.L;Melrose Industries;Automotives
+UK;FTSE 100;MNDI.L;Mondi;Forestry & Paper
+UK;FTSE 100;MRW.L;Morrisons;Food & Drug Retailers
+UK;FTSE 100;NG.L;National Grid plc;Gas, Water & Multi-utilities
+UK;FTSE 100;NXT.L;Next plc;General Retailers
+UK;FTSE 100;NMC.L;NMC Health;Health Care Equipment & Services
+UK;FTSE 100;OCDO.L;Ocado;Food & Drug Retailers
+UK;FTSE 100;PSON.L;Pearson plc;Media
+UK;FTSE 100;PSN.L;Persimmon plc;Household Goods & Home Construction
+UK;FTSE 100;PHNX.L;Phoenix Group;Insurance
+UK;FTSE 100;POLY.L;Polymetal International;Precious Metals and Mining
+UK;FTSE 100;PRU.L;Prudential plc;Insurance
+UK;FTSE 100;RB.L;Reckitt Benckiser;Household Goods & Home Construction
+UK;FTSE 100;REL.L;RELX;Media
+UK;FTSE 100;RTO.L;Rentokil Initial;Support Services
+UK;FTSE 100;RIO.L;Rio Tinto Group;Mining
+UK;FTSE 100;RMV.L;Rightmove;Media
+UK;FTSE 100;RR.L;Rolls-Royce Holdings;Aerospace & Defense
+UK;FTSE 100;RBS.L;Royal Bank of Scotland Group;Banking
+UK;FTSE 100;RDSA.L;Royal Dutch Shell;Oil & Gas Producers
+UK;FTSE 100;RSA.L;RSA Insurance Group;Insurance
+UK;FTSE 100;SGE.L;Sage Group;Software & Computer Services
+UK;FTSE 100;SBRY.L;Sainsbury's;Food & Drug Retailers
+UK;FTSE 100;SDR.L;Schroders;Financial Services
+UK;FTSE 100;SMT.L;Scottish Mortgage Investment Trust;Equity Investment Instruments
+UK;FTSE 100;SGRO.L;Segro;Real Estate Investment Trusts
+UK;FTSE 100;SVT.L;Severn Trent;Gas, Water & Multi-utilities
+UK;FTSE 100;SN.L;Smith & Nephew;Health Care Equipment & Services
+UK;FTSE 100;SMDS.L;Smith, D.S.;General Industrials
+UK;FTSE 100;SMIN.L;Smiths Group;General Industrials
+UK;FTSE 100;SKG.L;Smurfit Kappa;General Industrials
+UK;FTSE 100;SPX.L;Spirax-Sarco Engineering;Industrial Engineering
+UK;FTSE 100;SSE.L;SSE plc;Electricity
+UK;FTSE 100;STAN.L;Standard Chartered;Banking
+UK;FTSE 100;SLA.L;Standard Life Aberdeen;Financial Services
+UK;FTSE 100;STJ.L;St. James's Place plc;Insurance
+UK;FTSE 100;TW.L;Taylor Wimpey;Household Goods & Home Construction
+UK;FTSE 100;TSCO.L;Tesco;Food & Drug Retailers
+UK;FTSE 100;TUI.L;TUI AG;Travel & Leisure
+UK;FTSE 100;ULVR.L;Unilever;Personal Goods
+UK;FTSE 100;UU.L;United Utilities;Gas, Water & Multi-utilities
+UK;FTSE 100;VOD.L;Vodafone Group;Mobile Telecommunications
+UK;FTSE 100;WTB.L;Whitbread;Retail hospitality
+UK;FTSE 100;WPP.L;WPP plc;Media
+Germany;DAX;ADS.DE;Adidas;Clothing
+Germany;DAX;ALV.DE;Allianz;Insurance
+Germany;DAX;BAS.DE;BASF;Chemicals
+Germany;DAX;BAYN.DE;Bayer;Pharmaceuticals and chemicals
+Germany;DAX;BEI.DE;Beiersdorf;Consumer Products
+Germany;DAX;BMW.DE;BMW;Manufacturing
+Germany;DAX;CON.DE;Continental;Manufacturing
+Germany;DAX;1COV.DE;Covestro;Chemicals
+Germany;DAX;DAI.DE;Daimler;Manufacturing
+Germany;DAX;DBK.DE;Deutsche Bank;Financial Services
+Germany;DAX;DB1.DE;Deutsche Börse;Securities
+Germany;DAX;LHA.DE;Deutsche Lufthansa;Airline
+Germany;DAX;DPW.DE;Deutsche Post;Logistics
+Germany;DAX;DTE.DE;Deutsche Telekom;Telecommunications
+Germany;DAX;EOAN.DE;E.ON;Energy
+Germany;DAX;FRE.DE;Fresenius;Medical
+Germany;DAX;FME.DE;Fresenius Medical Care;Medical
+Germany;DAX;HEI.DE;HeidelbergCement;Construction
+Germany;DAX;HEN3.DE;Henkel;Consumer Products
+Germany;DAX;IFX.DE;Infineon Technologies;Semiconductors
+Germany;DAX;LIN.DE;Linde;Industrial gases
+Germany;DAX;MRK.DE;Merck;Pharmaceuticals
+Germany;DAX;MTX.DE;MTU Aero Engines;Aerospace & Defense
+Germany;DAX;MUV2.DE;Munich Re;Insurance
+Germany;DAX;RWE.DE;RWE;Energy
+Germany;DAX;SAP.DE;SAP;Software
+Germany;DAX;SIE.DE;Siemens;Industrial, electronics
+Germany;DAX;VOW3.DE;Volkswagen Group;Manufacturing
+Germany;DAX;VNA.DE;Vonovia;Real estate
+Germany;DAX;WDI.DE;Wirecard;Financial Technology
+Switzerland;SMI;ABBN.SW;ABB;electronic and electrical equipment
+Switzerland;SMI;ADEN.SW;Adecco;business training and employment agencies
+Switzerland;SMI;ALC.SW;Alcon;healthcare
+Switzerland;SMI;CSGN.SW;Credit Suisse;Financial Services
+Switzerland;SMI;GEBN.SW;Geberit;building materials and fixtures
+Switzerland;SMI;GIVN.SW;Givaudan;specialty chemicals
+Switzerland;SMI;LHN.SW;LafargeHolcim;building materials and fixtures
+Switzerland;SMI;LONN.SW;Lonza;pharmaceuticals and biotechnology
+Switzerland;SMI;NESN.SW;Nestlé;food products
+Switzerland;SMI;NOVN.SW;Novartis;pharmaceuticals
+Switzerland;SMI;CFR.SW;Richemont;clothing and accessories
+Switzerland;SMI;ROG.SW;Roche;pharmaceuticals
+Switzerland;SMI;SGSN.SW;SGS;business support services
+Switzerland;SMI;SIKA.SW;Sika;specialty chemicals
+Switzerland;SMI;UHR.SW;Swatch;clothing and accessories
+Switzerland;SMI;SLHN.SW;Switzerland Life;Insurance
+Switzerland;SMI;SREN.SW;Switzerland Re;Insurance
+Switzerland;SMI;SCMN.SW;Switzerlandcom;Telecommunications
+Switzerland;SMI;UBSG.SW;UBS;Financial Services
+Switzerland;SMI;ZURN.SW;Zurich Insurance;Insurance
+Spain;IBEX 35;ANA.MC;Acciona;Construction
+Spain;IBEX 35;ACX.MC;Acerinox;Steel
+Spain;IBEX 35;ACS.MC;ACS Group;Construction
+Spain;IBEX 35;AENA.MC;Aena;Airport Services
+Spain;IBEX 35;AMS.MC;Amadeus IT Group;Tourism
+Spain;IBEX 35;MTS.MC;ArcelorMittal;Steel
+Spain;IBEX 35;SAB.MC;Banco Sabadell;Financial Services
+Spain;IBEX 35;SAN.MC;Banco Santander;Financial Services
+Spain;IBEX 35;BKIA.MC;Bankia;Financial Services
+Spain;IBEX 35;BKT.MC;Bankinter;Financial Services
+Spain;IBEX 35;BBVA.MC;BBVA;Financial Services
+Spain;IBEX 35;CABK.MC;CaixaBank;Financial Services
+Spain;IBEX 35;CLNX.MC;Cellnex Telecom;Telecommunications
+Spain;IBEX 35;CIE.MC;CIE Automotive;Automotives
+Spain;IBEX 35;ENG.MC;Enagás;Natural Gas
+Spain;IBEX 35;ENC.MC;ENCE;Cellulose
+Spain;IBEX 35;ELE.MC;Endesa;Electricity
+Spain;IBEX 35;FER.MC;Ferrovial;Infrastructures Management
+Spain;IBEX 35;GRF.MC;Grifols;Pharmaceuticals
+Spain;IBEX 35;IAG.MC;IAG;Aerospace & Defense
+Spain;IBEX 35;IBE.MC;Iberdrola;Electricity
+Spain;IBEX 35;ITX.MC;Inditex;Clothing
+Spain;IBEX 35;IDR.MC;Indra;IT Services
+Spain;IBEX 35;COL.MC;Inmobiliaria Colonial;Real Estate
+Spain;IBEX 35;MAP.MC;Mapfre;Insurance
+Spain;IBEX 35;TL5.MC;Mediaset España;Mass MediA
+Spain;IBEX 35;MEL.MC;Meliá Hotels;Tourism
+Spain;IBEX 35;MRL.MC;Merlin Properties;Real Estate
+Spain;IBEX 35;NTGY.MC;Naturgy;Natural Gas
+Spain;IBEX 35;REE.MC;Red Eléctrica de España;Electricity
+Spain;IBEX 35;REP.MC;Repsol;Oil and Gas
+Spain;IBEX 35;SGRE.MC;Siemens Gamesa;Wind Power
+Spain;IBEX 35;TRE.MC;Técnicas Reunidas;Engineering
+Spain;IBEX 35;TEF.MC;Telefónica;Telecommunications
+Spain;IBEX 35;VIS.MC;Viscofan;Meat Casings
+China;SSE 50;600000.SS;Shanghai Pudong Development;Banking
+China;SSE 50;600016.SS;China Minsheng Bank;Banking
+China;SSE 50;600028.SS;Sinopec;Oil & gas
+China;SSE 50;600029.SS;China Southern Airlines;Airline
+China;SSE 50;600030.SS;CITIC Securities;Financial Services
+China;SSE 50;600036.SS;China Merchants Bank;Banking
+China;SSE 50;600048.SS;Poly Real Estate;Real estate
+China;SSE 50;600050.SS;China United Network Communications;Telecommunication
+China;SSE 50;600100.SS;Tsinghua Tongfang;na
+China;SSE 50;600104.SS;SAIC Motor;Automotives
+China;SSE 50;600111.SS;China Northern Rare Earth;Mining
+China;SSE 50;600340.SS;China Fortune Land Development;Real estate
+China;SSE 50;600485.SS;Xinwei Group;na
+China;SSE 50;600518.SS;Kangmei Pharmaceutical;Pharmaceutical
+China;SSE 50;600519.SS;Kweichow Moutai;Beverages
+China;SSE 50;600547.SS;Shandong Gold Mining;Mining
+China;SSE 50;600606.SS;Greenland Holdings;Real estate
+China;SSE 50;600837.SS;Haitong Securities;Financial Services
+China;SSE 50;600887.SS;Yili Group;Dairy Products
+China;SSE 50;600919.SS;Bank of Jiangsu;Banking
+China;SSE 50;600958.SS;Orient Securities;Financial Services
+China;SSE 50;600999.SS;China Merchants Securities;Financial Services
+China;SSE 50;601006.SS;Daqin Railway;Rail transport
+China;SSE 50;601088.SS;China Shenhua Energy;Energy
+China;SSE 50;601166.SS;Industrial Bank;Banking
+China;SSE 50;601169.SS;Bank of Beijing;Banking
+China;SSE 50;601186.SS;China Railway Construction;Construction
+China;SSE 50;601198.SS;Dongxing Securities;Financial Services
+China;SSE 50;601211.SS;Guotai Junan Securities;Financial Services
+China;SSE 50;601229.SS;Bank of Shanghai;Banking
+China;SSE 50;601288.SS;Agricultural Bank of China;Banking
+China;SSE 50;601318.SS;Ping An Insurance;Insurance
+China;SSE 50;601328.SS;Bank of Communications;Banking
+China;SSE 50;601336.SS;New China Life Insurance;Insurance
+China;SSE 50;601390.SS;China Railway [Engineering];Construction
+China;SSE 50;601398.SS;Industrial and Commercial Bank of China;Banking
+China;SSE 50;601601.SS;China Pacific Insurance;Insurance
+China;SSE 50;601628.SS;China Life Insurance;Insurance
+China;SSE 50;601668.SS;China State Construction Engineering;Construction
+China;SSE 50;601688.SS;Huatai Securities;Financial Services
+China;SSE 50;601766.SS;CRRC;Rolling stock
+China;SSE 50;601788.SS;Everbright Securities;Financial Services
+China;SSE 50;601800.SS;China Communications Construction;Construction
+China;SSE 50;601818.SS;China Everbright Bank;Banking
+China;SSE 50;601857.SS;PetroChina;Oil and gas
+China;SSE 50;601881.SS;China Galaxy Securities;Financial Services
+China;SSE 50;601901.SS;Founder Securities;Financial Services
+China;SSE 50;601985.SS;China National Nuclear Power;Energy
+China;SSE 50;601988.SS;Bank of China;Banking
+China;SSE 50;601989.SS;China Shipbuilding Industry;Shipbuilding
+USA;S&P 500;MMM;3M Company;Industrial Conglomerates
+USA;S&P 500;ABT;Abbott Laboratories;Health Care
+USA;S&P 500;ABBV;AbbVie Inc.;Health Care;
+USA;S&P 500;ABMD;ABIOMED;Health Care
+USA;S&P 500;ACN;Accenture plc;Information Technology
+USA;S&P 500;ATVI;Activision Blizzard;Communication Services
+USA;S&P 500;ADBE;Adobe Systems Inc;Information Technology
+USA;S&P 500;AMD;Advanced Micro Devices Inc;Information Technology
+USA;S&P 500;AAP;Advance Auto Parts;Consumer Products
+USA;S&P 500;AES;AES Corp;Utilities
+USA;S&P 500;AFL;AFLAC Inc;Financial Services
+USA;S&P 500;A;Agilent Technologies;Health Care
+USA;S&P 500;APD;Air Products & Chemicals Inc;Materials
+USA;S&P 500;AKAM;Akamai Technologies Inc;Information Technology
+USA;S&P 500;ALK;Alaska Air Group Inc;Industrials
+USA;S&P 500;ALB;Albemarle Corp;Materials
+USA;S&P 500;ARE;Alexandria;Real Estate
+USA;S&P 500;ALXN;Alexion;Pharmaceuticals
+USA;S&P 500;ALGN;Align Technology;Health Care
+USA;S&P 500;ALLE;Allegion;Industrials
+USA;S&P 500;AGN;Allergan, plc;Health Care
+USA;S&P 500;ADS;Alliance Data Systems;Information Technology
+USA;S&P 500;LNT;Alliant Energy Corp;Utilities
+USA;S&P 500;ALL;Allstate Corp;Financial Services
+USA;S&P 500;GOOGL;Alphabet Inc Class A;Communication Services
+USA;S&P 500;GOOG;Alphabet Inc Class C;Communication Services
+USA;S&P 500;MO;Altria Group Inc;Consumer Products
+USA;S&P 500;AMZN;Amazon.com Inc.;Consumer Products
+USA;S&P 500;AMCR;Amcor plc;Materials
+USA;S&P 500;AEE;Ameren Corp;Utilities
+USA;S&P 500;AAL;American Airlines Group;Airline
+USA;S&P 500;AEP;American Electric Power;Utilities
+USA;S&P 500;AXP;American Express Co;Financial Services
+USA;S&P 500;AIG;American International Group;Financial Services
+USA;S&P 500;AMT;American Tower Corp.;Real Estate
+USA;S&P 500;AWK;American Water Works Company Inc;Utilities
+USA;S&P 500;AMP;Ameriprise Financial;Financial Services
+USA;S&P 500;ABC;AmerisourceBergen Corp;Health Care
+USA;S&P 500;AME;AMETEK Inc.;Industrials	Electrical
+USA;S&P 500;AMGN;Amgen Inc.;Health Care	Biotechnology
+USA;S&P 500;APH;Amphenol Corp;Information Technology
+USA;S&P 500;ADI;Analog Devices, Inc.;Information Technology
+USA;S&P 500;ANSS;ANSYS;Information Technology
+USA;S&P 500;ANTM;Anthem;Health Care
+USA;S&P 500;AON;Aon plc;Financial Services
+USA;S&P 500;AOS;A.O. Smith Corp;Industrials
+USA;S&P 500;APA;Apache Corporation;Energy
+USA;S&P 500;AIV;Apartment Investment & Management;Real Estate
+USA;S&P 500;AAPL;Apple Inc.;Information Technology
+USA;S&P 500;AMAT;Applied Materials Inc.;Information Technology
+USA;S&P 500;APTV;Aptiv PLC;Consumer Products
+USA;S&P 500;ADM;Archer-Daniels-Midland Co;Consumer Products
+USA;S&P 500;ARNC;Arconic Inc.;Industrials Aerospace & Defense
+USA;S&P 500;ANET;Arista Networks;Information Technology
+USA;S&P 500;AJG;Arthur J. Gallagher & Co.;Financial Services
+USA;S&P 500;AIZ;Assurant;Insurance
+USA;S&P 500;ATO;Atmos Energy Corp;Utilities
+USA;S&P 500;T;AT&T Inc.;Communication Services
+USA;S&P 500;ADSK;Autodesk Inc.;Information Technology
+USA;S&P 500;ADP;Automatic Data Processing;Information Technology
+USA;S&P 500;AZO;AutoZone Inc;Consumer Products
+USA;S&P 500;AVB;AvalonBay Communities, Inc.;Real Estate
+USA;S&P 500;AVY;Avery Dennison Corp;Materials
+USA;S&P 500;BKR;Baker Hughes Co;Energy
+USA;S&P 500;BLL;Ball Corp;Materials
+USA;S&P 500;BAC;Bank of America Corp;Banking
+USA;S&P 500;BK;The Bank of New York Mellon Corp.;Banking
+USA;S&P 500;BAX;Baxter International Inc.;Health Care
+USA;S&P 500;BDX;Becton Dickinson;Health Care
+USA;S&P 500;BBY;Best Buy Co. Inc.;Consumer Products
+USA;S&P 500;BIIB;Biogen Inc.;Health Care
+USA;S&P 500;BLK;BlackRock;Financial Services
+USA;S&P 500;BA;Boeing Company;Industrials Aerospace & Defense
+USA;S&P 500;BKNG;Booking Holdings Inc;Consumer Products
+USA;S&P 500;BWA;BorgWarner;Consumer Products
+USA;S&P 500;BXP;Boston Properties;Real Estate
+USA;S&P 500;BSX;Boston Scientific;Health Care
+USA;S&P 500;BMY;Bristol-Myers Squibb;Health Care
+USA;S&P 500;AVGO;Broadcom Inc.;Information Technology
+USA;S&P 500;BR;Broadridge Financial Solutions;Information Technology
+USA;S&P 500;CHRW;C. H. Robinson Worldwide;Industrials
+USA;S&P 500;COG;Cabot Oil & Gas;Energy
+USA;S&P 500;CDNS;Cadence Design Systems;Information Technology
+USA;S&P 500;CPB;Campbell Soup;Consumer Products
+USA;S&P 500;COF;Capital One Financial;Financial Services
+USA;S&P 500;CPRI;Capri Holdings;Consumer Products
+USA;S&P 500;CAH;Cardinal Health Inc.;Health Care
+USA;S&P 500;KMX;Carmax Inc;Consumer Products
+USA;S&P 500;CCL;Carnival Corp.;Consumer Products
+USA;S&P 500;CAT;Caterpillar Inc.;Industrials
+USA;S&P 500;CBOE;Cboe Global Markets;Financial Services
+USA;S&P 500;CBRE;CBRE Group;Real Estate
+USA;S&P 500;CDW;CDW;Information Technology
+USA;S&P 500;CE;Celanese;Materials
+USA;S&P 500;CNC;Centene Corporation;Health Care
+USA;S&P 500;CNP;CenterPoint Energy;Utilities
+USA;S&P 500;CTL;CenturyLink Inc;Communication Services
+USA;S&P 500;CERN;Cerner;Health Care
+USA;S&P 500;CF;CF Industries Holdings Inc;Materials
+USA;S&P 500;SCHW;Charles Schwab Corporation;Financial Services
+USA;S&P 500;CHTR;Charter Communications;Communication Services
+USA;S&P 500;CVX;Chevron Corp.;Energy
+USA;S&P 500;CMG;Chipotle Mexican Grill;Consumer Products
+USA;S&P 500;CB;Chubb Limited;Financial Services
+USA;S&P 500;CHD;Church & Dwight;Consumer Products
+USA;S&P 500;CI;CIGNA Corp.;Health Care
+USA;S&P 500;XEC;Cimarex Energy;Energy
+USA;S&P 500;CINF;Cincinnati Financial;Financial Services
+USA;S&P 500;CTAS;Cintas Corporation;Industrials
+USA;S&P 500;CSCO;Cisco Systems;Information Technology
+USA;S&P 500;C;Citigroup Inc.;Financial Services
+USA;S&P 500;CFG;Citizens Financial Group;Financial Services
+USA;S&P 500;CTXS;Citrix Systems;Information Technology
+USA;S&P 500;CLX;The Clorox Company;Consumer Products
+USA;S&P 500;CME;CME Group Inc.;Financial Services
+USA;S&P 500;CMS;CMS Energy;Utilities
+USA;S&P 500;KO;Coca-Cola Company;Consumer Products
+USA;S&P 500;CTSH;Cognizant Solutions;Information Technology
+USA;S&P 500;CL;Colgate-Palmolive;Consumer Products
+USA;S&P 500;CMCSA;Comcast Corp.;Communication Services
+USA;S&P 500;CMA;Comerica Inc.;Financial Services
+USA;S&P 500;CAG;Conagra Brands;Consumer Products
+USA;S&P 500;CXO;Concho Resources;Energy
+USA;S&P 500;COP;ConocoPhillips;Energy
+USA;S&P 500;ED;Consolidated Edison;Utilities
+USA;S&P 500;STZ;Constellation Brands;Consumer Products
+USA;S&P 500;COO;The Cooper Companies;Health Care
+USA;S&P 500;CPRT;Copart Inc;Industrials
+USA;S&P 500;GLW;Corning Inc.;Information Technology
+USA;S&P 500;CTVA;Corteva;Materials
+USA;S&P 500;COST;Costco Wholesale Corp.;Consumer Products
+USA;S&P 500;COTY;Coty, Inc;Consumer Products
+USA;S&P 500;CCI;Crown Castle International Corp.;Real Estate
+USA;S&P 500;CSX;CSX Corp.;Industrials
+USA;S&P 500;CMI;Cummins Inc.;Industrials
+USA;S&P 500;CVS;CVS Health;Health Care
+USA;S&P 500;DHI;D. R. Horton;Consumer Products
+USA;S&P 500;DHR;Danaher Corp.;Health Care
+USA;S&P 500;DRI;Darden Restaurants;Consumer Products
+USA;S&P 500;DVA;DaVita Inc.;Health Care
+USA;S&P 500;DE;Deere & Co.;Industrials
+USA;S&P 500;DAL;Delta Air Lines Inc.;Industrials
+USA;S&P 500;XRAY;Dentsply Sirona;Health Care
+USA;S&P 500;DVN;Devon Energy;Energy
+USA;S&P 500;FANG;Diamondback Energy;Energy
+USA;S&P 500;DLR;Digital Realty Trust Inc;Real Estate
+USA;S&P 500;DFS;Discover Financial Services;Financial Services
+USA;S&P 500;DISCA;Discovery Inc. Class A;Communication Services
+USA;S&P 500;DISCK;Discovery Inc. Class C;Communication Services
+USA;S&P 500;DISH;Dish Network;Communication Services
+USA;S&P 500;DG;Dollar General;Consumer Products
+USA;S&P 500;DLTR;Dollar Tree;Consumer Products
+USA;S&P 500;D;Dominion Energy;Utilities
+USA;S&P 500;DOV;Dover Corp.;Industrials
+USA;S&P 500;DOW;Dow Inc.;Materials
+USA;S&P 500;DTE;DTE Energy Co.;Utilities
+USA;S&P 500;DUK;Duke Energy;Utilities
+USA;S&P 500;DRE;Duke Realty Corp;Real Estate
+USA;S&P 500;DD;DuPont de Nemours Inc;Materials
+USA;S&P 500;DXC;DXC Technology;Information Technology
+USA;S&P 500;ETFC;E*Trade;Financial Services
+USA;S&P 500;EMN;Eastman Chemical;Materials
+USA;S&P 500;ETN;Eaton Corporation;Industrials
+USA;S&P 500;EBAY;eBay Inc.;Consumer Products
+USA;S&P 500;ECL;Ecolab Inc.;Materials
+USA;S&P 500;EIX;Edison Int'l;Utilities
+USA;S&P 500;EW;Edwards Lifesciences;Health Care
+USA;S&P 500;EA;Electronic Arts;Communication Services
+USA;S&P 500;EMR;Emerson Electric Company;Industrials
+USA;S&P 500;ETR;Entergy Corp.;Utilities
+USA;S&P 500;EOG;EOG Resources;Energy
+USA;S&P 500;EFX;Equifax Inc.;Industrials
+USA;S&P 500;EQIX;Equinix;Real Estate
+USA;S&P 500;EQR;Equity Residential;Real Estate
+USA;S&P 500;ESS;Essex Property Trust, Inc.;Real Estate
+USA;S&P 500;EL;Estee Lauder Cos.;Consumer Products
+USA;S&P 500;EVRG;Evergy;Utilities
+USA;S&P 500;ES;Eversource Energy;Utilities
+USA;S&P 500;RE;Everest Re Group Ltd.;Financial Services
+USA;S&P 500;EXC;Exelon Corp.;Utilities
+USA;S&P 500;EXPE;Expedia Group;Consumer Products
+USA;S&P 500;EXPD;Expeditors;Industrials
+USA;S&P 500;EXR;Extra Space Storage;Real Estate
+USA;S&P 500;XOM;Exxon Mobil Corp.;Energy
+USA;S&P 500;FFIV;F5 Networks;Information Technology
+USA;S&P 500;FB;Facebook, Inc.;Communication Services
+USA;S&P 500;FAST;Fastenal Co;Industrials
+USA;S&P 500;FRT;Federal Realty Investment Trust;Real Estate
+USA;S&P 500;FDX;FedEx Corporation;Industrials
+USA;S&P 500;FIS;Fidelity National Information Services;Information Technology
+USA;S&P 500;FITB;Fifth Third Bancorp;Financial Services
+USA;S&P 500;FE;FirstEnergy Corp;Utilities
+USA;S&P 500;FRC;First Republic Bank;Banking
+USA;S&P 500;FISV;Fiserv Inc;Information Technology
+USA;S&P 500;FLT;FleetCor Technologies Inc;Information Technology
+USA;S&P 500;FLIR;FLIR Systems;Information Technology
+USA;S&P 500;FLS;Flowserve Corporation;Industrials
+USA;S&P 500;FMC;FMC Corporation;Materials
+USA;S&P 500;F;Ford Motor;Consumer Products
+USA;S&P 500;FTNT;Fortinet;Information Technology
+USA;S&P 500;FTV;Fortive Corp;Industrials
+USA;S&P 500;FBHS;Fortune Brands Home & Security;Industrials
+USA;S&P 500;FOXA;Fox Corporation Class A;Communication Services
+USA;S&P 500;FOX;Fox Corporation Class B;Communication Services
+USA;S&P 500;BEN;Franklin Resources;Financial Services
+USA;S&P 500;FCX;Freeport-McMoRan Inc.;Materials
+USA;S&P 500;GPS;Gap Inc.;Consumer Products
+USA;S&P 500;GRMN;Garmin Ltd.;Consumer Products
+USA;S&P 500;IT;Gartner Inc;Information Technology
+USA;S&P 500;GD;General Dynamics;Industrials
+USA;S&P 500;GE;General Electric;Industrials
+USA;S&P 500;GIS;General Mills;Consumer Products
+USA;S&P 500;GM;General Motors;Consumer Products
+USA;S&P 500;GPC;Genuine Parts;Consumer Products
+USA;S&P 500;GILD;Gilead Sciences;Health Care
+USA;S&P 500;GL;Globe Life Inc.;Financial Services
+USA;S&P 500;GPN;Global Payments Inc.;Information Technology
+USA;S&P 500;GS;Goldman Sachs Group;Financial Services
+USA;S&P 500;GWW;Grainger (W.W.) Inc.;Industrials
+USA;S&P 500;HRB;H&R Block;Consumer Products
+USA;S&P 500;HAL;Halliburton Co.;Energy
+USA;S&P 500;HBI;Hanesbrands Inc;Consumer Products
+USA;S&P 500;HOG;Harley-Davidson;Consumer Products
+USA;S&P 500;HIG;Hartford Financial Svc.Gp.;Financial Services
+USA;S&P 500;HAS;Hasbro Inc.;Consumer Products
+USA;S&P 500;HCA;HCA Healthcare;Health Care
+USA;S&P 500;PEAK;Healthpeak Properties;Real Estate
+USA;S&P 500;HP;Helmerich & Payne;Energy
+USA;S&P 500;HSIC;Henry Schein;Health Care
+USA;S&P 500;HSY;The Hershey Company;Consumer Products
+USA;S&P 500;HES;Hess Corporation;Energy
+USA;S&P 500;HPE;Hewlett Packard Enterprise;Information Technology
+USA;S&P 500;HLT;Hilton Worldwide Holdings Inc;Consumer Products
+USA;S&P 500;HFC;HollyFrontier Corp;Energy
+USA;S&P 500;HOLX;Hologic;Health Care
+USA;S&P 500;HD;Home Depot;Consumer Products
+USA;S&P 500;HON;Honeywell Int'l Inc.;Industrials
+USA;S&P 500;HRL;Hormel Foods Corp.;Consumer Products
+USA;S&P 500;HST;Host Hotels & Resorts;Real Estate
+USA;S&P 500;HPQ;HP Inc.;Information Technology
+USA;S&P 500;HUM;Humana Inc.;Health Care
+USA;S&P 500;HBAN;Huntington Bancshares;Financial Services
+USA;S&P 500;HII;Huntington Ingalls Industries;Industrials
+USA;S&P 500;IEX;IDEX Corporation;Industrials
+USA;S&P 500;IDXX;IDEXX Laboratories;Health Care
+USA;S&P 500;INFO;IHS Markit Ltd.;Industrials
+USA;S&P 500;ITW;Illinois Tool Works;Industrials
+USA;S&P 500;ILMN;Illumina Inc;Health Care
+USA;S&P 500;IR;Ingersoll-Rand PLC;Industrials
+USA;S&P 500;INTC;Intel Corp.;Information Technology
+USA;S&P 500;ICE;Intercontinental Exchange;Financial Services
+USA;S&P 500;IBM;International Business Machines;Information Technology
+USA;S&P 500;INCY;Incyte;Health Care
+USA;S&P 500;IP;International Paper;Materials
+USA;S&P 500;IPG;Interpublic Group;Communication Services
+USA;S&P 500;IFF;Intl Flavors & Fragrances;Materials
+USA;S&P 500;INTU;Intuit Inc.;Information Technology
+USA;S&P 500;ISRG;Intuitive Surgical Inc.;Health Care
+USA;S&P 500;IVZ;Invesco Ltd.;Financial Services
+USA;S&P 500;IPGP;IPG Photonics Corp.;Information Technology
+USA;S&P 500;IQV;IQVIA Holdings Inc.;Health Care
+USA;S&P 500;IRM;Iron Mountain Incorporated;Real Estate
+USA;S&P 500;JKHY;Jack Henry & Associates;Information Technology
+USA;S&P 500;J;Jacobs Engineering Group;Industrials
+USA;S&P 500;JBHT;J. B. Hunt Transport Services;Industrials
+USA;S&P 500;SJM;JM Smucker;Consumer Products
+USA;S&P 500;JNJ;Johnson & Johnson;Health Care
+USA;S&P 500;JCI;Johnson Controls International;Industrials
+USA;S&P 500;JPM;JPMorgan Chase & Co.;Financial Services
+USA;S&P 500;JNPR;Juniper Networks;Information Technology
+USA;S&P 500;KSU;Kansas City Southern;Industrials
+USA;S&P 500;K;Kellogg Co.;Consumer Products
+USA;S&P 500;KEY;KeyCorp;Financial Services
+USA;S&P 500;KEYS;Keysight Technologies;Information Technology
+USA;S&P 500;KMB;Kimberly-Clark;Consumer Products
+USA;S&P 500;KIM;Kimco Realty;Real Estate
+USA;S&P 500;KMI;Kinder Morgan;Energy
+USA;S&P 500;KLAC;KLA Corporation;Information Technology
+USA;S&P 500;KSS;Kohl's Corp.;Consumer Products
+USA;S&P 500;KHC;Kraft Heinz Co;Consumer Products
+USA;S&P 500;KR;Kroger Co.;Consumer Products
+USA;S&P 500;LB;L Brands Inc.;Consumer Products
+USA;S&P 500;LHX;L3Harris Technologies;Industrials
+USA;S&P 500;LH;Laboratory Corp. of America Holding;Health Care
+USA;S&P 500;LRCX;Lam Research;Information Technology
+USA;S&P 500;LW;Lamb Weston Holdings Inc;Consumer Products
+USA;S&P 500;LVS;Las Vegas Sands;Consumer Products
+USA;S&P 500;LEG;Leggett & Platt;Consumer Products
+USA;S&P 500;LDOS;Leidos Holdings;Information Technology
+USA;S&P 500;LEN;Lennar Corp.;Consumer Products
+USA;S&P 500;LLY;Lilly (Eli) & Co.;Health Care
+USA;S&P 500;LNC;Lincoln National;Financial Services
+USA;S&P 500;LIN;Linde plc;Materials
+USA;S&P 500;LYV;Live Nation Entertainment;Communication Services
+USA;S&P 500;LKQ;LKQ Corporation;Consumer Products
+USA;S&P 500;LMT;Lockheed Martin Corp.;Industrials
+USA;S&P 500;L;Loews Corp.;Financial Services
+USA;S&P 500;LOW;Lowe's Cos.;Consumer Products
+USA;S&P 500;LYB;LyondellBasell;Materials
+USA;S&P 500;MTB;M&T Bank Corp.;Banking
+USA;S&P 500;M;Macy's Inc.;Consumer Products
+USA;S&P 500;MRO;Marathon Oil Corp.;Energy
+USA;S&P 500;MPC;Marathon Petroleum;Energy
+USA;S&P 500;MKTX;MarketAxess;Financial Services
+USA;S&P 500;MAR;Marriott Int'l.;Consumer Products
+USA;S&P 500;MMC;Marsh & McLennan;Financial Services
+USA;S&P 500;MLM;Martin Marietta Materials;Materials
+USA;S&P 500;MAS;Masco Corp.;Industrials
+USA;S&P 500;MA;Mastercard Inc.;Information Technology
+USA;S&P 500;MKC;McCormick & Co.;Consumer Products
+USA;S&P 500;MXIM;Maxim Integrated Products Inc;Information Technology
+USA;S&P 500;MCD;McDonald's Corp.;Consumer Products
+USA;S&P 500;MCK;McKesson Corp.;Health Care
+USA;S&P 500;MDT;Medtronic plc;Health Care
+USA;S&P 500;MRK;Merck & Co.;Health Care
+USA;S&P 500;MET;MetLife Inc.;Financial Services
+USA;S&P 500;MTD;Mettler Toledo;Health Care
+USA;S&P 500;MGM;MGM Resorts International;Consumer Products
+USA;S&P 500;MCHP;Microchip Technology;Information Technology
+USA;S&P 500;MU;Micron Technology;Information Technology
+USA;S&P 500;MSFT;Microsoft Corp.;Information Technology
+USA;S&P 500;MAA;Mid-America Apartments;Real Estate
+USA;S&P 500;MHK;Mohawk Industries;Consumer Products
+USA;S&P 500;TAP;Molson Coors Brewing Company;Consumer Products
+USA;S&P 500;MDLZ;Mondelez International;Consumer Products
+USA;S&P 500;MNST;Monster Beverage;Consumer Products
+USA;S&P 500;MCO;Moody's Corp;Financial Services
+USA;S&P 500;MS;Morgan Stanley;Financial Services
+USA;S&P 500;MOS;The Mosaic Company;Materials
+USA;S&P 500;MSI;Motorola Solutions Inc.;Information Technology
+USA;S&P 500;MSCI;MSCI Inc;Financial Services
+USA;S&P 500;MYL;Mylan N.V.;Health Care
+USA;S&P 500;NDAQ;Nasdaq, Inc.;Financial Services
+USA;S&P 500;NOV;National Oilwell Varco Inc.;Energy
+USA;S&P 500;NTAP;NetApp;Information Technology
+USA;S&P 500;NFLX;Netflix Inc.;Communication Services
+USA;S&P 500;NWL;Newell Brands;Consumer Products
+USA;S&P 500;NEM;Newmont Goldcorp;Materials
+USA;S&P 500;NWSA;News Corp. Class A;Communication Services
+USA;S&P 500;NWS;News Corp. Class B;Communication Services
+USA;S&P 500;NEE;NextEra Energy;Utilities
+USA;S&P 500;NLSN;Nielsen Holdings;Industrials
+USA;S&P 500;NKE;Nike;Consumer Products
+USA;S&P 500;NI;NiSource Inc.;Utilities
+USA;S&P 500;NBL;Noble Energy Inc;Energy
+USA;S&P 500;JWN;Nordstrom;Consumer Products
+USA;S&P 500;NSC;Norfolk Southern Corp.;Industrials
+USA;S&P 500;NTRS;Northern Trust Corp.;Financial Services
+USA;S&P 500;NOC;Northrop Grumman;Industrials
+USA;S&P 500;NLOK;NortonLifeLock;Information Technology
+USA;S&P 500;NCLH;Norwegian Cruise Line Holdings;Consumer Products
+USA;S&P 500;NRG;NRG Energy;Utilities
+USA;S&P 500;NUE;Nucor Corp.;Materials
+USA;S&P 500;NVDA;Nvidia Corporation;Information Technology
+USA;S&P 500;NVR;NVR Inc;Consumer Products
+USA;S&P 500;ORLY;O'Reilly Automotive;Automotives
+USA;S&P 500;OXY;Occidental Petroleum;Energy
+USA;S&P 500;ODFL;Old Dominion Freight Line;Industrials
+USA;S&P 500;OMC;Omnicom Group;Communication Services
+USA;S&P 500;OKE;ONEOK;Energy
+USA;S&P 500;ORCL;Oracle Corp.;Information Technology
+USA;S&P 500;PCAR;PACCAR Inc.;Industrials
+USA;S&P 500;PKG;Packaging Corporation of America;Materials
+USA;S&P 500;PH;Parker-Hannifin;Industrials
+USA;S&P 500;PAYX;Paychex Inc.;Information Technology
+USA;S&P 500;PYPL;PayPal;Information Technology
+USA;S&P 500;PNR;Pentair plc;Industrials
+USA;S&P 500;PBCT;People's United Financial;Financial Services
+USA;S&P 500;PEP;PepsiCo Inc.;Consumer Products
+USA;S&P 500;PKI;PerkinElmer;Health Care
+USA;S&P 500;PRGO;Perrigo;Health Care
+USA;S&P 500;PFE;Pfizer Inc.;Health Care
+USA;S&P 500;PM;Philip Morris International;Consumer Products
+USA;S&P 500;PSX;Phillips 66;Energy
+USA;S&P 500;PNW;Pinnacle West Capital;Utilities
+USA;S&P 500;PXD;Pioneer Natural Resources;Energy
+USA;S&P 500;PNC;PNC Financial Services;Financial Services
+USA;S&P 500;PPG;PPG Industries;Materials
+USA;S&P 500;PPL;PPL Corp.;Utilities
+USA;S&P 500;PFG;Principal Financial Group;Financial Services
+USA;S&P 500;PG;Procter & Gamble;Consumer Products
+USA;S&P 500;PGR;Progressive Corp.;Financial Services
+USA;S&P 500;PLD;Prologis;Real Estate
+USA;S&P 500;PRU;Prudential Financial;Financial Services
+USA;S&P 500;PEG;Public Serv. Enterprise Inc.;Utilities
+USA;S&P 500;PSA;Public Storage;Real Estate
+USA;S&P 500;PHM;Pulte Homes Inc.;Consumer Products
+USA;S&P 500;PVH;PVH Corp.;Consumer Products
+USA;S&P 500;QRVO;Qorvo;Information Technology
+USA;S&P 500;PWR;Quanta Services Inc.;Industrials
+USA;S&P 500;QCOM;QUALCOMM Inc.;Information Technology
+USA;S&P 500;DGX;Quest Diagnostics;Health Care
+USA;S&P 500;RL;Ralph Lauren Corporation;Consumer Products
+USA;S&P 500;RJF;Raymond James Financial Inc.;Financial Services
+USA;S&P 500;RTN;Raytheon Co.;Industrial
+USA;S&P 500;O;Realty Income Corporation;Real Estate
+USA;S&P 500;REG;Regency Centers Corporation;Real Estate
+USA;S&P 500;REGN;Regeneron Pharmaceuticals;Health Care
+USA;S&P 500;RF;Regions Financial Corp.;Financial Services
+USA;S&P 500;RSG;Republic Services Inc;Industrials
+USA;S&P 500;RMD;ResMed;Health Care
+USA;S&P 500;RHI;Robert Half International;Industrials
+USA;S&P 500;ROK;Rockwell Automation Inc.;Industrials
+USA;S&P 500;ROL;Rollins Inc.;Industrials
+USA;S&P 500;ROP;Roper Technologies;Industrials
+USA;S&P 500;ROST;Ross Stores;Consumer Products
+USA;S&P 500;RCL;Royal Caribbean Cruises Ltd;Consumer Products
+USA;S&P 500;SPGI;S&P Global, Inc.;Financial Services
+USA;S&P 500;CRM;Salesforce.com;Information Technology
+USA;S&P 500;SBAC;SBA Communications;Real Estate
+USA;S&P 500;SLB;Schlumberger Ltd.;Energy
+USA;S&P 500;STX;Seagate Technology;Information Technology
+USA;S&P 500;SEE;Sealed Air;Materials
+USA;S&P 500;SRE;Sempra Energy;Utilities
+USA;S&P 500;NOW;ServiceNow;Information Technology
+USA;S&P 500;SHW;Sherwin-Williams;Materials
+USA;S&P 500;SPG;Simon Property Group Inc;Real Estate
+USA;S&P 500;SWKS;Skyworks Solutions;Information Technology
+USA;S&P 500;SLG;SL Green Realty;Real Estate
+USA;S&P 500;SNA;Snap-on;Industrials
+USA;S&P 500;SO;Southern Co.;Utilities
+USA;S&P 500;LUV;Southwest Airlines;Airline
+USA;S&P 500;SWK;Stanley Black & Decker;Industrials
+USA;S&P 500;SBUX;Starbucks Corp.;Consumer Products
+USA;S&P 500;STT;State Street Corp.;Financial Services
+USA;S&P 500;STE;STERIS plc;Health Care
+USA;S&P 500;SYK;Stryker Corp.;Health Care
+USA;S&P 500;SIVB;SVB Financial;Financial Services
+USA;S&P 500;SYF;Synchrony Financial;Financial Services
+USA;S&P 500;SNPS;Synopsys Inc.;Information Technology
+USA;S&P 500;SYY;Sysco Corp.;Consumer Products
+USA;S&P 500;TMUS;T-Mobile US;Communication Services
+USA;S&P 500;TROW;T. Rowe Price Group;Financial Services
+USA;S&P 500;TTWO;Take-Two Interactive;Communication Services
+USA;S&P 500;TPR;Tapestry, Inc.;Consumer Products
+USA;S&P 500;TGT;Target Corp.;Consumer Products
+USA;S&P 500;TEL;TE Connectivity Ltd.;Information Technology
+USA;S&P 500;FTI;TechnipFMC;Energy
+USA;S&P 500;TFX;Teleflex;Health Care
+USA;S&P 500;TXN;Texas Instruments;Information Technology
+USA;S&P 500;TXT;Textron Inc.;Industrials
+USA;S&P 500;TMO;Thermo Fisher Scientific;Health Care
+USA;S&P 500;TIF;Tiffany & Co.;Consumer Products
+USA;S&P 500;TJX;TJX Companies Inc.;Consumer Products
+USA;S&P 500;TSCO;Tractor Supply Company;Consumer Products
+USA;S&P 500;TDG;TransDigm Group;Industrials
+USA;S&P 500;TRV;The Travelers Companies Inc.;Financial Services
+USA;S&P 500;TFC;Truist Financial;Financial Services
+USA;S&P 500;TWTR;Twitter, Inc.;Communication Services
+USA;S&P 500;TSN;Tyson Foods;Consumer Products
+USA;S&P 500;UDR;UDR, Inc.;Real Estate
+USA;S&P 500;ULTA;Ulta Beauty;Consumer Products
+USA;S&P 500;USB;U.S. Bancorp;Financial Services
+USA;S&P 500;UAA;Under Armour Class A;Consumer Products
+USA;S&P 500;UA;Under Armour Class C;Consumer Products
+USA;S&P 500;UNP;Union Pacific Corp;Industrials
+USA;S&P 500;UAL;United Airlines Holdings;Airline
+USA;S&P 500;UNH;United Health Group Inc.;Health Care
+USA;S&P 500;UPS;United Parcel Service;Industrials
+USA;S&P 500;URI;United Rentals, Inc.;Industrials
+USA;S&P 500;UTX;United Technologies;Industrials
+USA;S&P 500;UHS;Universal Health Services, Inc.;Health Care
+USA;S&P 500;UNM;Unum Group;Financial Services
+USA;S&P 500;VFC;V.F. Corp.;Consumer Products
+USA;S&P 500;VLO;Valero Energy;Energy
+USA;S&P 500;VAR;Varian Medical Systems;Health Care
+USA;S&P 500;VTR;Ventas Inc;Real Estate
+USA;S&P 500;VRSN;Verisign Inc.;Information Technology
+USA;S&P 500;VRSK;Verisk Analytics;Industrials
+USA;S&P 500;VZ;Verizon Communications;Communication Services
+USA;S&P 500;VRTX;Vertex Pharmaceuticals Inc;Health Care
+USA;S&P 500;VIAC;ViacomCBS;Communication Services
+USA;S&P 500;V;Visa Inc.;Information Technology
+USA;S&P 500;VNO;Vornado Realty Trust;Real Estate
+USA;S&P 500;VMC;Vulcan Materials;Materials
+USA;S&P 500;WRB;W. R. Berkley Corporation;Financial Services
+USA;S&P 500;WAB;Wabtec Corporation;Industrials
+USA;S&P 500;WMT;Walmart;Consumer Products
+USA;S&P 500;WBA;Walgreens Boots Alliance;Consumer Products
+USA;S&P 500;DIS;The Walt Disney Company;Communication Services
+USA;S&P 500;WM;Waste Management Inc.;Industrials
+USA;S&P 500;WAT;Waters Corporation;Health Care
+USA;S&P 500;WEC;Wec Energy Group Inc;Utilities
+USA;S&P 500;WCG;WellCare;Health Care
+USA;S&P 500;WFC;Wells Fargo;Financial Services
+USA;S&P 500;WELL;Welltower Inc.;Real Estate
+USA;S&P 500;WDC;Western Digital;Information Technology
+USA;S&P 500;WU;Western Union Co;Information Technology
+USA;S&P 500;WRK;WestRock;Materials
+USA;S&P 500;WY;Weyerhaeuser;Real Estate
+USA;S&P 500;WHR;Whirlpool Corp.;Consumer Products
+USA;S&P 500;WMB;Williams Cos.;Energy
+USA;S&P 500;WLTW;Willis Towers Watson;Financial Services
+USA;S&P 500;WYNN;Wynn Resorts Ltd;Consumer Products
+USA;S&P 500;XEL;Xcel Energy Inc;Utilities
+USA;S&P 500;XRX;Xerox;Information Technology
+USA;S&P 500;XLNX;Xilinx;Information Technology
+USA;S&P 500;XYL;Xylem Inc.;Industrials
+USA;S&P 500;YUM;Yum! Brands Inc;Consumer Products
+USA;S&P 500;ZBRA;Zebra Technologies;Information Technology
+USA;S&P 500;ZBH;Zimmer Biomet Holdings;Health Care
+USA;S&P 500;ZION;Zions Bancorp;Financial Services
+USA;S&P 500;ZTS;Zoetis;Health Care
+India;BSE SENSEX;ASIANPAINT.BO;Asian Paints;Paints & Varnishes
+India;BSE SENSEX;AXISBANK.BO;Axis Bank;Banking
+India;BSE SENSEX;BAJAJ-AUTO.BO;Bajaj Auto;Automotives
+India;BSE SENSEX;BAJFINANCE.BO;Bajaj Finance;Finance
+India;BSE SENSEX;BHARTIARTL.BO;Bharti Airtel;Telecommunications
+India;BSE SENSEX;HCLTECH.BO;HCL Technologies Ltd;Software
+India;BSE SENSEX;HDFCBANK.BO;HDFC Bank;Banking
+India;BSE SENSEX;HEROMOTOCO.BO;Hero MotoCorp;Automotives
+India;BSE SENSEX;HINDUNILVR.BO;Hindustan Unilever;Personal Care
+India;BSE SENSEX;HDFC.BO;Housing Development Finance Corporation;Finance
+India;BSE SENSEX;ICICIBANK.BO;ICICI Bank;Banking
+India;BSE SENSEX;INDUSINDBK.BO;IndusInd Bank;Banking
+India;BSE SENSEX;INFY.BO;Infosys;Software
+India;BSE SENSEX;ITC.BO;ITC;Cigarettes & FMCG
+India;BSE SENSEX;KOTAKBANK.BO;Kotak Mahindra Bank;Banking
+India;BSE SENSEX;LT.BO;Larsen & Toubro;Infrastructure
+India;BSE SENSEX;M&M.BO;Mahindra & Mahindra;Automotives
+India;BSE SENSEX;MARUTI.BO;Maruti Suzuki;Automotives
+India;BSE SENSEX;NESTLEIND.BO;Nestle India Ltd;food products
+India;BSE SENSEX;NTPC.BO;NTPC;Power
+India;BSE SENSEX;ONGC.BO;Oil and Natural Gas Corporation;Oil & Gas
+India;BSE SENSEX;POWERGRID.BO;Power Grid Corporation of India;Power
+India;BSE SENSEX;RELIANCE.BO;Reliance Industries;Conglomerate
+India;BSE SENSEX;SBIN.BO;State Bank of India;Banking
+India;BSE SENSEX;SUNPHARMA.BO;Sun Pharmaceutical;Pharmaceutical
+India;BSE SENSEX;TCS.BO;Tata Consultancy Services;Software
+India;BSE SENSEX;TATASTEEL.BO;Tata Steel;Steel
+India;BSE SENSEX;TECHM.BO;Tech Mahindra Ltd;Software
+India;BSE SENSEX;TITAN.NS;Titan Co Ltd;Consumer Products
+India;BSE SENSEX;ULTRACEMCO.BO;UltraTech Cement Ltd;Cement
+India;BSE SENSEX;WIPRO.BO;Wipro Limited;Software
+India;BSE SENSEX;BHEL.BO;Bharat Heavy Electricals Limited;Energy
+India;BSE SENSEX;CIPLA.BO;Cipla Limited;Pharmaceutical
+India;BSE SENSEX;LUPIN.BO;Lupin Limited;Pharmaceutical
+Switzerland;SPI;ADXN.SW;Addex Pharmaceuticals;Healthcare
+Switzerland;SPI;ADVN.SW;Adval Tech Holding;Automotives
+Switzerland;SPI;AEVS.SW;Aevis Victoria;Investments
+Switzerland;SPI;AIRE.SW;Airesis;Investments		
+Switzerland;SPI;ALLN.SW;Allreal Holding;Real Estate	
+Switzerland;SPI;ALSN.SW;ALSO Holding;Logistics		
+Switzerland;SPI;AFP.SW;Aluflexpack;Packaging
+Switzerland;SPI;AMS.SW;ams AG;Semiconductors
+Switzerland;SPI;APGN.SW;APG SGA AG;Advertising
+Switzerland;SPI;ARBN.SW;Arbonia;Construction
+Switzerland;SPI;ARON.SW;Arundel;Financial Services
+Switzerland;SPI;ARYN.SW;Aryzta;Foods
+Switzerland;SPI;ASCN.SW;Ascom;Telecommunications
+Switzerland;SPI;ASWN.SW;ASmallWorld;Social Media
+Switzerland;SPI;AUTN.SW;Autoneum;Automotives
+Switzerland;SPI;BANB.SW;Bachem Holding;Chemicals
+Switzerland;SPI;BALN.SW;Bâloise;Financial Services
+Switzerland;SPI;BPDG.SW;Banque Profil de Gestion;Banking
+Switzerland;SPI;BARN.SW;Barry Callebaut;Foods
+Switzerland;SPI;BLKB.SW;Basellandschaftliche Kantonalbank;Banking
+Switzerland;SPI;BSLN.SW;Basilea Pharmaceutica;Healthcare
+Switzerland;SPI;BSKP.SW;Basler Kantonalbank;Banking
+Switzerland;SPI;BION.SW;BB Biotech;Investments
+Switzerland;SPI;BCGE.SW;Banque Cantonale de Genève;Banking
+Switzerland;SPI;BCJ.SW;Banque Cantonale du Jura;Banking
+Switzerland;SPI;BCVN.SW;Banque Cantonale Vaudoise;Banking
+Switzerland;SPI;BEKN.SW;Berner Kantonalbank;Banking
+Switzerland;SPI;BEAN.SW;Belimo Holding;Heating, ventilation, and air conditioning
+Switzerland;SPI;BELL.SW;Bell Food Group;Foods
+Switzerland;SPI;BBN.SW;Bellevue Group;Banking
+Switzerland;SPI;BLIN.SW;BFW Liegenschaften;Real Estates
+Switzerland;SPI;LINN.SW;Bank Linth LLB;Banking
+Switzerland;SPI;BKW.SW;BKW Energie;Entergy
+Switzerland;SPI;BLS.SW;Blackstone Resources AG;Energy
+Switzerland;SPI;BOBNN.SW;Bobst Group;Packaging
+Switzerland;SPI;BOSN.SW;Bossard Holding;Fastening Technology
+Switzerland;SPI;BUCN.SW;Bucher Industries;Mechanical Engineering
+Switzerland;SPI;BCHN.SW;Burckhardt Compression;Compressor technology
+Switzerland;SPI;BRKN.SW;Burkhalter Holding;Electrical Engineering
+Switzerland;SPI;BVZN.SW;BVZ Holding;Transportation
+Switzerland;SPI;CALN.SW;Calida;Clothing
+Switzerland;SPI;SKIN.SW;Cassiopea;Healthcare
+Switzerland;SPI;CMBN.SW;Cembra Money Bank;Banking
+Switzerland;SPI;CIE.SW;CI Com;Financial Services
+Switzerland;SPI;CICN.SW;Cicor Technologies;Electronics			
+Switzerland;SPI;CFT.SW;Compagnie financière Tradition;Financial Services
+Switzerland;SPI;CLN.SW;Clariant;Chemicals
+Switzerland;SPI;CLTN.SW;Coltene Holding;Healthcare			
+Switzerland;SPI;COTN.SW;Comet Holding;Electronics
+Switzerland;SPI;CON.SW;Conzzeta AG;Discretionary
+Switzerland;SPI;COPN.SW;Cosmo Pharmaceuticals;Healthcare
+Switzerland;SPI;CPHN.SW;CPH Chemie + Papier;Packaging
+Switzerland;SPI;CLXN.SW;Crealogix Holding;Software
+Switzerland;SPI;DAE.SW;Dätwyler Holding;Industrials
+Switzerland;SPI;DKSH.SW;DKSH;Market Expansion Services
+Switzerland;SPI;DOKA.SW;Dormakaba;Security technology
+Switzerland;SPI;DUFN.SW;Dufry;Travel Retail
+Switzerland;SPI;ESUN.SW;Edisun Power;Renewables
+Switzerland;SPI;EFGN.SW;EFG International;Financial Services
+Switzerland;SPI;ELMN.SW;Elma Electronic;Electronics
+Switzerland;SPI;EMMN.SW;Emmi;Foods
+Switzerland;SPI;EMSN.SW;Ems-Chemie;Chemicals
+Switzerland;SPI;EVE.SW;Evolva;Healthcare
+Switzerland;SPI;FTON.SW;Feintool International Holding;Fine Blanking Technology
+Switzerland;SPI;FI-N.SW;Georg Fischer;Manufacturing
+Switzerland;SPI;FHZN.SW;Flughafen Zürich AG;Airport Services
+Switzerland;SPI;FORN.SW;Forbo Holding;Manufacturing
+Switzerland;SPI;FREN.SW;Fundamenta Real Estate AG;Real Estates
+Switzerland;SPI;GALE.SW;Galenica;Healthcare
+Switzerland;SPI;GAM.SW;GAM;Financial Services
+Switzerland;SPI;GAV.SW;Carlo Gavazzi Holding;Consumer Products
+Switzerland;SPI;GLKBN.SW;Glarner Kantonalbank;Banking
+Switzerland;SPI;GMI.SW;Groupe Minoteries;Consumer Products
+Switzerland;SPI;GRKP.SW;Graubündner Kantonalbank;Banking
+Switzerland;SPI;GUR.SW;Gurit Holding;Chemicals
+Switzerland;SPI;HELN.SW;Helvetia;Insurance
+Switzerland;SPI;HIAG.SW;HIAG Immobilien;Real Estate
+Switzerland;SPI;HLEE.SW;Highlight Event and Entertainment;Media
+Switzerland;SPI;HOCN.SW;Hochdorf Holding;Foods
+Switzerland;SPI;HUBN.SW;Huber+Suhner;Electrical Equipment
+Switzerland;SPI;HBLN.SW;Hypothekarbank Lenzburg;Banking
+Switzerland;SPI;IDIA.SW;Idorsia;Biotechnology
+Switzerland;SPI;IMPN.SW;Implenia;Engineering & Construction Svcs
+Switzerland;SPI;IFCN.SW;Inficon;Semiconductors
+Switzerland;SPI;INRN.SW;Interroll Holding;Machinery
+Switzerland;SPI;ISN.SW;Intershop Holding;Real Estate
+Switzerland;SPI;IREN.SW;Investis;Internet
+Switzerland;SPI;VBSN.SW;IVF Hartmann Holding;Healthcare
+Switzerland;SPI;BAER.SW;Julius Bär;Banking
+Switzerland;SPI;JFN.SW;Jungfraubahn;Transportation
+Switzerland;SPI;KARN.SW;Kardex Group;Machinery
+Switzerland;SPI;KLIN.SW;Klingelnberg;Machinery
+Switzerland;SPI;KOMN.SW;Komax Holding;Machinery			
+Switzerland;SPI;KUD.SW;Kudelski;Software
+Switzerland;SPI;KNIN.SW;Kühne + Nagel;Logistics
+Switzerland;SPI;KURN.SW;Kuros Biosciences;Biotechnology
+Switzerland;SPI;LLQ.SW;Lalique Group;Consumer Products
+Switzerland;SPI;LAND.SW;Landis+Gyr;Electronics
+Switzerland;SPI;LMN.SW;lastminute.com;Travel
+Switzerland;SPI;LECN.SW;Leclanché;Renewable Energy			
+Switzerland;SPI;LEHN.SW;Lem Holding;Electrical Equipment			
+Switzerland;SPI;LEON.SW;Leonteq;Financial Services
+Switzerland;SPI;LLBN.SW;Liechtensteinische Landesbank;Banking
+Switzerland;SPI;LISN.SW;Lindt & Sprüngli;Clothing
+Switzerland;SPI;LISP.SW;Lindt & Sprüngli;Clothing
+Switzerland;SPI;LOGN.SW;Logitech;Electronics
+Switzerland;SPI;LUMX.SW;LumX Group;Financial Services
+Switzerland;SPI;LUKN.SW;Luzerner Kantonalbank;Banking
+Switzerland;SPI;MCHN.SW;MCH Group;Consumer Products
+Switzerland;SPI;MOVE.SW;Medacta Group;Healthcare
+Switzerland;SPI;MED.SW;Medartis;Healthcare
+Switzerland;SPI;MTG.SW;Meier Tobler;Electrical Equipment
+Switzerland;SPI;METN.SW;Metall Zug;Consumer Products
+Switzerland;SPI;MBTN.SW;Meyer Burger Technology;Machinery
+Switzerland;SPI;MIKN.SW;Mikron Holding;Machinery
+Switzerland;SPI;MOZN.SW;Mobilezone;Consumer Products
+Switzerland;SPI;MOBN.SW;Mobimo Holding;Real Estate
+Switzerland;SPI;MOLN.SW;Molecular Partners;Biotechnology
+Switzerland;SPI;NWRN.SW;Newron Pharmaceuticals;Healthcare
+Switzerland;SPI;NREN.SW;Novavest Real Estate;Real Estate
+Switzerland;SPI;OFN.SW;Orell Füssli;Consumer Products
+Switzerland;SPI;OBSN.SW;ObsEva SA;Healthcare
+Switzerland;SPI;OERL.SW;OC Oerlikon;Construction
+Switzerland;SPI;ODHN.SW;Orascom Development Holding;Real Estate
+Switzerland;SPI;ORON.SW;Orior;Foods
+Switzerland;SPI;PARG.SW;Pargesa Holding;Energy§
+Switzerland;SPI;PGHN.SW;Partners Group;Private Equity
+Switzerland;SPI;PEAN.SW;Peach Property;Real Estate
+Switzerland;SPI;PRFN.SW;Perfect Holding;Transportation
+Switzerland;SPI;PEDU.SW;Perrot Duval Holding;Machinery
+Switzerland;SPI;PM.SW;Phoenix Mecano;Industrial Electronics
+Switzerland;SPI;PMAG.SW;Pierer Mobility;Automotives
+Switzerland;SPI;PLAN.SW;Plazza;Real Estate
+Switzerland;SPI;PNHO.SW;Poenina Holding;Consumer Products
+Switzerland;SPI;POLN.SW;Polyphor;Healthcare
+Switzerland;SPI;PEHN.SW;Private Equity Holding;Private Equity		
+Switzerland;SPI;PSPN.SW;PSP Swiss Property;Real Estate
+Switzerland;SPI;RLF.SW;Relief Therapeutics;Healthcare
+Switzerland;SPI;RIEN.SW;Rieter;Machinery			
+Switzerland;SPI;HREN.SW;Romande Energie Holding;Entergy
+Switzerland;SPI;SANN.SW;Santhera Pharmaceuticals Holding;Healthcare
+Switzerland;SPI;SAHN.SW;Schaffner Holding;Electrical Equipment
+Switzerland;SPI;SCHN.SW;Schindler;Transportation
+Switzerland;SPI;SCHP.SW;Schindler;Transportation
+Switzerland;SPI;STRN.SW;Schlatter Holding;Machinery
+Switzerland;SPI;STLN.SW;Schmolz + Bickenbach;Steel
+Switzerland;SPI;SWTQ.SW;Schweiter Technologies;Machinery
+Switzerland;SPI;SENS.SW;Sensirion Holding;Semiconductors
+Switzerland;SPI;SFPN.SW;SF Urban Properties;Real Estate
+Switzerland;SPI;SFSN.SW;SFS Group;Fastening Systems
+Switzerland;SPI;SFZN.SW;Siegfried Holding;Healthcare
+Switzerland;SPI;SIGN.SW;SIG Combibloc Services AG;Biotechnology
+Switzerland;SPI;SNBN.SW;Schweizerische Nationalbank;Financial Services
+Switzerland;SPI;SWON.SW;SoftwareONE;Software
+Switzerland;SPI;SOON.SW;Sonova;Healthcare
+Switzerland;SPI;SPCE.SW;Spice Private Equity;Private Equity
+Switzerland;SPI;SGKN.SW;St.Galler Kantonalbank;Banking
+Switzerland;SPI;SRAIL.SW;Stadler Rail;Train Manufacturing
+Switzerland;SPI;STGN.SW;Starrag Group;Machinery
+Switzerland;SPI;STMN.SW;Straumann Group;Healthcare
+Switzerland;SPI;SUN.SW;Sulzer AG;Industrial Engineering
+Switzerland;SPI;SRCG.SW;Sunrise;Telecommunications
+Switzerland;SPI;UHRN.SW;Swatch Group;Manufacturing
+Switzerland;SPI;SPSN.SW;Swiss Prime Site;Real Estate
+Switzerland;SPI;SQN.SW;Swissquote;Financial Services
+Switzerland;SPI;TECN.SW;Tecan;Healthcare
+Switzerland;SPI;TEMN.SW;Temenos Group;Software
+Switzerland;SPI;TKBP.SW;Thurgauer Kantonalbank;Banking
+Switzerland;SPI;TIBN.SW;Titlis Bergbahnen;Transportation
+Switzerland;SPI;TOHN.SW;Tornos Holding;Machinery
+Switzerland;SPI;TXGN.SW;TX Group;Media
+Switzerland;SPI;UBXN.SW;U-blox;Software
+Switzerland;SPI;VLRT.SW;Valartis Group;Financial Services
+Switzerland;SPI;VATN.SW;Valiant Holding;Banking
+Switzerland;SPI;VALN.SW;Valora;Consumer Products
+Switzerland;SPI;VARN.SW;Varia US Properties;Real Estate
+Switzerland;SPI;VACN.SW;VAT Group;Industrials
+Switzerland;SPI;VAHN.SW;Vaudoise Assurances;Insurance			
+Switzerland;SPI;VET.SW;Vetropack Holding;Packaging
+Switzerland;SPI;VIFN.SW;Vifor Pharma;Healthcare
+Switzerland;SPI;VILN.SW;Villars Holding;Consumer Products
+Switzerland;SPI;ROL.SW;Von Roll Holding AG;Electrical Equipment			
+Switzerland;SPI;VONN.SW;Vontobel;Banking
+Switzerland;SPI;VPBN.SW;VP Bank;Banking
+Switzerland;SPI;VZN.SW;VZ Holding;Financial Services
+Switzerland;SPI;WKBN.SW;Walliser Kantonalbank;Banking
+Switzerland;SPI;WARN.SW;Warteck Invest;Investments
+Switzerland;SPI;WIHN.SW;WISeKey;Cyber Security
+Switzerland;SPI;YPSN.SW;Ypsomed Holding;Healthcare
+Switzerland;SPI;ZEHN.SW;Zehnder Group;Electrical Equipment
+Switzerland;SPI;ZUBN.SW;Züblin Immobilien Holding;Real Estate
+Switzerland;SPI;ZUGN.SW;Zug Estates;Real Estate
+Switzerland;SPI;ZG.SW;Zuger Kantonalbank;Banking
+Switzerland;SPI;ROSE.SW;Zur Rose Group;Healthcare
+Switzerland;SPI;ZWM.SW;Zwahlen et Mayr;Steel

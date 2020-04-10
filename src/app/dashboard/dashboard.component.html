@@ -16,18 +16,12 @@
           </mat-card-title>
         </mat-card-header>
         <mat-card-content class="dashboard-card-content">
-          <div *ngIf="card.title==='Takeover'">
-                      
+          <div *ngIf="card.title==='Looser'">       
             <app-tab-one></app-tab-one>
-               
           </div>
-
-          <div *ngIf="card.title==='Economic Data'">
-                      
-            Economy {{card.content}}
-               
+          <div *ngIf="card.title==='Winner'">                      
+            <app-tab-two></app-tab-two>               
           </div>
-
         </mat-card-content>
       </mat-card>
     </mat-grid-tile>

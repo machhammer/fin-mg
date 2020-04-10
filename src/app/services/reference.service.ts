@@ -5,7 +5,8 @@ import { Index } from '../models/index';
 
 import { environment } from '../../environments/environment';
 import { Observable } from 'rxjs';
-import { map } from 'rxjs/operators';
+import { map, tap } from 'rxjs/operators';
+
 
 
 @Injectable({ providedIn: 'root' })
@@ -14,13 +15,26 @@ export class ReferenceService {
 
     getIndices() {
         return this.http
-            .get(`http://localhost:8000/indices`)
+            .get(environment.serverUrl + `/indices`)
             
     }
 
     getEquities() {
         return this.http
-            .get(`http://localhost:8000/equities`)
+            .get(environment.serverUrl + `/equities`)
             
     }
+
+    getLooser() {
+        return this.http
+            .get(environment.serverUrl + `/looser`)
+            
+    }
+
+    getWinner() {
+        return this.http
+            .get(environment.serverUrl + `/winner`)
+            
+    }
+
 }

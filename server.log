@@ -1,3 +1,54 @@
-2020-01-01 22:38:44,447 - server.py - INFO - Start fin-mg Server
-2020-01-01 22:38:44,452 - _internal.py - WARNING -  * Debugger is active!
-2020-01-01 22:38:44,547 - _internal.py - INFO -  * Debugger PIN: 258-364-798
+2020-04-09 17:58:44,950 - server.py - INFO - Start fin-mg Server
+2020-04-09 17:58:45,041 - _internal.py - WARNING -  * Debugger is active!
+2020-04-09 17:58:45,110 - _internal.py - INFO -  * Debugger PIN: 258-364-798
+2020-04-09 17:59:04,814 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 17:59:04] "[37mGET /countries HTTP/1.1[0m" 200 -
+2020-04-09 17:59:04,820 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 17:59:04] "[37mGET /sectors HTTP/1.1[0m" 200 -
+2020-04-09 17:59:04,828 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 17:59:04] "[37mGET /country_performance HTTP/1.1[0m" 200 -
+2020-04-09 17:59:05,537 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 17:59:05] "[37mGET /performance/1 HTTP/1.1[0m" 200 -
+2020-04-09 17:59:05,571 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 17:59:05] "[37mGET /performance_per_equity/AAPL&Date HTTP/1.1[0m" 200 -
+2020-04-09 17:59:06,674 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 17:59:06] "[37mGET /performance/21 HTTP/1.1[0m" 200 -
+2020-04-09 18:05:38,133 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:38] "[37mGET /performance_per_equity/PRN_AX&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:05:46,550 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:46] "[37mGET /performance_per_equity/EVE_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:05:46,580 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:46] "[37mGET /performance_per_equity/PRN_AX&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:05:49,389 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:49] "[37mGET /performance_per_equity/EVE_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:05:49,804 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:49] "[37mGET /performance_per_equity/EVE_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:05:50,936 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:50] "[37mGET /performance_per_equity/EVE_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:05:51,383 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:51] "[37mGET /performance_per_equity/EVE_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:05:53,096 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:53] "[37mGET /performance_per_equity/KGF_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:05:53,127 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:53] "[37mGET /performance_per_equity/EVE_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:05:57,711 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:57] "[37mGET /performance_per_equity/KGF_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:05:57,742 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:05:57] "[37mGET /performance_per_equity/III_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:01,939 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:01] "[37mGET /performance_per_equity/KGF_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:01,996 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:01] "[37mGET /performance_per_equity/III_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:02,030 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:02] "[37mGET /performance_per_equity/TW_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:05,199 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:05] "[37mGET /performance_per_equity/KGF_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:05,243 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:05] "[37mGET /performance_per_equity/III_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:05,284 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:05] "[37mGET /performance_per_equity/TW_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:05,316 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:05] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:09,260 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:09] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:09,287 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:09] "[37mGET /performance_per_equity/III_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:09,321 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:09] "[37mGET /performance_per_equity/KGF_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:10,064 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:10] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:10,100 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:10] "[37mGET /performance_per_equity/KGF_L&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:10,494 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:10] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:10,900 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:10] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:11,308 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:11] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:11,702 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:11] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:12,124 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:12] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:12,523 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:12] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:12,925 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:12] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:19,366 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:19] "[37mGET /performance_per_equity/HSE_TO&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:19,393 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:19] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:19,775 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:19] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:20,177 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:20] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:24,211 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:24] "[37mGET /performance_per_equity/HSE_TO&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:24,246 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:24] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:24,931 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:24] "[37mGET /performance_per_equity/HSE_TO&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:24,970 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:24] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:26,837 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:26] "[37mGET /performance_per_equity/MAG_TO&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:26,869 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:26] "[37mGET /performance_per_equity/HSE_TO&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:26,900 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:26] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:27,281 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:27] "[37mGET /performance_per_equity/RLF_SW&Date HTTP/1.1[0m" 200 -
+2020-04-09 18:06:44,165 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:44] "[37mGET /countries HTTP/1.1[0m" 200 -
+2020-04-09 18:06:44,176 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:44] "[37mGET /sectors HTTP/1.1[0m" 200 -
+2020-04-09 18:06:44,567 - _internal.py - INFO - 192.168.1.104 - - [09/Apr/2020 18:06:44] "[37mGET /equities HTTP/1.1[0m" 200 -

@@ -3,6 +3,7 @@ import { map } from 'rxjs/operators';
 import { Breakpoints, BreakpointObserver } from '@angular/cdk/layout';
 import { DomSanitizer } from '@angular/platform-browser';
 
+
 @Component({
   selector: 'app-dashboard',
   templateUrl: './dashboard.component.html',
@@ -14,16 +15,16 @@ export class DashboardComponent {
     map(({ matches }) => {
       if (matches) {
         return [
-          { title: 'Takeover', cols: 1, rows: 1, content: 'hallo1'},
-          { title: 'Economic Data', cols: 1, rows: 1, content: '' },
-          { title: 'Card 3', cols: 1, rows: 1, content: 'hallo3' },
-          { title: 'Card 4', cols: 1, rows: 1, content: 'hallo4' }
+          { title: 'Looser', cols: 2, rows: 1, content: 'hallo1'},
+          { title: 'Winner', cols: 2, rows: 1, content: '' },
+          { title: 'Card 3', cols: 2, rows: 1, content: 'hallo3' },
+          { title: 'Card 4', cols: 2, rows: 1, content: 'hallo4' }
         ];
       }
 
       return [
-        { title: 'Takeover', cols: 1, rows: 1, content: 'hallo5' },
-        { title: 'Economic Data', cols: 1, rows: 1, content: 'hallo6' },
+        { title: 'Looser', cols: 1, rows: 1, content: 'hallo5' },
+        { title: 'Winner', cols: 1, rows: 1, content: 'hallo6' },
         { title: 'Card 3', cols: 1, rows: 1, content: 'hallo7' },
         { title: 'Card 4', cols: 1, rows: 1, content: 'hallo8' }
       ];

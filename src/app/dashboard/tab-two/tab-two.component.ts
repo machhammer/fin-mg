@@ -4,13 +4,12 @@ import {MatPaginator, MatTableDataSource, MatSort} from '@angular/material';
 
 import {Equity} from '../../models/equity'
 
-
 @Component({
-  selector: 'app-tab-one',
-  templateUrl: './tab-one.component.html',
-  styleUrls: ['./tab-one.component.css']
+  selector: 'app-tab-two',
+  templateUrl: './tab-two.component.html',
+  styleUrls: ['./tab-two.component.css']
 })
-export class TabOneComponent implements OnInit {
+export class TabTwoComponent implements OnInit {
 
   displayedColumns: string[] = ['symbol', 'company', 'country', 'sector', 'performance'];
 
@@ -24,7 +23,7 @@ export class TabOneComponent implements OnInit {
 
   ngOnInit() {
 
-    this.referenceService.getLooser().subscribe((res: Equity[]) => {
+    this.referenceService.getWinner().subscribe((res: Equity[]) => {
       this.equities = res
       this.equities_datasource.data = this.equities;
     })

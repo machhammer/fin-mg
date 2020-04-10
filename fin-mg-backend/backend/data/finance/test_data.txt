@@ -1,0 +1,195 @@
+Switzerland;SPI;ADXN.SW;Addex Pharmaceuticals;Healthcare
+Switzerland;SPI;ADVN.SW;Adval Tech Holding;Automotive		
+Switzerland;SPI;AEVS.SW;Aevis Victoria;Investments
+Switzerland;SPI;AIRE.SW;Airesis;Investments		
+Switzerland;SPI;ALLN.SW;Allreal Holding;Real Estate	
+Switzerland;SPI;ALSN.SW;ALSO Holding;Logistics		
+Switzerland;SPI;AFP.SW;Aluflexpack;Packaging
+Switzerland;SPI;AMS.SW;ams AG;Semiconductors
+Switzerland;SPI;APGN.SW;APG SGA AG;Advertising
+Switzerland;SPI;ARBN.SW;Arbonia;Building Supplies
+Switzerland;SPI;ARON.SW;Arundel;Financial Services
+Switzerland;SPI;ARYN.SW;Aryzta;Foods
+Switzerland;SPI;ASCN.SW;Ascom;Telecommunications
+Switzerland;SPI;ASWN.SW;ASmallWorld;Social Media
+Switzerland;SPI;AUTN.SW;Autoneum;Automotive
+Switzerland;SPI;BANB.SW;Bachem Holding;Chemicals
+Switzerland;SPI;BALN.SW;Bâloise;Financial Services
+Switzerland;SPI;BPDG.SW;Banque Profil de Gestion;Banking
+Switzerland;SPI;BARN.SW;Barry Callebaut;Foods
+Switzerland;SPI;BLKB.SW;Basellandschaftliche Kantonalbank;Banking
+Switzerland;SPI;BSLN.SW;Basilea Pharmaceutica;Healthcare
+Switzerland;SPI;BSKP.SW;Basler Kantonalbank;Banking
+Switzerland;SPI;BION.SW;BB Biotech;Investments
+Switzerland;SPI;BCGE.SW;Banque Cantonale de Genève;Banking
+Switzerland;SPI;BCJ.SW;Banque Cantonale du Jura;Banking
+Switzerland;SPI;BCVN.SW;Banque Cantonale Vaudoise;Banking
+Switzerland;SPI;BEKN.SW;Berner Kantonalbank;Banking
+Switzerland;SPI;BEAN.SW;Belimo Holding;Heating, ventilation, and air conditioning
+Switzerland;SPI;BELL.SW;Bell Food Group;Foods
+Switzerland;SPI;BBN.SW;Bellevue Group;Banking
+Switzerland;SPI;BLIN.SW;BFW Liegenschaften;Real Estates
+Switzerland;SPI;LINN.SW;Bank Linth LLB;Banking
+Switzerland;SPI;BKW.SW;BKW Energie;Entergy
+Switzerland;SPI;BLS.SW;Blackstone Resources AG;Energy
+Switzerland;SPI;BOBNN.SW;Bobst Group;Packaging
+Switzerland;SPI;BOSN.SW;Bossard Holding;Fastening Technology
+Switzerland;SPI;BUCN.SW;Bucher Industries;Mechanical Engineering
+Switzerland;SPI;BCHN.SW;Burckhardt Compression;Compressor technology
+Switzerland;SPI;BRKN.SW;Burkhalter Holding;Electrical Engineering
+Switzerland;SPI;BVZN.SW;BVZ Holding;Transportation
+Switzerland;SPI;CALN.SW;Calida;Clothing
+Switzerland;SPI;SKIN.SW;Cassiopea;Healthcare
+Switzerland;SPI;CMBN.SW;Cembra Money Bank;Banking
+Switzerland;SPI;CIE.SW;CI Com;Financial Service
+Switzerland;SPI;CICN.SW;Cicor Technologies;Electronics			
+Switzerland;SPI;CFT.SW;Compagnie financière Tradition;Financial Services
+Switzerland;SPI;CLN.SW;Clariant;Chemicals
+Switzerland;SPI;CLTN.SW;Coltene Holding;Healthcare			
+Switzerland;SPI;COTN.SW;Comet Holding;Electronics
+Switzerland;SPI;CON.SW;Conzzeta AG;Discretionary
+Switzerland;SPI;COPN.SW;Cosmo Pharmaceuticals;Healthcare
+Switzerland;SPI;CPHN.SW;CPH Chemie + Papier;Packaging
+Switzerland;SPI;CLXN.SW;Crealogix Holding;Software
+Switzerland;SPI;DAE.SW;Dätwyler Holding;Industrials
+Switzerland;SPI;DKSH.SW;DKSH;Market Expansion Services
+Switzerland;SPI;DOKA.SW;Dormakaba;Security technology
+Switzerland;SPI;DUFN.SW;Dufry;Travel Retail
+Switzerland;SPI;ESUN.SW;Edisun Power;Renewables
+Switzerland;SPI;EFGN.SW;EFG International;Financial Services
+Switzerland;SPI;ELMN.SW;Elma Electronic;Electronics
+Switzerland;SPI;EMMN.SW;Emmi;Foods
+Switzerland;SPI;EMSN.SW;Ems-Chemie;Chemicals
+Switzerland;SPI;EVE.SW;Evolva;Healthcare
+Switzerland;SPI;FTON.SW;Feintool International Holding;Fine Blanking Technology
+Switzerland;SPI;FI-N.SW;Georg Fischer;Manufacturing
+Switzerland;SPI;FHZN.SW;Flughafen Zürich AG;Airport operator
+Switzerland;SPI;FORN.SW;Forbo Holding;Manufacturing
+Switzerland;SPI;FREN.SW;Fundamenta Real Estate AG;Real Estates
+Switzerland;SPI;GALE.SW;Galenica;Healthcare
+Switzerland;SPI;GAM.SW;GAM;Financial Services
+Switzerland;SPI;GAV.SW;Carlo Gavazzi Holding;Consumer Discretionary
+Switzerland;SPI;GLKBN.SW;Glarner Kantonalbank;Banking
+Switzerland;SPI;GMI.SW;Groupe Minoteries;Consumer Staples
+Switzerland;SPI;GRKP.SW;Graubündner Kantonalbank;Banking
+Switzerland;SPI;GUR.SW;Gurit Holding;Chemicals
+Switzerland;SPI;HELN.SW;Helvetia;Insurance
+Switzerland;SPI;HIAG.SW;HIAG Immobilien;Real Estate
+Switzerland;SPI;HLEE.SW;Highlight Event and Entertainment;Media
+Switzerland;SPI;HOCN.SW;Hochdorf Holding;Foods
+Switzerland;SPI;HUBN.SW;Huber+Suhner;Electrical Equipment
+Switzerland;SPI;HBLN.SW;Hypothekarbank Lenzburg;Banking
+Switzerland;SPI;IDIA.SW;Idorsia;Biotech
+Switzerland;SPI;IMPN.SW;Implenia;Engineering & Construction Svcs
+Switzerland;SPI;IFCN.SW;Inficon;Semiconductors
+Switzerland;SPI;INRN.SW;Interroll Holding;Machinery
+Switzerland;SPI;ISN.SW;Intershop Holding;Real Estate
+Switzerland;SPI;IREN.SW;Investis;Internet
+Switzerland;SPI;VBSN.SW;IVF Hartmann Holding;Healthcare
+Switzerland;SPI;BAER.SW;Julius Bär;Banking
+Switzerland;SPI;JFN.SW;Jungfraubahn;Transportation
+Switzerland;SPI;KARN.SW;Kardex Group;Machinery
+Switzerland;SPI;KLIN.SW;Klingelnberg;Machinery
+Switzerland;SPI;KOMN.SW;Komax Holding;Machinery			
+Switzerland;SPI;KUD.SW;Kudelski;Software
+Switzerland;SPI;KNIN.SW;Kühne + Nagel;Logistics
+Switzerland;SPI;KURN.SW;Kuros Biosciences;Biotech
+Switzerland;SPI;LLQ.SW;Lalique Group;Consumer Products
+Switzerland;SPI;LAND.SW;Landis+Gyr;Electronics
+Switzerland;SPI;LMN.SW;lastminute.com;Travel
+Switzerland;SPI;LECN.SW;Leclanché;Renewable Energy			
+Switzerland;SPI;LEHN.SW;Lem Holding;Electrical Equipment			
+Switzerland;SPI;LEON.SW;Leonteq;Financial Services
+Switzerland;SPI;LLBN.SW;Liechtensteinische Landesbank;Banking
+Switzerland;SPI;LISN.SW;Lindt & Sprüngli;Confectionery
+Switzerland;SPI;LISP.SW;Lindt & Sprüngli;Confectionery
+Switzerland;SPI;LOGN.SW;Logitech;Consumer Electronics
+Switzerland;SPI;LUMX.SW;LumX Group;Financial Services
+Switzerland;SPI;LUKN.SW;Luzerner Kantonalbank;Banking
+Switzerland;SPI;MCHN.SW;MCH Group;Consumer Discretionary
+Switzerland;SPI;MOVE.SW;Medacta Group;Healthcare
+Switzerland;SPI;MED.SW;Medartis;Healthcare
+Switzerland;SPI;MTG.SW;Meier Tobler;Electrical Equipment
+Switzerland;SPI;METN.SW;Metall Zug;Consumer Discretionary
+Switzerland;SPI;MBTN.SW;Meyer Burger Technology;Machinery
+Switzerland;SPI;MIKN.SW;Mikron Holding;Machinery
+Switzerland;SPI;MOZN.SW;Mobilezone;Consumer Discretionary
+Switzerland;SPI;MOBN.SW;Mobimo Holding;Real Estate
+Switzerland;SPI;MOLN.SW;Molecular Partners;Biotech
+Switzerland;SPI;NWRN.SW;Newron Pharmaceuticals;Healthcare
+Switzerland;SPI;NREN.SW;Novavest Real Estate;Real Estate
+Switzerland;SPI;OFN.SW;Orell Füssli;Consumer Discretionary
+Switzerland;SPI;OBSN.SW;ObsEva SA;Healthcare
+Switzerland;SPI;OERL.SW;OC Oerlikon;Construction
+Switzerland;SPI;ODHN.SW;Orascom Development Holding;Real Estate
+Switzerland;SPI;ORON.SW;Orior;Foods
+Switzerland;SPI;PARG.SW;Pargesa Holding;Energy§
+Switzerland;SPI;PGHN.SW;Partners Group;Private Equity
+Switzerland;SPI;PEAN.SW;Peach Property;Real Estate
+Switzerland;SPI;PRFN.SW;Perfect Holding;Transportation
+Switzerland;SPI;PEDU.SW;Perrot Duval Holding;Machinery
+Switzerland;SPI;PM.SW;Phoenix Mecano;Industrial Electronics
+Switzerland;SPI;PMAG.SW;Pierer Mobility;Automotive
+Switzerland;SPI;PLAN.SW;Plazza;Real Estate
+Switzerland;SPI;PNHO.SW;Poenina Holding;Consumer Discretionary
+Switzerland;SPI;POLN.SW;Polyphor;;Healthcare
+Switzerland;SPI;PEHN.SW;Private Equity Holding			
+Switzerland;SPI;PSPN.SW;PSP Swiss Property;Real Estate
+Switzerland;SPI;RLF.SW;Relief Therapeutics;Healthcare
+Switzerland;SPI;RIEN.SW;Rieter;Machinery			
+Switzerland;SPI;HREN.SW;Romande Energie Holding;Entergy
+Switzerland;SPI;SANN.SW;Santhera Pharmaceuticals Holding;Healthcare
+Switzerland;SPI;SAHN.SW;Schaffner Holding;Electrical Equipment
+Switzerland;SPI;SCHN.SW;Schindler;Transportation
+Switzerland;SPI;SCHP.SW;Schindler;Transportation
+Switzerland;SPI;STRN.SW;Schlatter Holding;Machinery
+Switzerland;SPI;STLN.SW;Schmolz + Bickenbach;Steel
+Switzerland;SPI;SWTQ.SW;Schweiter Technologies;Machinery
+Switzerland;SPI;SENS.SW;Sensirion Holding;Semiconductors
+Switzerland;SPI;SFPN.SW;SF Urban Properties;Real Estate
+Switzerland;SPI;SFSN.SW;SFS Group;Fastening Systems
+Switzerland;SPI;SFZN.SW;Siegfried Holding;Healthcare
+Switzerland;SPI;SIGN.SW;SIG Combibloc Services AG;Biotech
+Switzerland;SPI;SNBN.SW;Schweizerische Nationalbank;Financial Services
+Switzerland;SPI;SWON.SW;SoftwareONE;Software
+Switzerland;SPI;SOON.SW;Sonova;Healthcare
+Switzerland;SPI;SPCE.SW;Spice Private Equity;Private Equity
+Switzerland;SPI;SGKN.SW;St.Galler Kantonalbank;Banking
+Switzerland;SPI;SRAIL.SW;Stadler Rail;Train Manufacturing
+Switzerland;SPI;STGN.SW;Starrag Group;Machinery
+Switzerland;SPI;STMN.SW;Straumann Group;Healthcare
+Switzerland;SPI;SUN.SW;Sulzer AG;Industrial Engineering
+Switzerland;SPI;SRCG.SW;Sunrise;Telecommunications
+Switzerland;SPI;UHRN.SW;Swatch Group;Manufacturing
+Switzerland;SPI;SPSN.SW;Swiss Prime Site;Real Estate
+Switzerland;SPI;SQN.SW;Swissquote;Financial Services
+Switzerland;SPI;TECN.SW;Tecan;Healthcare
+Switzerland;SPI;TEMN.SW;Temenos Group;Software
+Switzerland;SPI;TKBP.SW;Thurgauer Kantonalbank;Banking
+Switzerland;SPI;TIBN.SW;Titlis Bergbahnen;Transportation
+Switzerland;SPI;TOHN.SW;Tornos Holding;Machinery
+Switzerland;SPI;TXGN.SW;TX Group;Media
+Switzerland;SPI;UBXN.SW;U-blox;Software
+Switzerland;SPI;VLRT.SW;Valartis Group;Financial Services
+Switzerland;SPI;VATN.SW;Valiant Holding;Banking
+Switzerland;SPI;VALN.SW;Valora;Consumer Discretionary
+Switzerland;SPI;VARN.SW;Varia US Properties;Real Estate
+Switzerland;SPI;VACN.SW;VAT Group;Industrials
+Switzerland;SPI;VAHN.SW;Vaudoise Assurances;Insurance			
+Switzerland;SPI;VET.SW;Vetropack Holding;Packaging
+Switzerland;SPI;VIFN.SW;Vifor Pharma;Healthcare
+Switzerland;SPI;VILN.SW;Villars Holding;Consumer Staples
+Switzerland;SPI;ROL.SW;Von Roll Holding AG;Electrical Equipment			
+Switzerland;SPI;VONN.SW;Vontobel;Banking
+Switzerland;SPI;VPBN.SW;VP Bank;Banking
+Switzerland;SPI;VZN.SW;VZ Holding;Financial Services
+Switzerland;SPI;WKB.SW;Walliser Kantonalbank;Banking
+Switzerland;SPI;WARN.SW;Warteck Invest;Investments
+Switzerland;SPI;WIHN.SW;WISeKey;Cyber Security
+Switzerland;SPI;YPSN.SW;Ypsomed Holding;Healthcare
+Switzerland;SPI;ZEHN.SW;Zehnder Group;Electrical Equipment
+Switzerland;SPI;ZUBN.SW;Züblin Immobilien Holding;Real Estate
+Switzerland;SPI;ZUGN.SW;Zug Estates;Real Estate
+Switzerland;SPI;ZG.SW;Zuger Kantonalbank;Banking
+Switzerland;SPI;ROSE.SW;Zur Rose Group;Healthcare
+Switzerland;SPI;ZWN.SW;Zwahlen et Mayr;Steel

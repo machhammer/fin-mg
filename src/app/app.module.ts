@@ -29,6 +29,7 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { AssetFinderComponent } from './asset-finder/asset-finder.component';
 import { PersonalProfileComponent } from './personal-profile/personal-profile.component';
 import { TabOneComponent } from './dashboard/tab-one/tab-one.component';
+import { TabTwoComponent } from './dashboard/tab-two/tab-two.component';
 
 @NgModule({
   declarations: [
@@ -45,7 +46,8 @@ import { TabOneComponent } from './dashboard/tab-one/tab-one.component';
     DashboardComponent,
     AssetFinderComponent,
     PersonalProfileComponent,
-    TabOneComponent
+    TabOneComponent,
+    TabTwoComponent
   ],
   imports: [
     BrowserModule,
